@@ -27,15 +27,7 @@ export default function App() {
 			<Header />
 			<SearchBar value={searchText} onChange={changeHandler} />
 				</div>
-	<div className="browse">
-        		<p>Etkinlikler </p>
-         		<p>Şehir</p>
-        	<div className="browse--buttons">
-          		<button >Şehir Değiştir</button>
-          		<button>Tarihe Göre Ara</button>
-        	</div>
-      		</div>
-
+		<Browse	/>
 		<Category />
 
     </div>

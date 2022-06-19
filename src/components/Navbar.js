@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 	<div className="navbar">
         <div className="navbar--left">
-          <ul>
+          <ul className="navbar--ul">
             <img
               className="logo"
               src="https://www.etstur.com/resources_t/img/webpush-logo.png"
@@ -15,7 +15,7 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="navbar--right">
-          <ul>
+          <ul className="navbar--ul">
             <li>Kayıt Ol</li>
           </ul>
         </div>

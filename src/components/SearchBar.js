@@ -7,7 +7,7 @@ export default function SearchBar({value, onChange}) {
 
 	return (
 		<div className={value.length > 0 ? "searchbar--main--listing" : "searchbar--main"}>
-		   <span class="search--icon">🔎︎</span>
+		   <span className="search--icon">🔎︎</span>
 		   <input 
 			   class="searchbar"
 			   type="search" name="Search"
@@ -15,9 +15,12 @@ export default function SearchBar({value, onChange}) {
 			   placeholder="İstediğiniz etkinliği arayın..." 
 			   onChange={onChange}
  			/>
-			<div className={value.length > 0 ? "dropdown--main--active" : "dropdown--main"}>
+			<div className={
+						value.length > 0 ? 
+						"dropdown--main--active" 
+						: "dropdown--main"}>
+
 				<List input={value} />
-				<Category /> 
 			</div>
 		</div>  
 	)

@@ -1,12 +1,19 @@
 import {useState} from "react";
+import List from "./List"
+import data from "./../eventData.json";
+import "./styles/category.css";
 
-export default function Category() {
-	const [category, setCategory] = useState(["Concerts", "Sports", "Theater", "Cinema"])
-
-
+let categories = ["konser", "spor", "tiyatro", "komedi"]
+export default function Category({value}) {
+	console.log(value)
+	 
 	return (
-		<div>		
-			{category.map(e => <h3>{e}</h3>)}
+		<div className="category--main">		
+			{categories.map(data_item=> 
+			<div>
+					<h2>{data_item}</h2>
+			</div>
+			)}
 		</div>
 	)
 }

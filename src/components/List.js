@@ -1,13 +1,14 @@
-import data from "./../test_data.json";
+import data from "./../eventData.json";
 
 export default function List({input}) {
-
+	console.log("data", data)
 	const filteredData = data.filter((item) => {
+		console.log("item", item);
 		if(input === "") {
 			return item;
 		}
 		else {
-			return item.eventName.toLowerCase().includes(input.toLowerCase());
+			return item.title.toLowerCase().includes(input.toLowerCase());
 		}
 	})
 
@@ -15,9 +16,7 @@ export default function List({input}) {
 		<ul>
 			{
 				filteredData.map(e => (
-					<span>{e.category} 
-					<li id={e.id}>{e.eventName}</li>
-					</span>
+					<li id={e.id}>{e.title}</li>
 				))
 			}
 		</ul>

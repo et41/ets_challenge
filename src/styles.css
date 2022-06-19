@@ -13,9 +13,8 @@ body {
 }
 .hero {
   background: url("https://c.stocksy.com/a/oxDF00/z9/3628600.jpg");
-  min-height: 500px;
+  height: 500px;
   width:100%;
-  background-position:center;
   background-size:cover;
 }
 .navbar {
@@ -143,7 +142,7 @@ body {
 }
 
 .browse {
-  margin:10px;
+  margin:20px;
   color:black;
 }
 .browse > p {
@@ -163,6 +162,6 @@ body {
    font-size:12px;
    padding:10px;
    background-color:rgb(24,24,24);
- color:white;
+  color:white;
 }
 

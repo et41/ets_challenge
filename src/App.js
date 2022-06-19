@@ -6,6 +6,7 @@ import Header from "./components/Header"
 import SearchBar from "./components/SearchBar"
 import Browse from "./components/Browse"
 import List from "./components/List"
+import Category from "./components/Category"
 
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
 	
 	let changeHandler = (e) => {
 		let searchValue = e.target.value;
+		console.log("input value", searchValue)
 		setSearchText(prev => searchValue);
 	}
 
@@ -24,7 +26,18 @@ export default function App() {
 			<Navbar />
 			<Header />
 			<SearchBar value={searchText} onChange={changeHandler} />
-		</div>
+				</div>
+	<div className="browse">
+        		<p>Etkinlikler </p>
+         		<p>Şehir</p>
+        	<div className="browse--buttons">
+          		<button >Şehir Değiştir</button>
+          		<button>Tarihe Göre Ara</button>
+        	</div>
+      		</div>
+
+		<Category />
+
     </div>
   );
 }

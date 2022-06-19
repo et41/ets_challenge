@@ -1,0 +1,30 @@
+.dropdown--main--active{
+	position:absolute;
+	width:50%;
+	height:40%;
+	color:red;
+	background-color:white;
+	margin-top:50px;
+	width:var(--width-searchbar) ;
+	background-color:white;
+}
+
+.dropdown--main{
+	position:absolute;
+	margin-top:50px;
+	width:var(--width-searchbar);
+	height:40%;
+	color:red;
+	background-color:white;
+	display:none;
+}
+
+@media only screen and (max-width:600px) {
+	.dropdown--main {
+		width: var(--width-searchbar-resp);
+		width: 80% !important;
+	}
+	.dropdown--main--active {
+		width: var(--width-searchbar-resp);
+	}
+}

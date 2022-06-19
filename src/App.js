@@ -7,10 +7,8 @@ import SearchBar from "./components/SearchBar"
 import Browse from "./components/Browse"
 import List from "./components/List"
 
-import data from "./test_data.json";
 
 export default function App() {
-
 
 	const [searchText, setSearchText] = useState("");
 	
@@ -27,7 +25,6 @@ export default function App() {
 			<Header />
 			<SearchBar value={searchText} onChange={changeHandler} />
 		</div>
-		<List input={searchText} />
     </div>
   );
 }

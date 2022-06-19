@@ -1,10 +1,8 @@
 import "./styles/dropdown.css";
 import {useState} from "react";
 import List from "./List";
-import Category from "./Category"
 
 export default function SearchBar({value, onChange}) { 
-
 	return (
 		<div className={value.length > 0 ? "searchbar--main--listing" : "searchbar--main"}>
 		   <span class="search--icon">🔎︎</span>
@@ -16,9 +14,10 @@ export default function SearchBar({value, onChange}) {
 			   onChange={onChange}
  			/>
 			<div className={value.length > 0 ? "dropdown--main--active" : "dropdown--main"}>
-				<List input={value} />
-				<Category /> 
-			</div>
-		</div>  
+				<List />
+		</div>
+		</div>
+		  
+
 	)
 }

@@ -2,7 +2,7 @@
 	position:absolute;
 	width:50%;
 	height:40%;
-	color:red;
+	color:black;
 	background-color:white;
 	margin-top:50px;
 	width:var(--width-searchbar) ;
@@ -22,7 +22,7 @@
 }
 
 .ul--searchlist > p{
-	color: blue;
+	color: red;
 }
 
 
@@ -37,7 +37,7 @@
 	.dropdown--main--active {
 		width: var(--width-searchbar-resp);
 		max-height:50%;
-		
+			
 	}
 	.dropdown--main--active>ul {
 		margin:0;

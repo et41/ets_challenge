@@ -156,12 +156,25 @@ body {
   gap: 10px;
   
 }
- button {
-  border: 0.0625rem solid rgb(222, 221, 219);
-   border-radius:10px;
-   font-size:12px;
-   padding:10px;
-   background-color:rgb(24,24,24);
-  color:white;
+.button-active {
+    border: 0.0625rem solid rgb(222, 221, 219);
+    border-radius: 10px;
+    font-size: 12px;
+    /* padding: 6px; */
+    background-color: rgb(24,24,24);
+    color: white;
+    width: 40%;
+    padding: 0;
+    height: 100px;
+    margin: 10px;
 }
-
+.button-disable {
+	display:none;
+    /* padding: 6px; */
+    background-color: rgb(24,24,24);
+    color: white;
+    width: 40%;
+    padding: 0;
+    height: 100px;
+    margin: 10px;
+}

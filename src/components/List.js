@@ -3,7 +3,6 @@ import data from "./../eventData.json";
 export default function List({input}) {
 
 	const categories_tr  = ["konser", "spor", "tiyatro", "komedi", "sanatçı"]
-
 	const performersName = data.map(item => {
 		if(item["performers_name"].length > 0) {
 			return {"id":item.id, "title": item["performers_name"], "category": "sanatçı"}
@@ -31,13 +30,10 @@ export default function List({input}) {
 
 	const filteredDataByCategory = (category) => {
 		if(category !== "sanatçı") {
-			console.log("in if" )
 			return filteredData.filter((el) => ( el.category === category))} else {
-			console.log("in else", category)
 			return filteredDataPerformers
 			}
 	}
-
 	console.log("sanatçı", filteredDataByCategory("sanatçı"))
 
 	return (

@@ -142,7 +142,8 @@ body {
 }
 
 .browse {
-  margin:20px;
+  margin-top:2px;
+  margin-left:30px;
   color:black;
 }
 .browse > p {
@@ -152,8 +153,8 @@ body {
 
 }
 .browse--buttons {
-  display:flex;
-  gap: 10px;
+  display:grid;
+  gap: 3em;
   
 }
 .button-active {
@@ -163,7 +164,7 @@ body {
     /* padding: 6px; */
     background-color: rgb(24,24,24);
     color: white;
-    width: 40%;
+    width: 10rem;
     padding: 0;
     height: 100px;
     margin: 10px;

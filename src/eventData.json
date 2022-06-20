@@ -13,7 +13,8 @@
         },
         "date_time_local": "2022-06-20T18:00:00",
         "tbd": false,
-        "performers_name": "Boulevards"
+        "performers_name": "Boulevards",
+        "state": "MD"
     },
     {
         "id": 5700094,
@@ -29,7 +30,8 @@
         },
         "date_time_local": "2022-06-20T18:00:00",
         "tbd": false,
-        "performers_name": "Lorraine Leckie & Her Demons"
+        "performers_name": "Lorraine Leckie & Her Demons",
+        "state": "NY"
     },
     {
         "id": 5632256,
@@ -45,7 +47,8 @@
         },
         "date_time_local": "2022-06-20T18:00:00",
         "tbd": false,
-        "performers_name": "Rex Orange County"
+        "performers_name": "Rex Orange County",
+        "state": "OH"
     },
     {
         "id": 5715139,
@@ -61,7 +64,8 @@
         },
         "date_time_local": "2022-06-20T18:30:00",
         "tbd": false,
-        "performers_name": "Frank Turner"
+        "performers_name": "Frank Turner",
+        "state": "NY"
     },
     {
         "id": 5684319,
@@ -77,7 +81,8 @@
         },
         "date_time_local": "2022-06-20T18:30:00",
         "tbd": false,
-        "performers_name": "Trey Anastasio"
+        "performers_name": "Trey Anastasio",
+        "state": "MI"
     },
     {
         "id": 5627331,
@@ -93,7 +98,8 @@
         },
         "date_time_local": "2022-06-20T18:30:00",
         "tbd": false,
-        "performers_name": "The Queers"
+        "performers_name": "The Queers",
+        "state": "NJ"
     },
     {
         "id": 5697866,
@@ -109,7 +115,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Anna"
+        "performers_name": "Anna",
+        "state": "SC"
     },
     {
         "id": 5680971,
@@ -125,7 +132,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Kenny Wayne Shepherd"
+        "performers_name": "Kenny Wayne Shepherd",
+        "state": "NJ"
     },
     {
         "id": 5719195,
@@ -141,7 +149,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "AB6IX"
+        "performers_name": "AB6IX",
+        "state": "NY"
     },
     {
         "id": 5678254,
@@ -157,7 +166,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "As I Lay Dying"
+        "performers_name": "As I Lay Dying",
+        "state": "NC"
     },
     {
         "id": 5686440,
@@ -173,7 +183,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Prateek Kuhad"
+        "performers_name": "Prateek Kuhad",
+        "state": "ON"
     },
     {
         "id": 5675826,
@@ -189,7 +200,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Greer"
+        "performers_name": "Greer",
+        "state": "GA"
     },
     {
         "id": 5725791,
@@ -205,7 +217,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Lil' Tracy"
+        "performers_name": "Lil' Tracy",
+        "state": "ON"
     },
     {
         "id": 5700910,
@@ -221,7 +234,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Isaac Dunbar"
+        "performers_name": "Isaac Dunbar",
+        "state": "ON"
     },
     {
         "id": 5685234,
@@ -237,7 +251,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Crown The Empire"
+        "performers_name": "Crown The Empire",
+        "state": "PA"
     },
     {
         "id": 5208788,
@@ -253,7 +268,8 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Backstreet Boys"
+        "performers_name": "Backstreet Boys",
+        "state": "FL"
     },
     {
         "id": 5704650,
@@ -269,23 +285,8 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Jane Birkin"
-    },
-    {
-        "id": 5590276,
-        "title": "Jesse Cook",
-        "category": "konser",
-        "address": "3701 Mt. Vernon Avenue",
-        "location": {
-            "lat": 38.8386,
-            "lon": -77.0622
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/jesse-cook-990bf9/941/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Jesse Cook"
+        "performers_name": "Jane Birkin",
+        "state": "MA"
     },
     {
         "id": 5704847,
@@ -301,7 +302,25 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Bruce Hornsby"
+        "performers_name": "Bruce Hornsby",
+        "state": "MI"
+    },
+    {
+        "id": 5590276,
+        "title": "Jesse Cook",
+        "category": "konser",
+        "address": "3701 Mt. Vernon Avenue",
+        "location": {
+            "lat": 38.8386,
+            "lon": -77.0622
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/jesse-cook-990bf9/941/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T19:30:00",
+        "tbd": false,
+        "performers_name": "Jesse Cook",
+        "state": "VA"
     },
     {
         "id": 5704163,
@@ -317,7 +336,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Francis Cabrel"
+        "performers_name": "Francis Cabrel",
+        "state": "QC"
     },
     {
         "id": 5725802,
@@ -333,23 +353,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "American Aquarium"
-    },
-    {
-        "id": 5666128,
-        "title": "Dean Lewis",
-        "category": "konser",
-        "address": "101 Biltmore Avenue",
-        "location": {
-            "lat": 35.5914,
-            "lon": -82.551
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/dean-lewis-6adae5/487243/23956/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Dean Lewis"
+        "performers_name": "American Aquarium",
+        "state": "FL"
     },
     {
         "id": 5669849,
@@ -365,7 +370,25 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "UMI"
+        "performers_name": "UMI",
+        "state": "PA"
+    },
+    {
+        "id": 5666128,
+        "title": "Dean Lewis",
+        "category": "konser",
+        "address": "101 Biltmore Avenue",
+        "location": {
+            "lat": 35.5914,
+            "lon": -82.551
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/dean-lewis-6adae5/487243/23956/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T20:00:00",
+        "tbd": false,
+        "performers_name": "Dean Lewis",
+        "state": "NC"
     },
     {
         "id": 5690012,
@@ -381,23 +404,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Fantastic Negrito"
-    },
-    {
-        "id": 5677437,
-        "title": "De'Wayne Jackson",
-        "category": "konser",
-        "address": "1204 Caroline Street",
-        "location": {
-            "lat": 29.7539,
-            "lon": -95.3641
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "De'Wayne Jackson"
+        "performers_name": "Fantastic Negrito",
+        "state": "MA"
     },
     {
         "id": 5625490,
@@ -413,7 +421,25 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Charlotte Cardin"
+        "performers_name": "Charlotte Cardin",
+        "state": "QC"
+    },
+    {
+        "id": 5677437,
+        "title": "De'Wayne Jackson",
+        "category": "konser",
+        "address": "1204 Caroline Street",
+        "location": {
+            "lat": 29.7539,
+            "lon": -95.3641
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T19:00:00",
+        "tbd": false,
+        "performers_name": "De'Wayne Jackson",
+        "state": "TX"
     },
     {
         "id": 5704388,
@@ -429,7 +455,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Teenage Wrist"
+        "performers_name": "Teenage Wrist",
+        "state": "PA"
     },
     {
         "id": 5671387,
@@ -445,7 +472,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Andy McKee"
+        "performers_name": "Andy McKee",
+        "state": "PA"
     },
     {
         "id": 5681641,
@@ -461,23 +489,25 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "JP Saxe"
+        "performers_name": "JP Saxe",
+        "state": "MA"
     },
     {
-        "id": 5621731,
-        "title": "Vanessa Williams with Seth Rudetsky",
+        "id": 5686854,
+        "title": "Los Bitchos (18+)",
         "category": "konser",
-        "address": "123 West 43rd Street",
+        "address": "66 North 6th St.",
         "location": {
-            "lat": 40.7561,
-            "lon": -73.9845
+            "lat": 40.7193,
+            "lon": -73.9616
         },
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/vanessa-williams-f856be/1973/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/los-bitchos-6a0033/797541/huge.jpg"
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Vanessa Williams"
+        "performers_name": "Los Bitchos",
+        "state": "NY"
     },
     {
         "id": 5605959,
@@ -493,7 +523,8 @@
         },
         "date_time_local": "2022-06-20T13:00:00",
         "tbd": false,
-        "performers_name": "West Virginia Black Bears"
+        "performers_name": "West Virginia Black Bears",
+        "state": "WV"
     },
     {
         "id": 5614623,
@@ -509,7 +540,8 @@
         },
         "date_time_local": "2022-06-20T13:00:00",
         "tbd": false,
-        "performers_name": "State College Spikes"
+        "performers_name": "State College Spikes",
+        "state": "PA"
     },
     {
         "id": 5614514,
@@ -525,7 +557,8 @@
         },
         "date_time_local": "2022-06-20T13:00:00",
         "tbd": false,
-        "performers_name": "Mahoning Valley Scrappers"
+        "performers_name": "Mahoning Valley Scrappers",
+        "state": "OH"
     },
     {
         "id": 5464930,
@@ -541,7 +574,8 @@
         },
         "date_time_local": "2022-06-20T13:10:00",
         "tbd": false,
-        "performers_name": "New York Mets"
+        "performers_name": "New York Mets",
+        "state": "NY"
     },
     {
         "id": 5537170,
@@ -557,7 +591,8 @@
         },
         "date_time_local": "2022-06-20T13:00:00",
         "tbd": false,
-        "performers_name": "NCAA College World Series\t"
+        "performers_name": "NCAA College World Series\t",
+        "state": "NE"
     },
     {
         "id": 5697915,
@@ -573,7 +608,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Lexington County Blowfish"
+        "performers_name": "Lexington County Blowfish",
+        "state": "SC"
     },
     {
         "id": 5537177,
@@ -589,7 +625,8 @@
         },
         "date_time_local": "2022-06-20T18:00:00",
         "tbd": false,
-        "performers_name": "NCAA College World Series\t"
+        "performers_name": "NCAA College World Series\t",
+        "state": "NE"
     },
     {
         "id": 5463145,
@@ -605,7 +642,8 @@
         },
         "date_time_local": "2022-06-20T19:05:00",
         "tbd": false,
-        "performers_name": "Pittsburgh Pirates"
+        "performers_name": "Pittsburgh Pirates",
+        "state": "PA"
     },
     {
         "id": 5463627,
@@ -621,7 +659,8 @@
         },
         "date_time_local": "2022-06-20T19:10:00",
         "tbd": false,
-        "performers_name": "Tampa Bay Rays"
+        "performers_name": "Tampa Bay Rays",
+        "state": "FL"
     },
     {
         "id": 5462016,
@@ -637,7 +676,8 @@
         },
         "date_time_local": "2022-06-20T19:10:00",
         "tbd": false,
-        "performers_name": "Boston Red Sox"
+        "performers_name": "Boston Red Sox",
+        "state": "MA"
     },
     {
         "id": 5461683,
@@ -653,7 +693,8 @@
         },
         "date_time_local": "2022-06-20T19:20:00",
         "tbd": false,
-        "performers_name": "Atlanta Braves"
+        "performers_name": "Atlanta Braves",
+        "state": "GA"
     },
     {
         "id": 5685769,
@@ -669,7 +710,8 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Montreal Alliance"
+        "performers_name": "Montreal Alliance",
+        "state": "QC"
     },
     {
         "id": 5679630,
@@ -685,7 +727,8 @@
         },
         "date_time_local": "2022-06-20T18:30:00",
         "tbd": false,
-        "performers_name": "WWE"
+        "performers_name": "WWE",
+        "state": "NE"
     },
     {
         "id": 5730904,
@@ -701,7 +744,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Calder Cup"
+        "performers_name": "Calder Cup",
+        "state": "IL"
     },
     {
         "id": 5653481,
@@ -717,7 +761,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Tampa Bay Lightning"
+        "performers_name": "Tampa Bay Lightning",
+        "state": "FL"
     },
     {
         "id": 5462811,
@@ -733,7 +778,8 @@
         },
         "date_time_local": "2022-06-20T19:10:00",
         "tbd": false,
-        "performers_name": "Milwaukee Brewers"
+        "performers_name": "Milwaukee Brewers",
+        "state": "WI"
     },
     {
         "id": 5462169,
@@ -749,7 +795,25 @@
         },
         "date_time_local": "2022-06-20T19:10:00",
         "tbd": false,
-        "performers_name": "Chicago White Sox"
+        "performers_name": "Chicago White Sox",
+        "state": "IL"
+    },
+    {
+        "id": 5732291,
+        "title": "Kalamazoo Growlers at Battle Creek Bombers",
+        "category": "spor",
+        "address": "121 Sea Lion St.",
+        "location": {
+            "lat": 37.7752,
+            "lon": -122.418
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/battle-creek-bombers-9d8e96/516107/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T18:35:00",
+        "tbd": false,
+        "performers_name": "Battle Creek Bombers",
+        "state": "CA"
     },
     {
         "id": 5464440,
@@ -765,7 +829,8 @@
         },
         "date_time_local": "2022-06-20T18:38:00",
         "tbd": false,
-        "performers_name": "Los Angeles Angels"
+        "performers_name": "Los Angeles Angels",
+        "state": "CA"
     },
     {
         "id": 5463305,
@@ -781,7 +846,8 @@
         },
         "date_time_local": "2022-06-20T18:40:00",
         "tbd": false,
-        "performers_name": "San Diego Padres"
+        "performers_name": "San Diego Padres",
+        "state": "CA"
     },
     {
         "id": 5654749,
@@ -797,7 +863,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Reno Rodeo"
+        "performers_name": "Reno Rodeo",
+        "state": "NV"
     },
     {
         "id": 5729550,
@@ -813,7 +880,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "KPMG Women's PGA Championship"
+        "performers_name": "KPMG Women's PGA Championship",
+        "state": "MD"
     },
     {
         "id": 5592648,
@@ -829,7 +897,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Palm Beach Cardinals"
+        "performers_name": "Palm Beach Cardinals",
+        "state": "FL"
     },
     {
         "id": 5565434,
@@ -845,7 +914,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Winston-Salem Dash"
+        "performers_name": "Winston-Salem Dash",
+        "state": "NC"
     },
     {
         "id": 5590684,
@@ -861,7 +931,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Wilmington Blue Rocks"
+        "performers_name": "Wilmington Blue Rocks",
+        "state": "DE"
     },
     {
         "id": 5679273,
@@ -877,7 +948,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Wichita Wind Surge"
+        "performers_name": "Wichita Wind Surge",
+        "state": "KS"
     },
     {
         "id": 5557894,
@@ -893,7 +965,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Sugar Land Space Cowboys"
+        "performers_name": "Sugar Land Space Cowboys",
+        "state": "TX"
     },
     {
         "id": 5589994,
@@ -909,7 +982,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Lake Elsinore Storm"
+        "performers_name": "Lake Elsinore Storm",
+        "state": "CA"
     },
     {
         "id": 5557571,
@@ -925,7 +999,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "Sacramento River Cats"
+        "performers_name": "Sacramento River Cats",
+        "state": "CA"
     },
     {
         "id": 5572139,
@@ -941,23 +1016,8 @@
         },
         "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
-        "performers_name": "US Senior Open Golf"
-    },
-    {
-        "id": 5572132,
-        "title": "U.S. Senior Open - Tuesday",
-        "category": "spor",
-        "address": "2050 Saucon Valley Rd",
-        "location": {
-            "lat": 40.56,
-            "lon": -75.38
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/us-senior-open-golf-03faed/5771/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T07:00:00",
-        "tbd": false,
-        "performers_name": "US Senior Open Golf"
+        "performers_name": "US Senior Open Golf",
+        "state": "PA"
     },
     {
         "id": 5535815,
@@ -973,7 +1033,8 @@
         },
         "date_time_local": "2022-06-20T03:30:00",
         "tbd": true,
-        "performers_name": "Eiffel Tower Experience"
+        "performers_name": "Eiffel Tower Experience",
+        "state": "NV"
     },
     {
         "id": 5706814,
@@ -989,7 +1050,8 @@
         },
         "date_time_local": "2022-06-20T12:00:00",
         "tbd": false,
-        "performers_name": "UniverSoul Circus"
+        "performers_name": "UniverSoul Circus",
+        "state": "MD"
     },
     {
         "id": 5687236,
@@ -1003,7 +1065,8 @@
         "images": {},
         "date_time_local": "2022-06-20T11:00:00",
         "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit"
+        "performers_name": "Immersive Van Gogh Exhibit",
+        "state": "CA"
     },
     {
         "id": 5706813,
@@ -1019,7 +1082,8 @@
         },
         "date_time_local": "2022-06-20T16:00:00",
         "tbd": false,
-        "performers_name": "UniverSoul Circus"
+        "performers_name": "UniverSoul Circus",
+        "state": "MD"
     },
     {
         "id": 5687241,
@@ -1033,7 +1097,8 @@
         "images": {},
         "date_time_local": "2022-06-20T14:00:00",
         "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit"
+        "performers_name": "Immersive Van Gogh Exhibit",
+        "state": "CA"
     },
     {
         "id": 5715451,
@@ -1047,7 +1112,8 @@
         "images": {},
         "date_time_local": "2022-06-20T17:00:00",
         "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit"
+        "performers_name": "Immersive Van Gogh Exhibit",
+        "state": "TN"
     },
     {
         "id": 5705868,
@@ -1061,7 +1127,8 @@
         "images": {},
         "date_time_local": "2022-06-20T15:50:00",
         "tbd": false,
-        "performers_name": "Alcatraz Night Tour"
+        "performers_name": "Alcatraz Night Tour",
+        "state": "CA"
     },
     {
         "id": 5662395,
@@ -1077,7 +1144,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Half-Stitched The Musical"
+        "performers_name": "Half-Stitched The Musical",
+        "state": "IN"
     },
     {
         "id": 5553273,
@@ -1093,7 +1161,8 @@
         },
         "date_time_local": "2022-06-20T16:00:00",
         "tbd": false,
-        "performers_name": "Nathan Burton"
+        "performers_name": "Nathan Burton",
+        "state": "NV"
     },
     {
         "id": 5646491,
@@ -1109,7 +1178,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Blue Man Group"
+        "performers_name": "Blue Man Group",
+        "state": "NY"
     },
     {
         "id": 5694804,
@@ -1125,7 +1195,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "The Play That Goes Wrong"
+        "performers_name": "The Play That Goes Wrong",
+        "state": "NY"
     },
     {
         "id": 5565924,
@@ -1141,7 +1212,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Chicago (Musical)"
+        "performers_name": "Chicago (Musical)",
+        "state": "NY"
     },
     {
         "id": 5670728,
@@ -1157,7 +1229,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Jersey Boys"
+        "performers_name": "Jersey Boys",
+        "state": "NY"
     },
     {
         "id": 5694066,
@@ -1173,23 +1246,8 @@
         },
         "date_time_local": "2022-06-20T19:00:07",
         "tbd": false,
-        "performers_name": "The Play That Goes Wrong"
-    },
-    {
-        "id": 5649572,
-        "title": "Of Love and Rage - New York",
-        "category": "tiyatro",
-        "address": "70 Lincoln Center Plaza",
-        "location": {
-            "lat": 40.7725,
-            "lon": -73.9835
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/of-love-and-rage-213a57/779088/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Of Love and Rage"
+        "performers_name": "The Play That Goes Wrong",
+        "state": "DC"
     },
     {
         "id": 5708237,
@@ -1205,7 +1263,25 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Sarah Jakes Roberts"
+        "performers_name": "Sarah Jakes Roberts",
+        "state": "GA"
+    },
+    {
+        "id": 5649572,
+        "title": "Of Love and Rage - New York",
+        "category": "tiyatro",
+        "address": "70 Lincoln Center Plaza",
+        "location": {
+            "lat": 40.7725,
+            "lon": -73.9835
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/of-love-and-rage-213a57/779088/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T19:30:00",
+        "tbd": false,
+        "performers_name": "Of Love and Rage",
+        "state": "NY"
     },
     {
         "id": 5607132,
@@ -1221,7 +1297,25 @@
         },
         "date_time_local": "2022-06-20T17:00:00",
         "tbd": false,
-        "performers_name": "Blue Man Group"
+        "performers_name": "Blue Man Group",
+        "state": "NV"
+    },
+    {
+        "id": 5410401,
+        "title": "Rachid Badouri",
+        "category": "tiyatro",
+        "address": "1004 Rue Saint Catherine Street",
+        "location": {
+            "lat": 45.5004,
+            "lon": -73.572
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/rachid-badouri-e380fb/278620/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T20:00:00",
+        "tbd": false,
+        "performers_name": "Rachid Badouri",
+        "state": "QC"
     },
     {
         "id": 5670276,
@@ -1237,7 +1331,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Perfect Crime"
+        "performers_name": "Perfect Crime",
+        "state": "NY"
     },
     {
         "id": 5715446,
@@ -1251,7 +1346,8 @@
         "images": {},
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit"
+        "performers_name": "Immersive Van Gogh Exhibit",
+        "state": "TN"
     },
     {
         "id": 5616392,
@@ -1267,7 +1363,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "The Phantom of the Opera"
+        "performers_name": "The Phantom of the Opera",
+        "state": "NY"
     },
     {
         "id": 5539065,
@@ -1283,7 +1380,8 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Anastasia (Musical)"
+        "performers_name": "Anastasia (Musical)",
+        "state": "TX"
     },
     {
         "id": 5603753,
@@ -1299,23 +1397,8 @@
         },
         "date_time_local": "2022-06-20T17:30:00",
         "tbd": false,
-        "performers_name": "MJ Live"
-    },
-    {
-        "id": 5553423,
-        "title": "Hitzville - Las Vegas",
-        "category": "tiyatro",
-        "address": "3667 Las Vegas Blvd S",
-        "location": {
-            "lat": 36.1086,
-            "lon": -115.173
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/hitzville-3af771/11011/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T17:30:00",
-        "tbd": false,
-        "performers_name": "Hitzville"
+        "performers_name": "MJ Live",
+        "state": "NV"
     },
     {
         "id": 5705237,
@@ -1331,23 +1414,25 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Circo Hermanos Vazquez"
+        "performers_name": "Circo Hermanos Vazquez",
+        "state": "IL"
     },
     {
-        "id": 5603675,
-        "title": "Madagascar - El Paso",
+        "id": 5553423,
+        "title": "Hitzville - Las Vegas",
         "category": "tiyatro",
-        "address": "125 Pioneer Plaza",
+        "address": "3667 Las Vegas Blvd S",
         "location": {
-            "lat": 31.8125,
-            "lon": -106.443
+            "lat": 36.1086,
+            "lon": -115.173
         },
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/madagascar-568a6e/7332/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/hitzville-3af771/11011/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:00:00",
+        "date_time_local": "2022-06-20T17:30:00",
         "tbd": false,
-        "performers_name": "Madagascar"
+        "performers_name": "Hitzville",
+        "state": "NV"
     },
     {
         "id": 5580012,
@@ -1363,7 +1448,25 @@
         },
         "date_time_local": "2022-06-20T18:00:00",
         "tbd": false,
-        "performers_name": "Tournament"
+        "performers_name": "Tournament",
+        "state": "NV"
+    },
+    {
+        "id": 5603675,
+        "title": "Madagascar - El Paso",
+        "category": "tiyatro",
+        "address": "125 Pioneer Plaza",
+        "location": {
+            "lat": 31.8125,
+            "lon": -106.443
+        },
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/madagascar-568a6e/7332/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T19:00:00",
+        "tbd": false,
+        "performers_name": "Madagascar",
+        "state": "TX"
     },
     {
         "id": 5663348,
@@ -1379,7 +1482,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Blue Man Group"
+        "performers_name": "Blue Man Group",
+        "state": "IL"
     },
     {
         "id": 5693205,
@@ -1395,7 +1499,8 @@
         },
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "John Mulaney"
+        "performers_name": "John Mulaney",
+        "state": "NJ"
     },
     {
         "id": 5726832,
@@ -1409,24 +1514,10 @@
         "images": {},
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Borgata Comedy Club"
+        "performers_name": "Borgata Comedy Club",
+        "state": "NJ"
     },
-    {
-        "id": 5410401,
-        "title": "Rachid Badouri",
-        "category": "komedi",
-        "address": "1004 Rue Saint Catherine Street",
-        "location": {
-            "lat": 45.5004,
-            "lon": -73.572
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/rachid-badouri-e380fb/278620/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Rachid Badouri"
-    },
+
     {
         "id": 5661507,
         "title": "The Best of the Second City",
@@ -1441,7 +1532,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "The Best of the Second City"
+        "performers_name": "The Best of the Second City",
+        "state": "IL"
     },
     {
         "id": 5526805,
@@ -1455,7 +1547,8 @@
         "images": {},
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Comedy Cellar"
+        "performers_name": "Comedy Cellar",
+        "state": "NV"
     },
     {
         "id": 5474009,
@@ -1469,7 +1562,8 @@
         "images": {},
         "date_time_local": "2022-06-20T19:00:00",
         "tbd": false,
-        "performers_name": "Piff The Magic Dragon"
+        "performers_name": "Piff The Magic Dragon",
+        "state": "NV"
     },
     {
         "id": 5548118,
@@ -1485,7 +1579,8 @@
         },
         "date_time_local": "2022-06-20T19:30:00",
         "tbd": false,
-        "performers_name": "Terry Fator"
+        "performers_name": "Terry Fator",
+        "state": "NV"
     },
     {
         "id": 5655315,
@@ -1501,7 +1596,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Brad Garrett"
+        "performers_name": "Brad Garrett",
+        "state": "NV"
     },
     {
         "id": 5615547,
@@ -1517,7 +1613,8 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Eddie Griffin"
+        "performers_name": "Eddie Griffin",
+        "state": "NV"
     },
     {
         "id": 5525961,
@@ -1533,7 +1630,23 @@
         },
         "date_time_local": "2022-06-20T20:00:00",
         "tbd": false,
-        "performers_name": "Carrot Top"
+        "performers_name": "Carrot Top",
+        "state": "NV"
+    },
+    {
+        "id": 5528917,
+        "title": "Laugh Factory Las Vegas",
+        "category": "komedi",
+        "address": "3801 Las Vegas Blvd.",
+        "location": {
+            "lat": 36.0996,
+            "lon": -115.171
+        },
+        "images": {},
+        "date_time_local": "2022-06-20T20:30:00",
+        "tbd": false,
+        "performers_name": "Laugh Factory Las Vegas",
+        "state": "NV"
     },
     {
         "id": 5617687,
@@ -1549,21 +1662,8 @@
         },
         "date_time_local": "2022-06-20T20:30:00",
         "tbd": false,
-        "performers_name": "Laugh Factory"
-    },
-    {
-        "id": 5528917,
-        "title": "Laugh Factory Las Vegas",
-        "category": "komedi",
-        "address": "3801 Las Vegas Blvd.",
-        "location": {
-            "lat": 36.0996,
-            "lon": -115.171
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T20:30:00",
-        "tbd": false,
-        "performers_name": "Laugh Factory Las Vegas"
+        "performers_name": "Laugh Factory",
+        "state": "NV"
     },
     {
         "id": 5527103,
@@ -1577,7 +1677,8 @@
         "images": {},
         "date_time_local": "2022-06-20T21:30:00",
         "tbd": false,
-        "performers_name": "Comedy Cellar"
+        "performers_name": "Comedy Cellar",
+        "state": "NV"
     },
     {
         "id": 5529176,
@@ -1591,7 +1692,8 @@
         "images": {},
         "date_time_local": "2022-06-20T22:30:00",
         "tbd": false,
-        "performers_name": "Laugh Factory Las Vegas"
+        "performers_name": "Laugh Factory Las Vegas",
+        "state": "NV"
     },
     {
         "id": 5502508,
@@ -1607,7 +1709,8 @@
         },
         "date_time_local": "2022-06-21T13:00:00",
         "tbd": false,
-        "performers_name": "Mac King"
+        "performers_name": "Mac King",
+        "state": "NV"
     },
     {
         "id": 5502417,
@@ -1623,7 +1726,8 @@
         },
         "date_time_local": "2022-06-21T15:00:00",
         "tbd": false,
-        "performers_name": "Mac King"
+        "performers_name": "Mac King",
+        "state": "NV"
     },
     {
         "id": 5590839,
@@ -1637,7 +1741,8 @@
         "images": {},
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Louis Jose Houde"
+        "performers_name": "Louis Jose Houde",
+        "state": "QC"
     },
     {
         "id": 5689383,
@@ -1653,7 +1758,8 @@
         },
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Game Grumps"
+        "performers_name": "Game Grumps",
+        "state": "MA"
     },
     {
         "id": 5534796,
@@ -1667,7 +1773,8 @@
         "images": {},
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Lise Dion"
+        "performers_name": "Lise Dion",
+        "state": "QC"
     },
     {
         "id": 5726853,
@@ -1681,7 +1788,8 @@
         "images": {},
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Borgata Comedy Club"
+        "performers_name": "Borgata Comedy Club",
+        "state": "NJ"
     },
     {
         "id": 5652086,
@@ -1697,7 +1805,8 @@
         },
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Chris Rock"
+        "performers_name": "Chris Rock",
+        "state": "CO"
     },
     {
         "id": 5661514,
@@ -1713,7 +1822,8 @@
         },
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "The Best of the Second City"
+        "performers_name": "The Best of the Second City",
+        "state": "IL"
     },
     {
         "id": 5675113,
@@ -1729,7 +1839,8 @@
         },
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Tenacious D"
+        "performers_name": "Tenacious D",
+        "state": "WA"
     },
     {
         "id": 5526820,
@@ -1743,7 +1854,8 @@
         "images": {},
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Comedy Cellar"
+        "performers_name": "Comedy Cellar",
+        "state": "NV"
     },
     {
         "id": 5665501,
@@ -1759,7 +1871,8 @@
         },
         "date_time_local": "2022-06-21T21:00:00",
         "tbd": false,
-        "performers_name": "Chicago Underground Comedy"
+        "performers_name": "Chicago Underground Comedy",
+        "state": "IL"
     },
     {
         "id": 5548112,
@@ -1775,7 +1888,8 @@
         },
         "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "Terry Fator"
+        "performers_name": "Terry Fator",
+        "state": "NV"
     },
     {
         "id": 5525965,
@@ -1791,7 +1905,8 @@
         },
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Carrot Top"
+        "performers_name": "Carrot Top",
+        "state": "NV"
     },
     {
         "id": 5615537,
@@ -1807,7 +1922,8 @@
         },
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Eddie Griffin"
+        "performers_name": "Eddie Griffin",
+        "state": "NV"
     },
     {
         "id": 5655312,
@@ -1823,7 +1939,8 @@
         },
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
-        "performers_name": "Brad Garrett"
+        "performers_name": "Brad Garrett",
+        "state": "NV"
     },
     {
         "id": 5528864,
@@ -1837,6 +1954,7 @@
         "images": {},
         "date_time_local": "2022-06-21T20:30:00",
         "tbd": false,
-        "performers_name": "Laugh Factory Las Vegas"
+        "performers_name": "Laugh Factory Las Vegas",
+        "state": "NV"
     }
 ]

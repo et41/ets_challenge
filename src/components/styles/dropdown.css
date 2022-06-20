@@ -8,6 +8,7 @@
 	width:var(--width-searchbar) ;
 	background-color:white;
 	overflow: auto;
+
 }
 
 .dropdown--main{
@@ -20,8 +21,14 @@
 	display:none;
 }
 
+.ul--searchlist > p{
+	color: blue;
+}
 
 
+.dropdown--main--active>ul>li {
+	margin:20px;
+}
 @media only screen and (max-width:600px) {
 	.dropdown--main {
 		width: var(--width-searchbar-resp);
@@ -30,15 +37,12 @@
 	.dropdown--main--active {
 		width: var(--width-searchbar-resp);
 		max-height:50%;
-		background-color:blue;
 		
 	}
 	.dropdown--main--active>ul {
-		overflow:auto;
-		max-height:100%;
 		margin:0;
 	}
-	.dropdown--main--active>ul>li {
-		margin:10px;
-	}
+
 }
+
+

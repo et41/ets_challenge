@@ -2,23 +2,48 @@ import data from "./../eventData.json";
 
 export default function List({input}) {
 
-	const categories_eng = ["concert", "sports", "theater"]
+	const categories_tr  = ["konser", "spor", "tiyatro", "komedi", "sanatçı"]
+
+	const performersName = data.map(item => {
+		if(item["performers_name"].length > 0) {
+			return {"id":item.id, "title": item["performers_name"], "category": "sanatçı"}
+		}
+	})
+
 	const filteredData = data.filter((item) => {
 		if(input === "") {
 			return item;
 		}
 		else {
-			return item.title.toLowerCase().includes(input.toLowerCase());
+			return item.title.toLowerCase().includes(input.toLowerCase()) &&  item.performers_name.toLowerCase().includes(input.toLowerCase()) ;
 		}
 	})
+
+	const filteredDataPerformers = performersName.filter((item) => {
+		if(input === "") {
+			return item;
+		}
+		else {
+			return item.title.toLowerCase().includes(input.toLowerCase())
+		}
+	})
+
+
 	const filteredDataByCategory = (category) => {
-		return filteredData.filter((el) => ( el.category === category))
+		if(category !== "sanatçı") {
+			console.log("in if" )
+			return filteredData.filter((el) => ( el.category === category))} else {
+			console.log("in else", category)
+			return filteredDataPerformers
+			}
 	}
+
+	console.log("sanatçı", filteredDataByCategory("sanatçı"))
 
 	return (
 		<>
-		{categories_eng.map(category => (
-			<ul>{filteredDataByCategory(category).length > 0 ? category : ""}
+		{categories_tr.map(category => (
+			<ul className="ul--searchlist">{filteredDataByCategory(category).length > 0 ? <p>{category}</p> : ""}
 				<>
 				  {filteredDataByCategory(category).map(e => 
 					<li key={e.id}>

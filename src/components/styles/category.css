@@ -1,16 +1,14 @@
 .category--main {
 	display:flex;
 	flex-wrap:wrap;
-	gap:5%;
 	color:white;
 }
 
 .category--main>div {
-	margin: 5px;
 	width: 20%;
 	height: 150px;
 	border-radius: 15px;
-	margin-top: 20px;	
+	margin: 20px;	
 	background-color:black;
 }
 @media screen and (max-width:700px) {
@@ -21,7 +19,7 @@
 	}
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
 	.category--main > div {
 		width:80%;
 	}

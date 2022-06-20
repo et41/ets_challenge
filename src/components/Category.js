@@ -5,7 +5,6 @@ import "./styles/category.css";
 
 let categories = ["konser", "spor", "tiyatro", "komedi"]
 export default function Category({value}) {
-	console.log(value)
 	 
 	return (
 		<div className="category--main">		

@@ -1,0 +1,29 @@
+.card--main {
+	margin:0;
+	padding:0;
+}
+
+.card--single{
+	border: 1px solid black;
+	width:18rem;
+	height:20rem;
+	margin:auto;
+	margin-top:10px;
+	text-align:center;
+	font-size:18px;
+	background-color:rgb(24,24,24);
+	list-style-type:none;
+	color:white;
+	border-radius:5%;
+
+}
+
+.card--single-image {
+	width:90%;
+	height:60%;
+	border-radius:10%;
+}
+
+.card--single p {
+	color:white;
+}

@@ -5,34 +5,44 @@ import "./styles/calendar.css";
 import {postalCodetoCity, uniqueCities} from "./../city_list.js"
 import FilteredList from "./FilteredList"
 import FilteredListByState from "./FilteredListByState"
-
+import moment from "moment"
 export default function Browse (  ) {
 	const [calendarButton, setCalendarButton] = useState(false);
 	const [locationButton, setLocationButton] = useState(false);
-	const [selectedState, setSelectedState] = useState("default");
+	const [selectedState, setSelectedState] = useState("Şehir Seç");
 	const [eventDate, setEventDate] = useState();
-
+	const [filterOption, setFilterOption] = useState("");
 	let clickHandlerCalender = (event) => {
-		setCalendarButton(prev => !prev);
+	//	setCalendarButton(prev => !prev);
 	}
 
 	let clickHandlerLocation = (event) => {
 		setLocationButton(prev => !prev);
-		console.log("eventtarget", event.target)
+		setFilterOption(prev => "state");
 	}
 
+	let handleSubmitLocation = (event) => {
+		
 
-	let handleSubmit = (event) => {
+	}
+	let handleSubmitCalendar = (event) => {
 		event.preventDefault();
+		setEventDate(prev => event.target[0].value)
 		setCalendarButton(prev => !prev);
+
 	}
+
 	let hoverHandlerLocation = (event) => {
 		setSelectedState(prev => event.target.outerText)
 		setLocationButton(prev => !prev)
 	}
 
 	let changeHandlerCalendar = (event) => {
-		setEventDate(prev => event.target.value)
+		setFilterOption(prev => "date")
+		if(calendarButton) {
+	
+			setEventDate(prev => event.target.value)
+		}
 	}
 
 	let listByDate = data.filter(e => {
@@ -42,7 +52,8 @@ export default function Browse (  ) {
 				return false
 			}
 		})
-
+	console.log("locationButton, calendarButton ", locationButton, calendarButton, filterOption)
+	
 	let listByState = data.filter(e => {
 		if(postalCodetoCity(e.state) === selectedState) {
 			return true
@@ -50,14 +61,14 @@ export default function Browse (  ) {
 			return false
 		}
 	})
+
 	return ( 
 	<div className="browse">
-        <div className="browse--buttons">
+		<div className="browse--buttons">
 
 			<div className="location">
-			<form onSubmit={handleSubmit} className={"location--form-active" }> 
+			<form onSubmit={handleSubmitLocation} className={"location--form-active" }> 
 					<input onClick={clickHandlerLocation}  value={selectedState} className="location--input" type="text" />
-					<input className="location--submit" type="submit" />
 						
 				</form>
 
@@ -70,15 +81,15 @@ export default function Browse (  ) {
 				</div>
 			</div>
 			<div className="calendar" >
-          				<form onSubmit={handleSubmit} className={"calendar--form-active" }> 
-					<input onChange={changeHandlerCalendar} value={eventDate} className="calendar--date" type="date" />
+          				<form onSubmit={handleSubmitCalendar} className={"calendar--form-active" }> 
+					<input onChange={changeHandlerCalendar} onClick={clickHandlerCalender} value={eventDate} className="calendar--date" type="date" />
 					<input className="calendar--submit" type="submit" />
 						
 				</form>
 			</div>
-        </div>
-		<FilteredList value={listByDate} />
-		<FilteredListByState value={listByState} />
+		</div>
+		{filterOption === "date" && <FilteredList value={listByDate} />}
+		{filterOption === "state" && <FilteredListByState value={listByState} />}
       </div>
 
 	)

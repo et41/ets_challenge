@@ -1,870 +1,543 @@
 [
     {
-        "id": 5722240,
-        "title": "Boulevards (21+ Event)",
+        "id": 5649157,
+        "title": "Brandi Carlile",
         "category": "konser",
-        "address": "1700 North Charles Street",
+        "address": "1122 N. Milpas St.",
         "location": {
-            "lat": 39.3089,
-            "lon": -76.6166
+            "lat": 34.4327,
+            "lon": -119.694
         },
+        "venue": "Santa Barbara Bowl",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/brandi-carlile-bbbc02/363/25190/huge.jpg"
         },
-        "date_time_local": "2022-06-20T18:00:00",
-        "tbd": false,
-        "performers_name": "Boulevards",
-        "state": "MD"
+        "date_time_local": "2022-06-21T03:30:00",
+        "tbd": true,
+        "performers_name": "Brandi Carlile",
+        "state": "CA"
     },
     {
-        "id": 5700094,
-        "title": "Lorraine Leckie & Her Demons with The Grasping Straws",
+        "id": 5538078,
+        "title": "Bon Iver",
+        "category": "konser",
+        "address": "101 West 4th Street",
+        "location": {
+            "lat": 39.0915,
+            "lon": -84.4976
+        },
+        "venue": "PromoWest Pavilion at OVATION",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/bon-iver-502096/345/25187/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T17:30:00",
+        "tbd": false,
+        "performers_name": "Bon Iver",
+        "state": "KY"
+    },
+    {
+        "id": 5671361,
+        "title": "The Rare Occasions",
         "category": "konser",
         "address": "217 East Houston Street",
         "location": {
             "lat": 40.7222,
             "lon": -73.9867
         },
+        "venue": "Mercury Lounge",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/lorraine-leckie-her-demons-316b1d/797800/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
         },
-        "date_time_local": "2022-06-20T18:00:00",
+        "date_time_local": "2022-06-21T18:00:00",
         "tbd": false,
-        "performers_name": "Lorraine Leckie & Her Demons",
+        "performers_name": "The Rare Occasions",
         "state": "NY"
     },
     {
-        "id": 5632256,
+        "id": 5632262,
         "title": "Rex Orange County",
         "category": "konser",
-        "address": "405 Neil Avenue",
+        "address": "400 North Shore Drive",
         "location": {
-            "lat": 39.9698,
-            "lon": -83.0098
+            "lat": 40.4461,
+            "lon": -80.0123
         },
+        "venue": "Stage AE",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/rex-orange-county-1da4e8/609177/37890/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/rex-orange-county-c45ef2/609177/20786/huge.jpg"
         },
-        "date_time_local": "2022-06-20T18:00:00",
+        "date_time_local": "2022-06-21T18:00:00",
         "tbd": false,
         "performers_name": "Rex Orange County",
-        "state": "OH"
+        "state": "PA"
     },
     {
-        "id": 5715139,
-        "title": "Frank Turner",
-        "category": "konser",
-        "address": "52-19 Flushing Avenue",
-        "location": {
-            "lat": 40.7157,
-            "lon": -73.9143
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/frank-turner-aee13b/9455/20995/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:30:00",
-        "tbd": false,
-        "performers_name": "Frank Turner",
-        "state": "NY"
-    },
-    {
-        "id": 5684319,
-        "title": "Trey Anastasio",
-        "category": "konser",
-        "address": "1000 East Beltline Avenue NE",
-        "location": {
-            "lat": 42.9795,
-            "lon": -85.5901
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/trey-anastasio-4d430c/1943/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:30:00",
-        "tbd": false,
-        "performers_name": "Trey Anastasio",
-        "state": "MI"
-    },
-    {
-        "id": 5627331,
-        "title": "The Queers with Dwarves",
-        "category": "konser",
-        "address": "913 Ocean Ave",
-        "location": {
-            "lat": 40.22,
-            "lon": -74.0009
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:30:00",
-        "tbd": false,
-        "performers_name": "The Queers",
-        "state": "NJ"
-    },
-    {
-        "id": 5697866,
-        "title": "Anna",
-        "category": "konser",
-        "address": "4700 East Palmetto Street",
-        "location": {
-            "lat": 34.1963,
-            "lon": -79.6641
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Anna",
-        "state": "SC"
-    },
-    {
-        "id": 5680971,
-        "title": "Kenny Wayne Shepherd with Todd Rundgren",
-        "category": "konser",
-        "address": "861 Asbury Avenue",
-        "location": {
-            "lat": 39.2789,
-            "lon": -74.5758
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Kenny Wayne Shepherd",
-        "state": "NJ"
-    },
-    {
-        "id": 5719195,
-        "title": "AB6IX",
-        "category": "konser",
-        "address": "125 East 11th Street",
-        "location": {
-            "lat": 40.7318,
-            "lon": -73.9892
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/ab6ix-aec5d9/784356/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "AB6IX",
-        "state": "NY"
-    },
-    {
-        "id": 5678254,
-        "title": "As I Lay Dying with Whitechapel",
-        "category": "konser",
-        "address": "820 Hamilton Street",
-        "location": {
-            "lat": 35.24,
-            "lon": -80.8455
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/as-i-lay-dying-d18c56/224/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "As I Lay Dying",
-        "state": "NC"
-    },
-    {
-        "id": 5686440,
-        "title": "Prateek Kuhad with Laura Elliott",
-        "category": "konser",
-        "address": "147 Danforth Ave",
-        "location": {
-            "lat": 43.6762,
-            "lon": -79.357
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/prateek-kuhad-e2fba4/698285/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Prateek Kuhad",
-        "state": "ON"
-    },
-    {
-        "id": 5675826,
-        "title": "Greer",
-        "category": "konser",
-        "address": "50 Lower Alabama Street",
-        "location": {
-            "lat": 33.7515,
-            "lon": -84.3899
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Greer",
-        "state": "GA"
-    },
-    {
-        "id": 5725791,
-        "title": "Lil' Tracy",
+        "id": 5685236,
+        "title": "Crown The Empire",
         "category": "konser",
         "address": "735 Queen Street East",
         "location": {
             "lat": 43.6588,
             "lon": -79.3487
         },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/lil-tracy-6c0a13/629862/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Lil' Tracy",
-        "state": "ON"
-    },
-    {
-        "id": 5700910,
-        "title": "Isaac Dunbar",
-        "category": "konser",
-        "address": "1087 Queen Street West",
-        "location": {
-            "lat": 43.6434,
-            "lon": -79.4221
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Isaac Dunbar",
-        "state": "ON"
-    },
-    {
-        "id": 5685234,
-        "title": "Crown The Empire",
-        "category": "konser",
-        "address": "400 Lincoln Avenue",
-        "location": {
-            "lat": 40.4808,
-            "lon": -79.9723
-        },
+        "venue": "The Opera House",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/crown-the-empire-9506e9/61966/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:00:00",
+        "date_time_local": "2022-06-21T18:00:00",
         "tbd": false,
         "performers_name": "Crown The Empire",
+        "state": "ON"
+    },
+    {
+        "id": 5671072,
+        "title": "Flogging Molly and The Interrupters",
+        "category": "konser",
+        "address": "500 South McDowell Street",
+        "location": {
+            "lat": 35.7738,
+            "lon": -78.6431
+        },
+        "venue": "Red Hat Amphitheater",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/flogging-molly-b95647/741/15988/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Flogging Molly",
+        "state": "NC"
+    },
+    {
+        "id": 5414990,
+        "title": "Patti LaBelle",
+        "category": "konser",
+        "address": "450 South 4th St.",
+        "location": {
+            "lat": 43.1655,
+            "lon": -79.0453
+        },
+        "venue": "Artpark Amphitheatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/patti-labelle-b3d127/1401/24929/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Patti LaBelle",
+        "state": "NY"
+    },
+    {
+        "id": 5650967,
+        "title": "My Morning Jacket",
+        "category": "konser",
+        "address": "2014 Sycamore Street",
+        "location": {
+            "lat": 41.4963,
+            "lon": -81.7029
+        },
+        "venue": "Jacobs Pavilion at Nautica",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/my-morning-jacket-984ce2/1307/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "My Morning Jacket",
+        "state": "OH"
+    },
+    {
+        "id": 5673660,
+        "title": "Machine Gun Kelly with Avril Lavigne and Iann Dior",
+        "category": "konser",
+        "address": "333 East Trade Street",
+        "location": {
+            "lat": 35.2248,
+            "lon": -80.8403
+        },
+        "venue": "Spectrum Center",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/machine-gun-kelly-48827b/4711/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Machine Gun Kelly",
+        "state": "NC"
+    },
+    {
+        "id": 5629606,
+        "title": "Tash Sultana",
+        "category": "konser",
+        "address": "425 Chartiers Ave.",
+        "location": {
+            "lat": 40.4646,
+            "lon": -80.059
+        },
+        "venue": "Roxian Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tash-sultana-64e4e0/428678/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Tash Sultana",
         "state": "PA"
     },
     {
-        "id": 5208788,
-        "title": "Backstreet Boys (Rescheduled from 9/25/2020, 6/21/2021)",
+        "id": 5667528,
+        "title": "Maverick City Music with Kirk Franklin",
         "category": "konser",
-        "address": "300 A. Philip Randolph Blvd.",
+        "address": "130 Fulton West",
         "location": {
-            "lat": 30.3258,
-            "lon": -81.6451
+            "lat": 42.9624,
+            "lon": -85.6716
         },
+        "venue": "Van Andel Arena",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/backstreet-boys-31595d/249/14400/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/maverick-city-music-9c6123/794477/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:30:00",
+        "date_time_local": "2022-06-21T18:45:00",
         "tbd": false,
-        "performers_name": "Backstreet Boys",
+        "performers_name": "Maverick City Music",
+        "state": "MI"
+    },
+    {
+        "id": 5699589,
+        "title": "Penelope Scott",
+        "category": "konser",
+        "address": "50 Lower Alabama Street",
+        "location": {
+            "lat": 33.7515,
+            "lon": -84.3899
+        },
+        "venue": "Masquerade (Purgatory)",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/penelope-scott-9cc7a0/797659/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Penelope Scott",
+        "state": "GA"
+    },
+    {
+        "id": 5675700,
+        "title": "Bleachers",
+        "category": "konser",
+        "address": "343 E 25th Street",
+        "location": {
+            "lat": 41.2207,
+            "lon": -111.972
+        },
+        "venue": "Ogden Amphitheater",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/bleachers-6aff68/211903/15457/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T17:00:00",
+        "tbd": false,
+        "performers_name": "Bleachers",
+        "state": "UT"
+    },
+    {
+        "id": 5661818,
+        "title": "The Band Camino\t",
+        "category": "konser",
+        "address": "5000 Euclid Avenue",
+        "location": {
+            "lat": 41.5036,
+            "lon": -81.6538
+        },
+        "venue": "Agora Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-band-camino-a97d34/430358/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "The Band Camino",
+        "state": "OH"
+    },
+    {
+        "id": 5638526,
+        "title": "Failure",
+        "category": "konser",
+        "address": "300 East Main Street",
+        "location": {
+            "lat": 35.9098,
+            "lon": -79.0689
+        },
+        "venue": "Cat's Cradle",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/failure-d014b7/94263/7335/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Failure",
+        "state": "NC"
+    },
+    {
+        "id": 5664418,
+        "title": "Nathaniel Rateliff & The Night Sweats with Zach Bryan",
+        "category": "konser",
+        "address": "1340 A1a S",
+        "location": {
+            "lat": 29.8921,
+            "lon": -81.3143
+        },
+        "venue": "St. Augustine Amphitheatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/nathaniel-rateliff-the-night-sweats-e4d30a/291820/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Nathaniel Rateliff & The Night Sweats",
         "state": "FL"
     },
     {
-        "id": 5704650,
-        "title": "Jane Birkin",
+        "id": 5661257,
+        "title": "Subsonic Eye",
         "category": "konser",
-        "address": "265 Tremont Street",
+        "address": "939 Boylston Street",
         "location": {
-            "lat": 42.3504,
-            "lon": -71.0654
+            "lat": 42.3482,
+            "lon": -71.0851
         },
+        "venue": "Cafe 939",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/jane-birkin-acd804/11269/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/subsonic-eye-7442fc/796847/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:30:00",
+        "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Jane Birkin",
+        "performers_name": "Subsonic Eye",
         "state": "MA"
     },
     {
-        "id": 5704847,
-        "title": "Bruce Hornsby & The Noisemakers",
+        "id": 5704694,
+        "title": "Lawrence",
+        "category": "konser",
+        "address": "238 College Street",
+        "location": {
+            "lat": 41.3067,
+            "lon": -72.9296
+        },
+        "venue": "College Street Music Hall",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/lawrence-dc87c8/121034/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Lawrence",
+        "state": "CT"
+    },
+    {
+        "id": 5626235,
+        "title": "Denzel Curry",
+        "category": "konser",
+        "address": "1490 E Buena Vista Dr",
+        "location": {
+            "lat": 28.3684,
+            "lon": -81.5224
+        },
+        "venue": "House of Blues - Orlando",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/denzel-curry-a5cfd2/267938/45964/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Denzel Curry",
+        "state": "FL"
+    },
+    {
+        "id": 5677390,
+        "title": "Allegaeon with Aenimus",
+        "category": "konser",
+        "address": "2105 South State Street",
+        "location": {
+            "lat": 41.8539,
+            "lon": -87.6269
+        },
+        "venue": "Reggies Chicago",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Allegaeon",
+        "state": "IL"
+    },
+    {
+        "id": 5673028,
+        "title": "Lake Street Dive",
+        "category": "konser",
+        "address": "31806 Lakeview Drive",
+        "location": {
+            "lat": 38.4665,
+            "lon": -75.1118
+        },
+        "venue": "Freeman Arts Pavilion",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/lake-street-dive-ff1ded/32475/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Lake Street Dive",
+        "state": "DE"
+    },
+    {
+        "id": 5547281,
+        "title": "The Masked Singer Live",
+        "category": "konser",
+        "address": "7750 Capital 1 Tower Rd",
+        "location": {
+            "lat": 38.9254,
+            "lon": -77.2113
+        },
+        "venue": "Capital One Hall",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:30:00",
+        "tbd": false,
+        "performers_name": "The Masked Singer Live",
+        "state": "VA"
+    },
+    {
+        "id": 5591891,
+        "title": "Jack Johnson With Durand Jones & The Indications",
+        "category": "konser",
+        "address": "72 Meadowbrook Lane",
+        "location": {
+            "lat": 43.5801,
+            "lon": -71.4129
+        },
+        "venue": "Bank of New Hampshire Pavilion",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/jack-johnson-bae00f/2414/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:30:00",
+        "tbd": false,
+        "performers_name": "Jack Johnson",
+        "state": "NH"
+    },
+    {
+        "id": 5686175,
+        "title": "The Blue Stones with Des Rocs",
+        "category": "konser",
+        "address": "29 E Allen Street",
+        "location": {
+            "lat": 39.9656,
+            "lon": -75.1351
+        },
+        "venue": "The Foundry",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-blue-stones-e8aeb3/403532/24910/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:30:00",
+        "tbd": false,
+        "performers_name": "The Blue Stones",
+        "state": "PA"
+    },
+    {
+        "id": 5714396,
+        "title": "Trey Anastasio",
         "category": "konser",
         "address": "4000 Highway M",
         "location": {
             "lat": 44.6553,
             "lon": -85.1752
         },
+        "venue": "Kresge Auditorium",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/bruce-hornsby-2c93f3/381/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/trey-anastasio-4d430c/1943/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:30:00",
+        "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "Bruce Hornsby",
+        "performers_name": "Trey Anastasio",
         "state": "MI"
     },
     {
-        "id": 5590276,
-        "title": "Jesse Cook",
+        "id": 5319871,
+        "title": "Happy Together Tour (Rescheduled from 6/23/2020, 9/3/2020, 6/22/2021)",
         "category": "konser",
-        "address": "3701 Mt. Vernon Avenue",
+        "address": "21 West Main Street",
         "location": {
-            "lat": 38.8386,
-            "lon": -77.0622
+            "lat": 41.6472,
+            "lon": -70.2985
         },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/jesse-cook-990bf9/941/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Jesse Cook",
-        "state": "VA"
-    },
-    {
-        "id": 5704163,
-        "title": "Francis Cabrel",
-        "category": "konser",
-        "address": "175 Sainte",
-        "location": {
-            "lat": 45.5095,
-            "lon": -73.6679
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/francis-cabrel-7959a7/247679/26071/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Francis Cabrel",
-        "state": "QC"
-    },
-    {
-        "id": 5725802,
-        "title": "American Aquarium",
-        "category": "konser",
-        "address": "1050 A1A North",
-        "location": {
-            "lat": 30.0971,
-            "lon": -81.466
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/american-aquarium-02af3c/19478/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "American Aquarium",
-        "state": "FL"
-    },
-    {
-        "id": 5669849,
-        "title": "UMI (Relocated from The Foundry Philadelphia)",
-        "category": "konser",
-        "address": "334 South St.",
-        "location": {
-            "lat": 39.9414,
-            "lon": -75.1487
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/umi-3c7ef1/726260/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "UMI",
-        "state": "PA"
-    },
-    {
-        "id": 5666128,
-        "title": "Dean Lewis",
-        "category": "konser",
-        "address": "101 Biltmore Avenue",
-        "location": {
-            "lat": 35.5914,
-            "lon": -82.551
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/dean-lewis-6adae5/487243/23956/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Dean Lewis",
-        "state": "NC"
-    },
-    {
-        "id": 5690012,
-        "title": "Fantastic Negrito (18+)",
-        "category": "konser",
-        "address": "52 Church Street",
-        "location": {
-            "lat": 42.374,
-            "lon": -71.1206
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/fantastic-negrito-eb14d9/308138/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Fantastic Negrito",
-        "state": "MA"
-    },
-    {
-        "id": 5625490,
-        "title": "Charlotte Cardin",
-        "category": "konser",
-        "address": "59 Rue Sainte",
-        "location": {
-            "lat": 45.511,
-            "lon": -73.5629
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/charlotte-cardin-296a9b/606675/33560/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Charlotte Cardin",
-        "state": "QC"
-    },
-    {
-        "id": 5677437,
-        "title": "De'Wayne Jackson",
-        "category": "konser",
-        "address": "1204 Caroline Street",
-        "location": {
-            "lat": 29.7539,
-            "lon": -95.3641
-        },
+        "venue": "Cape Cod Melody Tent",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/generic-concerts-af2fe3/677165/35972/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:00:00",
+        "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "De'Wayne Jackson",
-        "state": "TX"
-    },
-    {
-        "id": 5704388,
-        "title": "Teenage Wrist",
-        "category": "konser",
-        "address": "118 S 36th St",
-        "location": {
-            "lat": 39.9622,
-            "lon": -75.1575
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/teenage-wrist-02a2e6/508644/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Teenage Wrist",
-        "state": "PA"
-    },
-    {
-        "id": 5671387,
-        "title": "Andy McKee (21+)",
-        "category": "konser",
-        "address": "56 S 12th Street",
-        "location": {
-            "lat": 40.429,
-            "lon": -79.9865
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/andy-mckee-e11fe1/201/21136/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Andy McKee",
-        "state": "PA"
-    },
-    {
-        "id": 5681641,
-        "title": "JP Saxe",
-        "category": "konser",
-        "address": "10 Brookline Street",
-        "location": {
-            "lat": 42.3736,
-            "lon": -71.1097
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/jp-saxe-ff94d8/48255/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "JP Saxe",
+        "performers_name": "The Cowsills",
         "state": "MA"
     },
     {
-        "id": 5686854,
-        "title": "Los Bitchos (18+)",
+        "id": 5186122,
+        "title": "Steely Dan",
         "category": "konser",
-        "address": "66 North 6th St.",
+        "address": "108 Avenue of the Pines",
         "location": {
-            "lat": 40.7193,
-            "lon": -73.9616
+            "lat": 43.0554,
+            "lon": -73.8059
         },
+        "venue": "Saratoga Performing Arts Center",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/los-bitchos-6a0033/797541/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/steely-dan-04698b/1683/13677/huge.jpg"
         },
-        "date_time_local": "2022-06-20T20:00:00",
+        "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "Los Bitchos",
+        "performers_name": "Steely Dan",
         "state": "NY"
     },
     {
-        "id": 5605959,
-        "title": "Williamsport Crosscutters at West Virginia Black Bears",
-        "category": "spor",
-        "address": "1 University Town Center Drive",
+        "id": 5680185,
+        "title": "Adekunle Gold",
+        "category": "konser",
+        "address": "329 N Dearborn St",
         "location": {
-            "lat": 39.6437,
-            "lon": -79.9959
+            "lat": 41.8883,
+            "lon": -87.6288
         },
+        "venue": "House of Blues Chicago",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/adekunle-gold-78797e/639315/huge.jpg"
         },
-        "date_time_local": "2022-06-20T13:00:00",
+        "date_time_local": "2022-06-21T18:30:00",
         "tbd": false,
-        "performers_name": "West Virginia Black Bears",
-        "state": "WV"
-    },
-    {
-        "id": 5614623,
-        "title": "Frederick Keys at State College Spikes",
-        "category": "spor",
-        "address": "701 Porter Road",
-        "location": {
-            "lat": 40.8123,
-            "lon": -77.8529
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T13:00:00",
-        "tbd": false,
-        "performers_name": "State College Spikes",
-        "state": "PA"
-    },
-    {
-        "id": 5614514,
-        "title": "Trenton Thunder at Mahoning Valley Scrappers",
-        "category": "spor",
-        "address": "111 Eastwood Mall Blvd",
-        "location": {
-            "lat": 41.2186,
-            "lon": -80.755
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T13:00:00",
-        "tbd": false,
-        "performers_name": "Mahoning Valley Scrappers",
-        "state": "OH"
-    },
-    {
-        "id": 5464930,
-        "title": "Marlins at Mets",
-        "category": "spor",
-        "address": "123-01 Roosevelt Avenue",
-        "location": {
-            "lat": 40.7564,
-            "lon": -73.8459
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T13:10:00",
-        "tbd": false,
-        "performers_name": "New York Mets",
-        "state": "NY"
-    },
-    {
-        "id": 5537170,
-        "title": "CWS - Gm 7 (Stanford vs TBD)",
-        "category": "spor",
-        "address": "1200 Mike Fahey St",
-        "location": {
-            "lat": 41.2664,
-            "lon": -95.9325
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/ncaa-college-world-series-daab9e/10529/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T13:00:00",
-        "tbd": false,
-        "performers_name": "NCAA College World Series\t",
-        "state": "NE"
-    },
-    {
-        "id": 5697915,
-        "title": "TBD at Lexington County Blowfish",
-        "category": "spor",
-        "address": "474 Ball Park Road",
-        "location": {
-            "lat": 33.9679,
-            "lon": -81.2837
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-sports-b33da4/677214/35941/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Lexington County Blowfish",
-        "state": "SC"
-    },
-    {
-        "id": 5537177,
-        "title": "CWS - Gm 8 (Arkansas vs TBD)",
-        "category": "spor",
-        "address": "1200 Mike Fahey St",
-        "location": {
-            "lat": 41.2664,
-            "lon": -95.9325
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/ncaa-college-world-series-daab9e/10529/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:00:00",
-        "tbd": false,
-        "performers_name": "NCAA College World Series\t",
-        "state": "NE"
-    },
-    {
-        "id": 5463145,
-        "title": "Cubs at Pirates",
-        "category": "spor",
-        "address": "115 Federal Street",
-        "location": {
-            "lat": 40.4472,
-            "lon": -80.0064
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/pittsburgh-pirates-001050/10/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:05:00",
-        "tbd": false,
-        "performers_name": "Pittsburgh Pirates",
-        "state": "PA"
-    },
-    {
-        "id": 5463627,
-        "title": "Yankees at Rays",
-        "category": "spor",
-        "address": "1 Tropicana Dr",
-        "location": {
-            "lat": 27.7682,
-            "lon": -82.6534
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/tampa-bay-rays-88511b/4/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:10:00",
-        "tbd": false,
-        "performers_name": "Tampa Bay Rays",
-        "state": "FL"
-    },
-    {
-        "id": 5462016,
-        "title": "Tigers at Red Sox",
-        "category": "spor",
-        "address": "4 Yawkey Way",
-        "location": {
-            "lat": 42.3456,
-            "lon": -71.0983
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/boston-red-sox-3be194/21/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:10:00",
-        "tbd": false,
-        "performers_name": "Boston Red Sox",
-        "state": "MA"
-    },
-    {
-        "id": 5461683,
-        "title": "Giants at Braves",
-        "category": "spor",
-        "address": "1100 Circle 75 Parkway",
-        "location": {
-            "lat": 33.8897,
-            "lon": -84.4654
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/atlanta-braves-babab9/2/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:20:00",
-        "tbd": false,
-        "performers_name": "Atlanta Braves",
-        "state": "GA"
-    },
-    {
-        "id": 5685769,
-        "title": "Edmonton Stingers at Montreal Alliance",
-        "category": "spor",
-        "address": "4110 Boul. LaSalle",
-        "location": {
-            "lat": 45.4626,
-            "lon": -73.5618
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/montreal-alliance-e32561/795479/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Montreal Alliance",
-        "state": "QC"
-    },
-    {
-        "id": 5679630,
-        "title": "WWE Monday Night RAW",
-        "category": "spor",
-        "address": "600 R Street",
-        "location": {
-            "lat": 40.8179,
-            "lon": -96.7126
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/wwe-9d72ee/10684/35339/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:30:00",
-        "tbd": false,
-        "performers_name": "WWE",
-        "state": "NE"
-    },
-    {
-        "id": 5730904,
-        "title": "Chicago Wolves - Calder Cup Finals Game 2",
-        "category": "spor",
-        "address": "6920 N. Mannheim Rd.",
-        "location": {
-            "lat": 41.9576,
-            "lon": -87.8844
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/calder-cup-dfe5c0/281841/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Calder Cup",
+        "performers_name": "Adekunle Gold",
         "state": "IL"
     },
     {
-        "id": 5653481,
-        "title": "Avalanche at Lightning: Stanley Cup Finals - Gm 3",
-        "category": "spor",
-        "address": "401 Channelside Dr",
+        "id": 5683703,
+        "title": "Tiny Moving Parts with This Wild Life",
+        "category": "konser",
+        "address": "600 Nevan Road",
         "location": {
-            "lat": 27.9427,
-            "lon": -82.4517
+            "lat": 36.8493,
+            "lon": -76.0194
         },
+        "venue": "Elevation 27",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/tampa-bay-lightning-c9f5c0/2131/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/tiny-moving-parts-b38000/270685/huge.jpg"
         },
-        "date_time_local": "2022-06-20T20:00:00",
+        "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "Tampa Bay Lightning",
-        "state": "FL"
+        "performers_name": "Tiny Moving Parts",
+        "state": "VA"
     },
     {
-        "id": 5462811,
-        "title": "Cardinals at Brewers",
-        "category": "spor",
-        "address": "1 Brewers Way",
+        "id": 5669379,
+        "title": "Jackson Browne",
+        "category": "konser",
+        "address": "3411 Sherman Blvd.",
         "location": {
-            "lat": 43.0296,
-            "lon": -87.9725
+            "lat": 41.1055,
+            "lon": -85.1527
         },
+        "venue": "Foellinger Theatre",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/milwaukee-brewers-386b2d/15/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/jackson-browne-21edff/901/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:10:00",
+        "date_time_local": "2022-06-21T19:30:00",
         "tbd": false,
-        "performers_name": "Milwaukee Brewers",
-        "state": "WI"
-    },
-    {
-        "id": 5462169,
-        "title": "Blue Jays at White Sox",
-        "category": "spor",
-        "address": "333 West 35th Street",
-        "location": {
-            "lat": 41.8299,
-            "lon": -87.6338
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/chicago-white-sox-870367/23/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:10:00",
-        "tbd": false,
-        "performers_name": "Chicago White Sox",
-        "state": "IL"
-    },
-    {
-        "id": 5732291,
-        "title": "Kalamazoo Growlers at Battle Creek Bombers",
-        "category": "spor",
-        "address": "121 Sea Lion St.",
-        "location": {
-            "lat": 37.7752,
-            "lon": -122.418
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/battle-creek-bombers-9d8e96/516107/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:35:00",
-        "tbd": false,
-        "performers_name": "Battle Creek Bombers",
-        "state": "CA"
-    },
-    {
-        "id": 5464440,
-        "title": "Royals at Angels",
-        "category": "spor",
-        "address": "2000 East Gene Autry Way",
-        "location": {
-            "lat": 33.8003,
-            "lon": -117.883
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/los-angeles-angels-a8e585/28/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:38:00",
-        "tbd": false,
-        "performers_name": "Los Angeles Angels",
-        "state": "CA"
-    },
-    {
-        "id": 5463305,
-        "title": "Diamondbacks at Padres",
-        "category": "spor",
-        "address": "100 Park Boulevard",
-        "location": {
-            "lat": 32.7071,
-            "lon": -117.156
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/san-diego-padres-18b019/24/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:40:00",
-        "tbd": false,
-        "performers_name": "San Diego Padres",
-        "state": "CA"
-    },
-    {
-        "id": 5654749,
-        "title": "Reno Rodeo",
-        "category": "spor",
-        "address": "1350 North Wells Avenue",
-        "location": {
-            "lat": 39.5424,
-            "lon": -119.802
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-rodeo-73310a/677170/35971/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Reno Rodeo",
-        "state": "NV"
+        "performers_name": "Jackson Browne",
+        "state": "IN"
     },
     {
         "id": 5729550,
@@ -875,6 +548,7 @@
             "lat": 38.9963,
             "lon": -77.1764
         },
+        "venue": "Congressional Country Club",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/kpmg-women-s-pga-championship-d3e4ed/451845/huge.jpg"
         },
@@ -892,6 +566,7 @@
             "lat": 26.8911,
             "lon": -80.1163
         },
+        "venue": "Roger Dean Stadium",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/palm-beach-cardinals-4b9faf/9420/huge.jpg"
         },
@@ -909,6 +584,7 @@
             "lat": 36.0996,
             "lon": -80.2411
         },
+        "venue": "BB&T Ballpark",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/winston-salem-dash-75a579/9413/huge.jpg"
         },
@@ -926,6 +602,7 @@
             "lat": 39.73,
             "lon": -75.56
         },
+        "venue": "Frawley Stadium",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
         },
@@ -943,6 +620,7 @@
             "lat": 37.6816,
             "lon": -97.3452
         },
+        "venue": "Riverfront Stadium",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/wichita-wind-surge-2b59e7/773608/huge.jpg"
         },
@@ -960,6 +638,7 @@
             "lat": 29.6224,
             "lon": -95.6473
         },
+        "venue": "Constellation Field",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
         },
@@ -977,6 +656,7 @@
             "lat": 33.6547,
             "lon": -117.303
         },
+        "venue": "Lake Elsinore Diamond",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
         },
@@ -994,6 +674,7 @@
             "lat": 38.5804,
             "lon": -121.514
         },
+        "venue": "Sutter Health Park",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/sacramento-river-cats-20384c/9258/huge.jpg"
         },
@@ -1011,6 +692,7 @@
             "lat": 40.56,
             "lon": -75.38
         },
+        "venue": "Saucon Valley Country Club",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/us-senior-open-golf-03faed/5771/huge.jpg"
         },
@@ -1020,7 +702,456 @@
         "state": "PA"
     },
     {
-        "id": 5535815,
+        "id": 5572132,
+        "title": "U.S. Senior Open - Tuesday",
+        "category": "spor",
+        "address": "2050 Saucon Valley Rd",
+        "location": {
+            "lat": 40.56,
+            "lon": -75.38
+        },
+        "venue": "Saucon Valley Country Club",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/us-senior-open-golf-03faed/5771/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T07:00:00",
+        "tbd": false,
+        "performers_name": "US Senior Open Golf",
+        "state": "PA"
+    },
+    {
+        "id": 5580829,
+        "title": "Peoria Chiefs at South Bend Cubs",
+        "category": "spor",
+        "address": "501 West South Street",
+        "location": {
+            "lat": 41.6703,
+            "lon": -86.2556
+        },
+        "venue": "Four Winds Field at Coveleski Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/south-bend-cubs-ecbdcd/9288/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "South Bend Cubs",
+        "state": "IN"
+    },
+    {
+        "id": 5614642,
+        "title": "Frederick Keys at State College Spikes",
+        "category": "spor",
+        "address": "701 Porter Road",
+        "location": {
+            "lat": 40.8123,
+            "lon": -77.8529
+        },
+        "venue": "Medlar Field At Lubrano Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "State College Spikes",
+        "state": "PA"
+    },
+    {
+        "id": 5605930,
+        "title": "Williamsport Crosscutters at West Virginia Black Bears",
+        "category": "spor",
+        "address": "1 University Town Center Drive",
+        "location": {
+            "lat": 39.6437,
+            "lon": -79.9959
+        },
+        "venue": "Monongalia County Ballpark",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "West Virginia Black Bears",
+        "state": "WV"
+    },
+    {
+        "id": 5581130,
+        "title": "Jupiter Hammerheads at Daytona Tortugas",
+        "category": "spor",
+        "address": "105 East Orange Avenue",
+        "location": {
+            "lat": 29.2091,
+            "lon": -81.0154
+        },
+        "venue": "Jackie Robinson Ballpark",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/daytona-tortugas-32dbef/9927/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "Daytona Tortugas",
+        "state": "FL"
+    },
+    {
+        "id": 5614545,
+        "title": "Trois Rivieres Aigles at Tri-City ValleyCats",
+        "category": "spor",
+        "address": "80 Vandenburg Avenue",
+        "location": {
+            "lat": 42.6973,
+            "lon": -73.682
+        },
+        "venue": "Joseph L. Bruno Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tri-city-valleycats-74d3c7/9226/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "Tri-City ValleyCats",
+        "state": "NY"
+    },
+    {
+        "id": 5614536,
+        "title": "Trenton Thunder at Mahoning Valley Scrappers",
+        "category": "spor",
+        "address": "111 Eastwood Mall Blvd",
+        "location": {
+            "lat": 41.2186,
+            "lon": -80.755
+        },
+        "venue": "Eastwood Field",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "Mahoning Valley Scrappers",
+        "state": "OH"
+    },
+    {
+        "id": 5575810,
+        "title": "Beloit Snappers at Lansing Lugnuts",
+        "category": "spor",
+        "address": "505 East Michigan Avenue",
+        "location": {
+            "lat": 42.7342,
+            "lon": -84.5456
+        },
+        "venue": "Jackson Field",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "Lansing Lugnuts",
+        "state": "MI"
+    },
+    {
+        "id": 5549825,
+        "title": "Columbus Clippers at Omaha Storm Chasers",
+        "category": "spor",
+        "address": "12356 Ballpark Way",
+        "location": {
+            "lat": 41.1509,
+            "lon": -96.1059
+        },
+        "venue": "Werner Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/omaha-storm-chasers-2f02e1/9321/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T12:05:00",
+        "tbd": false,
+        "performers_name": "Omaha Storm Chasers",
+        "state": "NE"
+    },
+    {
+        "id": 5487316,
+        "title": "CWS - Gm 9 (Texas A&M vs Notre Dame)",
+        "category": "spor",
+        "address": "1200 Mike Fahey St",
+        "location": {
+            "lat": 41.2664,
+            "lon": -95.9325
+        },
+        "venue": "Charles Schwab Field Omaha",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/ncaa-college-world-series-daab9e/10529/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "NCAA College World Series\t",
+        "state": "NE"
+    },
+    {
+        "id": 5574172,
+        "title": "Bowie Baysox at Erie SeaWolves",
+        "category": "spor",
+        "address": "110 E 10th St.",
+        "location": {
+            "lat": 42.1271,
+            "lon": -80.0802
+        },
+        "venue": "UPMC Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/erie-seawolves-82c148/9293/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:05:00",
+        "tbd": false,
+        "performers_name": "Erie SeaWolves",
+        "state": "PA"
+    },
+    {
+        "id": 5576429,
+        "title": "Bradenton Marauders at Dunedin Blue Jays",
+        "category": "spor",
+        "address": "373 Douglas Ave.",
+        "location": {
+            "lat": 28.0036,
+            "lon": -82.7868
+        },
+        "venue": "TD Ballpark",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/dunedin-blue-jays-5ce8ad/9924/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:05:00",
+        "tbd": false,
+        "performers_name": "Dunedin Blue Jays",
+        "state": "FL"
+    },
+    {
+        "id": 5586536,
+        "title": "Asheville Tourists at Greensboro Grasshoppers",
+        "category": "spor",
+        "address": "408 Bellemeade Street",
+        "location": {
+            "lat": 36.08,
+            "lon": -79.79
+        },
+        "venue": "First National Bank Field",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/greensboro-grasshoppers-636192/9330/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Greensboro Grasshoppers",
+        "state": "NC"
+    },
+    {
+        "id": 5574019,
+        "title": "Fort Myers Mighty Mussels at Lakeland Flying Tigers",
+        "category": "spor",
+        "address": "2301 Lakeland Hills Blvd.",
+        "location": {
+            "lat": 28.0739,
+            "lon": -81.9533
+        },
+        "venue": "Joker Marchant Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/lakeland-flying-tigers-e954f4/9431/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Lakeland Flying Tigers",
+        "state": "FL"
+    },
+    {
+        "id": 5572597,
+        "title": "Clearwater Threshers at Tampa Tarpons",
+        "category": "spor",
+        "address": "1 Steinbrenner Drive",
+        "location": {
+            "lat": 27.9798,
+            "lon": -82.5072
+        },
+        "venue": "George M. Steinbrenner Field",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tampa-tarpons-7e0e46/9916/4610/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:30:00",
+        "tbd": false,
+        "performers_name": "Tampa Tarpons",
+        "state": "FL"
+    },
+    {
+        "id": 5567041,
+        "title": "Harrisburg Senators at Akron RubberDucks",
+        "category": "spor",
+        "address": "300 South Main Street",
+        "location": {
+            "lat": 41.0774,
+            "lon": -81.5215
+        },
+        "venue": "Canal Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/akron-rubberducks-47f88b/9252/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:35:00",
+        "tbd": false,
+        "performers_name": "Akron RubberDucks",
+        "state": "OH"
+    },
+    {
+        "id": 5582146,
+        "title": "Reading Phillies at Rumble Ponies",
+        "category": "spor",
+        "address": "211 Henry Street",
+        "location": {
+            "lat": 42.1024,
+            "lon": -75.9049
+        },
+        "venue": "Mirabito Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/binghamton-mets-d343e8/9263/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:35:00",
+        "tbd": false,
+        "performers_name": "Binghamton Mets",
+        "state": "NY"
+    },
+    {
+        "id": 5594272,
+        "title": "Portland Sea Dogs at Richmond Flying Squirrels",
+        "category": "spor",
+        "address": "3001 N Boulevard",
+        "location": {
+            "lat": 37.5718,
+            "lon": -77.4642
+        },
+        "venue": "The Diamond",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/richmond-flying-squirrels-2db8cc/9274/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:35:00",
+        "tbd": false,
+        "performers_name": "Richmond Flying Squirrels",
+        "state": "VA"
+    },
+    {
+        "id": 5462337,
+        "title": "Dodgers at Reds",
+        "category": "spor",
+        "address": "100 Joe Nuxhall Way",
+        "location": {
+            "lat": 39.0974,
+            "lon": -84.5071
+        },
+        "venue": "Great American Ball Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/cincinnati-reds-d89871/26/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:40:00",
+        "tbd": false,
+        "performers_name": "Cincinnati Reds",
+        "state": "OH"
+    },
+    {
+        "id": 5520970,
+        "title": "Charlotte Knights at Worcester Red Sox",
+        "category": "spor",
+        "address": "122 Madison Street",
+        "location": {
+            "lat": 42.2584,
+            "lon": -71.8034
+        },
+        "venue": "Polar Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/worcester-red-sox-2893da/9249/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:45:00",
+        "tbd": false,
+        "performers_name": "Worcester Red Sox",
+        "state": "MA"
+    },
+    {
+        "id": 5613192,
+        "title": "Lexington County Blowfish at Savannah Bananas",
+        "category": "spor",
+        "address": "1401 East Victory Drive",
+        "location": {
+            "lat": 32.0454,
+            "lon": -81.079
+        },
+        "venue": "Grayson Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-sports-b33da4/677214/35941/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Savannah Bananas",
+        "state": "GA"
+    },
+    {
+        "id": 5558417,
+        "title": "Absinthe - Las Vegas",
+        "category": "tiyatro",
+        "address": "3570 Las Vegas Boulevard South",
+        "location": {
+            "lat": 36.116,
+            "lon": -115.174
+        },
+        "venue": "Spiegeltent at Caesars Palace",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/absinthe-7c3a99/9730/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T22:00:00",
+        "tbd": false,
+        "performers_name": "Absinthe",
+        "state": "NV"
+    },
+    {
+        "id": 5557254,
+        "title": "X - Burlesque - Las Vegas",
+        "category": "tiyatro",
+        "address": "3555 Las Vegas Boulevard South",
+        "location": {
+            "lat": 36.1156,
+            "lon": -115.173
+        },
+        "venue": "Flamingo Las Vegas",
+        "images": {},
+        "date_time_local": "2022-06-20T22:00:00",
+        "tbd": false,
+        "performers_name": "X - Burlesque",
+        "state": "NV"
+    },
+    {
+        "id": 5535598,
+        "title": "X Country - Las Vegas",
+        "category": "tiyatro",
+        "address": "3475 Las Vegas Blvd S",
+        "location": {
+            "lat": 36.1193,
+            "lon": -115.172
+        },
+        "venue": "Harrahs Cabaret at Harrahs Las Vegas",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/x-country-437688/387467/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T22:00:00",
+        "tbd": false,
+        "performers_name": "X Country",
+        "state": "NV"
+    },
+    
+    {
+        "id": 5525793,
+        "title": "Fantasy - Las Vegas",
+        "category": "tiyatro",
+        "address": "3900 Las Vegas Blvd Soouth",
+        "location": {
+            "lat": 36.0955,
+            "lon": -115.176
+        },
+        "venue": "Atrium Showroom at Luxor Hotel and Casino",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/fantasy-3f784e/8247/huge.jpg"
+        },
+        "date_time_local": "2022-06-20T22:30:00",
+        "tbd": false,
+        "performers_name": "Fantasy",
+        "state": "NV"
+    },
+    {
+        "id": 5535818,
         "title": "Eiffel Tower Experience - Las Vegas",
         "category": "tiyatro",
         "address": "3655 Las Vegas Boulevard South",
@@ -1028,110 +1159,17 @@
             "lat": 36.1125,
             "lon": -115.171
         },
+        "venue": "Le Theatre Des Arts at Paris Las Vegas",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/generic-family-entertainment-f800b0/677155/32439/huge.jpg"
         },
-        "date_time_local": "2022-06-20T03:30:00",
+        "date_time_local": "2022-06-21T03:30:00",
         "tbd": true,
         "performers_name": "Eiffel Tower Experience",
         "state": "NV"
     },
     {
-        "id": 5706814,
-        "title": "UniverSoul Circus - Windsor Mill",
-        "category": "tiyatro",
-        "address": "6901 Security Boulevard",
-        "location": {
-            "lat": 39.3094,
-            "lon": -76.7493
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/universoul-circus-119b7f/8214/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T12:00:00",
-        "tbd": false,
-        "performers_name": "UniverSoul Circus",
-        "state": "MD"
-    },
-    {
-        "id": 5687236,
-        "title": "Immersive Van Gogh Exhibit - Hermosa Beach",
-        "category": "tiyatro",
-        "address": "30 Pier Avenue",
-        "location": {
-            "lat": 33.8621,
-            "lon": -118.401
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T11:00:00",
-        "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit",
-        "state": "CA"
-    },
-    {
-        "id": 5706813,
-        "title": "UniverSoul Circus - Windsor Mill",
-        "category": "tiyatro",
-        "address": "6901 Security Boulevard",
-        "location": {
-            "lat": 39.3094,
-            "lon": -76.7493
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/universoul-circus-119b7f/8214/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T16:00:00",
-        "tbd": false,
-        "performers_name": "UniverSoul Circus",
-        "state": "MD"
-    },
-    {
-        "id": 5687241,
-        "title": "Immersive Van Gogh Exhibit - Hermosa Beach",
-        "category": "tiyatro",
-        "address": "30 Pier Avenue",
-        "location": {
-            "lat": 33.8621,
-            "lon": -118.401
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T14:00:00",
-        "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit",
-        "state": "CA"
-    },
-    {
-        "id": 5715451,
-        "title": "Immersive Van Gogh Exhibit - Nashville",
-        "category": "tiyatro",
-        "address": "4416 Ridgefield Way",
-        "location": {
-            "lat": 36.1253,
-            "lon": -86.8443
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T17:00:00",
-        "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit",
-        "state": "TN"
-    },
-    {
-        "id": 5705868,
-        "title": "Alcatraz Night Tour - San Francisco",
-        "category": "tiyatro",
-        "address": "55 Francisco St",
-        "location": {
-            "lat": 37.8055,
-            "lon": -122.406
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T15:50:00",
-        "tbd": false,
-        "performers_name": "Alcatraz Night Tour",
-        "state": "CA"
-    },
-    {
-        "id": 5662395,
+        "id": 5667408,
         "title": "Half-Stitched The Musical - Shipshewana",
         "category": "tiyatro",
         "address": "175 N Van Buren St",
@@ -1139,16 +1177,360 @@
             "lat": 41.6767,
             "lon": -85.5802
         },
+        "venue": "Blue Gate Theatre",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/half-stitched-the-musical-83463a/678533/huge.jpg"
         },
-        "date_time_local": "2022-06-20T19:00:00",
+        "date_time_local": "2022-06-21T13:00:00",
         "tbd": false,
         "performers_name": "Half-Stitched The Musical",
         "state": "IN"
     },
     {
-        "id": 5553273,
+        "id": 5705778,
+        "title": "Richard III - Stratford",
+        "category": "tiyatro",
+        "address": "111 Lakeside Dr",
+        "location": {
+            "lat": 43.37,
+            "lon": -80.98
+        },
+        "venue": "Tom Patterson Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/richard-iii-2aab7b/11176/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T14:00:00",
+        "tbd": false,
+        "performers_name": "Richard III",
+        "state": "ON"
+    },
+    
+    {
+        "id": 5597094,
+        "title": "Potted Potter - Las Vegas",
+        "category": "tiyatro",
+        "address": "3645 South Las Vegas Boulevard",
+        "location": {
+            "lat": 36.1142,
+            "lon": -115.171
+        },
+        "venue": "The Magic Attic at Bally's Las Vegas",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/potted-potter-f98a7f/13876/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T14:00:00",
+        "tbd": false,
+        "performers_name": "Potted Potter",
+        "state": "NV"
+    },
+    {
+        "id": 5588888,
+        "title": "Cirque du Soleil Drawn to Life - Orlando",
+        "category": "tiyatro",
+        "address": "1751 Hotel Plaza Blvd",
+        "location": {
+            "lat": 28.373,
+            "lon": -81.5107
+        },
+        "venue": "Walt Disney World Resort",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-cirque-du-soleil-d09d27/677166/32438/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T17:30:00",
+        "tbd": false,
+        "performers_name": "Cirque du Soleil Drawn to Life",
+        "state": "FL"
+    },
+    {
+        "id": 5646675,
+        "title": "Paw Patrol Live - Salem",
+        "category": "tiyatro",
+        "address": "1001 Blvd",
+        "location": {
+            "lat": 37.2854,
+            "lon": -80.0393
+        },
+        "venue": "Salem Civic Center",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/paw-patrol-live-613d60/514899/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Paw Patrol Live",
+        "state": "VA"
+    },
+    {
+        "id": 5642849,
+        "title": "Spongebob Squarepants the Musical - Columbia",
+        "category": "tiyatro",
+        "address": "5900 Symphony Woods Rd",
+        "location": {
+            "lat": 39.2089,
+            "lon": -76.8585
+        },
+        "venue": "Toby's Dinner Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/spongebob-squarepants-the-musical-8f279c/421170/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Spongebob Squarepants the Musical",
+        "state": "MD"
+    },
+    {
+        "id": 5674801,
+        "title": "Blippi Live (not feat. Stevin John) - Warren",
+        "category": "tiyatro",
+        "address": "1703 Mahoning Avenue Northwest",
+        "location": {
+            "lat": 41.2514,
+            "lon": -80.8302
+        },
+        "venue": "Packard Music Hall",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/blippi-live-not-feat-stevin-john-3caf99/772893/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Blippi Live (not feat. Stevin John)",
+        "state": "OH"
+    },
+    
+    {
+        "id": 5530354,
+        "title": "Macbeth - New York",
+        "category": "tiyatro",
+        "address": "220 West 48th Street",
+        "location": {
+            "lat": 40.7605,
+            "lon": -73.9857
+        },
+        "venue": "Longacre Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/macbeth-8cbdab/7481/27801/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Macbeth",
+        "state": "NY"
+    },
+    {
+        "id": 5692546,
+        "title": "Neil Simon's Plaza Suite",
+        "category": "tiyatro",
+        "address": "145 West 44th Street",
+        "location": {
+            "lat": 40.7569,
+            "lon": -73.9848
+        },
+        "venue": "Hudson Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/neil-simon-s-plaza-suite-05342a/793323/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Neil Simon's Plaza Suite",
+        "state": "NY"
+    },
+    {
+        "id": 5573560,
+        "title": "Moulin Rouge! The Musical",
+        "category": "tiyatro",
+        "address": "302 West 45th Street",
+        "location": {
+            "lat": 40.7594,
+            "lon": -73.9891
+        },
+        "venue": "Al Hirschfeld Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/moulin-rouge-the-musical-840f04/11509/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Moulin Rouge! The Musical",
+        "state": "NY"
+    },
+   
+    {
+        "id": 5537481,
+        "title": "Paradise Square",
+        "category": "tiyatro",
+        "address": "243 West 47th Street",
+        "location": {
+            "lat": 40.7602,
+            "lon": -73.9862
+        },
+        "venue": "Barrymore Theatre",
+        "images": {},
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Paradise Square",
+        "state": "NY"
+    },
+    {
+        "id": 5597647,
+        "title": "Little Shop of Horrors - New York",
+        "category": "tiyatro",
+        "address": "407 West 43rd Street",
+        "location": {
+            "lat": 40.7593,
+            "lon": -73.9927
+        },
+        "venue": "Westside Theatre Upstairs",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/little-shop-of-horrors-c8273e/8418/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Little Shop of Horrors",
+        "state": "NY"
+    },
+    {
+        "id": 5520052,
+        "title": "Frederic Da Silva - Las Vegas",
+        "category": "tiyatro",
+        "address": "3645 South Las Vegas Boulevard",
+        "location": {
+            "lat": 36.1142,
+            "lon": -115.171
+        },
+        "venue": "The Magic Attic at Bally's Las Vegas",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/frederic-da-silva-805092/297202/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T16:00:00",
+        "tbd": false,
+        "performers_name": "Frederic Da Silva",
+        "state": "NV"
+    },
+    {
+        "id": 5713495,
+        "title": "Micro Wrestling - Gowen",
+        "category": "tiyatro",
+        "address": null,
+        "location": {
+            "lat": 43.2517,
+            "lon": -85.302
+        },
+        "venue": "Montcalm County Fairgrounds",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/micro-wrestling-2a8f46/754755/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Micro Wrestling",
+        "state": "MI"
+    },
+    {
+        "id": 5528083,
+        "title": "Menopause The Musical - Las Vegas",
+        "category": "tiyatro",
+        "address": "3475 Las Vegas Blvd S",
+        "location": {
+            "lat": 36.1193,
+            "lon": -115.172
+        },
+        "venue": "Harrahs Cabaret at Harrahs Las Vegas",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/menopause-the-musical-6abdab/5966/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T16:00:00",
+        "tbd": false,
+        "performers_name": "Menopause The Musical",
+        "state": "NV"
+    },
+    {
+        "id": 5383628,
+        "title": "Hadestown",
+        "category": "tiyatro",
+        "address": "219 West 48th Street",
+        "location": {
+            "lat": 40.7605,
+            "lon": -73.9857
+        },
+        "venue": "Walter Kerr Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/hadestown-200a61/510834/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Hadestown",
+        "state": "NY"
+    },
+    {
+        "id": 5402062,
+        "title": "Come From Away - New York",
+        "category": "tiyatro",
+        "address": "236 West 45th Street",
+        "location": {
+            "lat": 40.7587,
+            "lon": -73.9873
+        },
+        "venue": "Gerald Schoenfeld Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/come-from-away-a9a0d4/406007/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Come From Away",
+        "state": "NY"
+    },
+    {
+        "id": 5675357,
+        "title": "Masters of Illusion - Atlantic City",
+        "category": "tiyatro",
+        "address": "777 Harrah's Boulevard",
+        "location": {
+            "lat": 39.3842,
+            "lon": -74.4285
+        },
+        "venue": "Harrah's Resort Atlantic City",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/masters-of-illusion-0828d1/11699/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Masters of Illusion",
+        "state": "NJ"
+    },
+    {
+        "id": 5405951,
+        "title": "The Lion King - New York",
+        "category": "tiyatro",
+        "address": "200 West 45th Street",
+        "location": {
+            "lat": 40.7579,
+            "lon": -73.9862
+        },
+        "venue": "Minskoff Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-lion-king-0b52ab/5475/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "The Lion King",
+        "state": "NY"
+    },
+    {
+        "id": 5587994,
+        "title": "Harry Potter and the Cursed Child Toronto",
+        "category": "tiyatro",
+        "address": "244 Victoria St",
+        "location": {
+            "lat": 43.6554,
+            "lon": -79.3795
+        },
+        "venue": "Ed Mirvish Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/harry-potter-and-the-cursed-child-e953ac/380245/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Harry Potter and The Cursed Child",
+        "state": "ON"
+    },
+    {
+        "id": 5553258,
         "title": "Nathan Burton - Las Vegas",
         "category": "tiyatro",
         "address": "3663 South Las Vegas Boulevard",
@@ -1156,528 +1538,13 @@
             "lat": 36.1096,
             "lon": -115.172
         },
+        "venue": "Saxe Theater",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/nathan-burton-1279c7/8321/huge.jpg"
         },
-        "date_time_local": "2022-06-20T16:00:00",
+        "date_time_local": "2022-06-21T16:00:00",
         "tbd": false,
         "performers_name": "Nathan Burton",
-        "state": "NV"
-    },
-    {
-        "id": 5646491,
-        "title": "Blue Man Group - New York",
-        "category": "tiyatro",
-        "address": "434 Lafayette Street",
-        "location": {
-            "lat": 40.7301,
-            "lon": -73.9926
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/blue-man-group-d26577/5194/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Blue Man Group",
-        "state": "NY"
-    },
-    {
-        "id": 5694804,
-        "title": "The Play That Goes Wrong - New York",
-        "category": "tiyatro",
-        "address": "340 West 50th Street",
-        "location": {
-            "lat": 40.7628,
-            "lon": -73.9874
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-play-that-goes-wrong-1b9f96/290948/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "The Play That Goes Wrong",
-        "state": "NY"
-    },
-    {
-        "id": 5565924,
-        "title": "Chicago (Musical) - New York",
-        "category": "tiyatro",
-        "address": "219 West 49th Street",
-        "location": {
-            "lat": 40.7613,
-            "lon": -73.985
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/chicago-musical-03a650/5345/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Chicago (Musical)",
-        "state": "NY"
-    },
-    {
-        "id": 5670728,
-        "title": "Jersey Boys - New York",
-        "category": "tiyatro",
-        "address": "340 West 50th Street",
-        "location": {
-            "lat": 40.7628,
-            "lon": -73.9874
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/jersey-boys-b255d4/5224/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Jersey Boys",
-        "state": "NY"
-    },
-    {
-        "id": 5694066,
-        "title": "The Play That Goes Wrong - Washington",
-        "category": "tiyatro",
-        "address": "555 Pennsylvania Ave NW",
-        "location": {
-            "lat": 38.8928,
-            "lon": -77.0196
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-play-that-goes-wrong-1b9f96/290948/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:07",
-        "tbd": false,
-        "performers_name": "The Play That Goes Wrong",
-        "state": "DC"
-    },
-    {
-        "id": 5708237,
-        "title": "Sarah Jakes Roberts - Atlanta",
-        "category": "tiyatro",
-        "address": "660 Peachtree Street NE",
-        "location": {
-            "lat": 33.7724,
-            "lon": -84.385
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/sarah-jakes-roberts-875b33/787988/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Sarah Jakes Roberts",
-        "state": "GA"
-    },
-    {
-        "id": 5649572,
-        "title": "Of Love and Rage - New York",
-        "category": "tiyatro",
-        "address": "70 Lincoln Center Plaza",
-        "location": {
-            "lat": 40.7725,
-            "lon": -73.9835
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/of-love-and-rage-213a57/779088/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Of Love and Rage",
-        "state": "NY"
-    },
-    {
-        "id": 5607132,
-        "title": "Blue Man Group - Las Vegas",
-        "category": "tiyatro",
-        "address": "3900 Las Vegas Blvd S",
-        "location": {
-            "lat": 36.0955,
-            "lon": -115.176
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/blue-man-group-d26577/5194/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T17:00:00",
-        "tbd": false,
-        "performers_name": "Blue Man Group",
-        "state": "NV"
-    },
-    {
-        "id": 5410401,
-        "title": "Rachid Badouri",
-        "category": "tiyatro",
-        "address": "1004 Rue Saint Catherine Street",
-        "location": {
-            "lat": 45.5004,
-            "lon": -73.572
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/rachid-badouri-e380fb/278620/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Rachid Badouri",
-        "state": "QC"
-    },
-    {
-        "id": 5670276,
-        "title": "Perfect Crime - New York",
-        "category": "tiyatro",
-        "address": "210 W. 50th Street",
-        "location": {
-            "lat": 40.7615,
-            "lon": -73.9845
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/perfect-crime-ecdad9/8183/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Perfect Crime",
-        "state": "NY"
-    },
-    {
-        "id": 5715446,
-        "title": "Immersive Van Gogh Exhibit - Nashville",
-        "category": "tiyatro",
-        "address": "4416 Ridgefield Way",
-        "location": {
-            "lat": 36.1253,
-            "lon": -86.8443
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Immersive Van Gogh Exhibit",
-        "state": "TN"
-    },
-    {
-        "id": 5616392,
-        "title": "The Phantom of the Opera - New York",
-        "category": "tiyatro",
-        "address": "245 West 44th St",
-        "location": {
-            "lat": 40.7583,
-            "lon": -73.9879
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-phantom-of-the-opera-1e7243/5443/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "The Phantom of the Opera",
-        "state": "NY"
-    },
-    {
-        "id": 5539065,
-        "title": "Anastasia (Musical) - Lubbock",
-        "category": "tiyatro",
-        "address": "1300 Mac Davis Lane",
-        "location": {
-            "lat": 33.5906,
-            "lon": -101.849
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/anastasia-musical-88a90f/593267/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Anastasia (Musical)",
-        "state": "TX"
-    },
-    {
-        "id": 5603753,
-        "title": "MJ Live - Las Vegas",
-        "category": "tiyatro",
-        "address": "3801 Las Vegas Boulevard",
-        "location": {
-            "lat": 36.099,
-            "lon": -115.17
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/mj-live-4d3518/23360/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T17:30:00",
-        "tbd": false,
-        "performers_name": "MJ Live",
-        "state": "NV"
-    },
-    {
-        "id": 5705237,
-        "title": "Circo Hermanos Vazquez - Skokie",
-        "category": "tiyatro",
-        "address": "4999 Old Orchard Shop Center East Ring Rd",
-        "location": {
-            "lat": 42.0594,
-            "lon": -87.7493
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/circo-hermanos-vazquez-42d7d9/13464/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Circo Hermanos Vazquez",
-        "state": "IL"
-    },
-    {
-        "id": 5553423,
-        "title": "Hitzville - Las Vegas",
-        "category": "tiyatro",
-        "address": "3667 Las Vegas Blvd S",
-        "location": {
-            "lat": 36.1086,
-            "lon": -115.173
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/hitzville-3af771/11011/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T17:30:00",
-        "tbd": false,
-        "performers_name": "Hitzville",
-        "state": "NV"
-    },
-    {
-        "id": 5580012,
-        "title": "Tournament - Las Vegas",
-        "category": "tiyatro",
-        "address": "3850 Las Vegas Blvd",
-        "location": {
-            "lat": 36.1,
-            "lon": -115.17
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-family-entertainment-f800b0/677155/32439/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T18:00:00",
-        "tbd": false,
-        "performers_name": "Tournament",
-        "state": "NV"
-    },
-    {
-        "id": 5603675,
-        "title": "Madagascar - El Paso",
-        "category": "tiyatro",
-        "address": "125 Pioneer Plaza",
-        "location": {
-            "lat": 31.8125,
-            "lon": -106.443
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/madagascar-568a6e/7332/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Madagascar",
-        "state": "TX"
-    },
-    {
-        "id": 5663348,
-        "title": "Blue Man Group - Chicago",
-        "category": "tiyatro",
-        "address": "3133 N Halsted",
-        "location": {
-            "lat": 41.9391,
-            "lon": -87.6492
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/blue-man-group-d26577/5194/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Blue Man Group",
-        "state": "IL"
-    },
-    {
-        "id": 5693205,
-        "title": "John Mulaney",
-        "category": "komedi",
-        "address": "99 Monmouth Street",
-        "location": {
-            "lat": 40.354,
-            "lon": -74.0628
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/john-mulaney-39edf3/10230/26932/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "John Mulaney",
-        "state": "NJ"
-    },
-    {
-        "id": 5726832,
-        "title": "Borgata Comedy Club",
-        "category": "komedi",
-        "address": "1 Borgata Way",
-        "location": {
-            "lat": 39.3781,
-            "lon": -74.4338
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Borgata Comedy Club",
-        "state": "NJ"
-    },
-
-    {
-        "id": 5661507,
-        "title": "The Best of the Second City",
-        "category": "komedi",
-        "address": "1616 N. Wells St",
-        "location": {
-            "lat": 41.9116,
-            "lon": -87.635
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-best-of-the-second-city-29332e/584020/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "The Best of the Second City",
-        "state": "IL"
-    },
-    {
-        "id": 5526805,
-        "title": "Comedy Cellar",
-        "category": "komedi",
-        "address": "3700 W Flamingo Rd",
-        "location": {
-            "lat": 36.117,
-            "lon": -115.186
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Comedy Cellar",
-        "state": "NV"
-    },
-    {
-        "id": 5474009,
-        "title": "Piff The Magic Dragon",
-        "category": "komedi",
-        "address": "3555 Las Vegas Boulevard South",
-        "location": {
-            "lat": 36.1156,
-            "lon": -115.173
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T19:00:00",
-        "tbd": false,
-        "performers_name": "Piff The Magic Dragon",
-        "state": "NV"
-    },
-    {
-        "id": 5548118,
-        "title": "Terry Fator",
-        "category": "komedi",
-        "address": "3790 South Las Vegas Boulevard",
-        "location": {
-            "lat": 36.1645,
-            "lon": -115.158
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/terry-fator-c873e0/5214/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T19:30:00",
-        "tbd": false,
-        "performers_name": "Terry Fator",
-        "state": "NV"
-    },
-    {
-        "id": 5655315,
-        "title": "Brad Garrett with Quinn Dahle",
-        "category": "komedi",
-        "address": "3799 Las Vegas Blvd South",
-        "location": {
-            "lat": 36.1022,
-            "lon": -115.17
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/brad-garrett-744b44/5468/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Brad Garrett",
-        "state": "NV"
-    },
-    {
-        "id": 5615547,
-        "title": "Eddie Griffin",
-        "category": "komedi",
-        "address": "2535 Las Vegas Blvd South",
-        "location": {
-            "lat": 36.142,
-            "lon": -115.158
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/eddie-griffin-9f2c8d/6741/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Eddie Griffin",
-        "state": "NV"
-    },
-    {
-        "id": 5525961,
-        "title": "Carrot Top",
-        "category": "komedi",
-        "address": "3900 Las Vegas Blvd Soouth",
-        "location": {
-            "lat": 36.0955,
-            "lon": -115.176
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/carrot-top-53c246/5190/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:00:00",
-        "tbd": false,
-        "performers_name": "Carrot Top",
-        "state": "NV"
-    },
-    {
-        "id": 5528917,
-        "title": "Laugh Factory Las Vegas",
-        "category": "komedi",
-        "address": "3801 Las Vegas Blvd.",
-        "location": {
-            "lat": 36.0996,
-            "lon": -115.171
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T20:30:00",
-        "tbd": false,
-        "performers_name": "Laugh Factory Las Vegas",
-        "state": "NV"
-    },
-    {
-        "id": 5617687,
-        "title": "Laugh Factory",
-        "category": "komedi",
-        "address": "3801 Las Vegas Boulevard",
-        "location": {
-            "lat": 36.1,
-            "lon": -115.17
-        },
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/laugh-factory-4257e2/288982/huge.jpg"
-        },
-        "date_time_local": "2022-06-20T20:30:00",
-        "tbd": false,
-        "performers_name": "Laugh Factory",
-        "state": "NV"
-    },
-    {
-        "id": 5527103,
-        "title": "Comedy Cellar",
-        "category": "komedi",
-        "address": "3700 W Flamingo Rd",
-        "location": {
-            "lat": 36.117,
-            "lon": -115.186
-        },
-        "images": {},
-        "date_time_local": "2022-06-20T21:30:00",
-        "tbd": false,
-        "performers_name": "Comedy Cellar",
         "state": "NV"
     },
     {
@@ -1689,6 +1556,7 @@
             "lat": 36.0996,
             "lon": -115.171
         },
+        "venue": "Laugh Factory at Tropicana Resort & Casino",
         "images": {},
         "date_time_local": "2022-06-20T22:30:00",
         "tbd": false,
@@ -1704,6 +1572,7 @@
             "lat": 36.1,
             "lon": -115.17
         },
+        "venue": "Tournament of Kings Arena at Excalibur Hotel and Casino",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/mac-king-3c4d1a/16551/5707/huge.jpg"
         },
@@ -1721,6 +1590,7 @@
             "lat": 36.1,
             "lon": -115.17
         },
+        "venue": "Tournament of Kings Arena at Excalibur Hotel and Casino",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/mac-king-3c4d1a/16551/5707/huge.jpg"
         },
@@ -1738,6 +1608,7 @@
             "lat": 45.5004,
             "lon": -73.572
         },
+        "venue": "L'Olympia (Olympia Theatre)",
         "images": {},
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
@@ -1753,6 +1624,7 @@
             "lat": 42.3504,
             "lon": -71.0654
         },
+        "venue": "Shubert Theatre - MA",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/game-grumps-0a6aa3/446768/huge.jpg"
         },
@@ -1770,6 +1642,7 @@
             "lat": 45.4413,
             "lon": -73.4404
         },
+        "venue": "L`Etoile Banque Nationale",
         "images": {},
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
@@ -1785,6 +1658,7 @@
             "lat": 39.3781,
             "lon": -74.4338
         },
+        "venue": "Music Box at the Borgata",
         "images": {},
         "date_time_local": "2022-06-21T20:00:00",
         "tbd": false,
@@ -1800,6 +1674,7 @@
             "lat": 39.7417,
             "lon": -104.998
         },
+        "venue": "Bellco Theatre",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/chris-rock-7822f0/100595/18999/huge.jpg"
         },
@@ -1817,6 +1692,7 @@
             "lat": 41.9116,
             "lon": -87.635
         },
+        "venue": "The Second City Mainstage Theatre",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/the-best-of-the-second-city-29332e/584020/huge.jpg"
         },
@@ -1834,6 +1710,7 @@
             "lat": 47.7298,
             "lon": -122.149
         },
+        "venue": "Chateau Ste Michelle Winery",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/tenacious-d-253621/1753/huge.jpg"
         },
@@ -1851,6 +1728,7 @@
             "lat": 36.117,
             "lon": -115.186
         },
+        "venue": "Comedy Cellar at Rio Las Vegas",
         "images": {},
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
@@ -1866,6 +1744,7 @@
             "lat": 41.9396,
             "lon": -87.681
         },
+        "venue": "Beat Kitchen",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/chicago-underground-comedy-6bd309/13297/huge.jpg"
         },
@@ -1883,6 +1762,7 @@
             "lat": 36.1645,
             "lon": -115.158
         },
+        "venue": "Liberty Loft",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/terry-fator-7f4688/5214/17923/huge.jpg"
         },
@@ -1900,6 +1780,7 @@
             "lat": 36.0955,
             "lon": -115.176
         },
+        "venue": "Atrium Showroom at Luxor Hotel and Casino",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/carrot-top-53c246/5190/huge.jpg"
         },
@@ -1917,6 +1798,7 @@
             "lat": 36.142,
             "lon": -115.158
         },
+        "venue": "Sahara Hotel and Casino",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/eddie-griffin-af414e/6741/17266/huge.jpg"
         },
@@ -1934,6 +1816,7 @@
             "lat": 36.1022,
             "lon": -115.17
         },
+        "venue": "Brad Garrett Comedy Club at MGM Grand Hotel and Casino",
         "images": {
             "huge": "https://seatgeek.com/images/performers-landscape/brad-garrett-744b44/5468/huge.jpg"
         },
@@ -1951,10 +1834,235 @@
             "lat": 36.0996,
             "lon": -115.171
         },
+        "venue": "Laugh Factory at Tropicana Resort & Casino",
         "images": {},
         "date_time_local": "2022-06-21T20:30:00",
         "tbd": false,
         "performers_name": "Laugh Factory Las Vegas",
         "state": "NV"
+    },
+    {
+        "id": 5617688,
+        "title": "Laugh Factory",
+        "category": "komedi",
+        "address": "3801 Las Vegas Boulevard",
+        "location": {
+            "lat": 36.1,
+            "lon": -115.17
+        },
+        "venue": "Laugh Factory Tropicana",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/laugh-factory-4257e2/288982/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T20:30:00",
+        "tbd": false,
+        "performers_name": "Laugh Factory",
+        "state": "NV"
+    },
+    {
+        "id": 5526980,
+        "title": "Comedy Cellar",
+        "category": "komedi",
+        "address": "3700 W Flamingo Rd",
+        "location": {
+            "lat": 36.117,
+            "lon": -115.186
+        },
+        "venue": "Comedy Cellar at Rio Las Vegas",
+        "images": {},
+        "date_time_local": "2022-06-21T21:30:00",
+        "tbd": false,
+        "performers_name": "Comedy Cellar",
+        "state": "NV"
+    },
+    {
+        "id": 5529319,
+        "title": "Laugh Factory Las Vegas",
+        "category": "komedi",
+        "address": "3801 Las Vegas Blvd.",
+        "location": {
+            "lat": 36.0996,
+            "lon": -115.171
+        },
+        "venue": "Laugh Factory at Tropicana Resort & Casino",
+        "images": {},
+        "date_time_local": "2022-06-21T22:30:00",
+        "tbd": false,
+        "performers_name": "Laugh Factory Las Vegas",
+        "state": "NV"
+    },
+    {
+        "id": 5502414,
+        "title": "Mac King",
+        "category": "komedi",
+        "address": "3850 Las Vegas Blvd",
+        "location": {
+            "lat": 36.1,
+            "lon": -115.17
+        },
+        "venue": "Tournament of Kings Arena at Excalibur Hotel and Casino",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/mac-king-3c4d1a/16551/5707/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T13:00:00",
+        "tbd": false,
+        "performers_name": "Mac King",
+        "state": "NV"
+    },
+    {
+        "id": 5502412,
+        "title": "Mac King",
+        "category": "komedi",
+        "address": "3850 Las Vegas Blvd",
+        "location": {
+            "lat": 36.1,
+            "lon": -115.17
+        },
+        "venue": "Tournament of Kings Arena at Excalibur Hotel and Casino",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/mac-king-3c4d1a/16551/5707/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T15:00:00",
+        "tbd": false,
+        "performers_name": "Mac King",
+        "state": "NV"
+    },
+    {
+        "id": 5705782,
+        "title": "Rob Schneider",
+        "category": "komedi",
+        "address": "2500 Vanderbilt Beach Rd",
+        "location": {
+            "lat": 26.2426,
+            "lon": -81.7652
+        },
+        "venue": "Off the Hook Comedy Club",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/rob-schneider-350fa5/5210/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T18:30:00",
+        "tbd": false,
+        "performers_name": "Rob Schneider",
+        "state": "Florida (fl)"
+    },
+    {
+        "id": 5590838,
+        "title": "Louis Jose Houde",
+        "category": "komedi",
+        "address": "1004 Rue Saint Catherine Street",
+        "location": {
+            "lat": 45.5004,
+            "lon": -73.572
+        },
+        "venue": "L'Olympia (Olympia Theatre)",
+        "images": {},
+        "date_time_local": "2022-06-22T19:00:00",
+        "tbd": false,
+        "performers_name": "Louis Jose Houde",
+        "state": "QC"
+    },
+    {
+        "id": 5676606,
+        "title": "Chelcie Lynn",
+        "category": "komedi",
+        "address": "401 W Short St",
+        "location": {
+            "lat": 38.0495,
+            "lon": -84.4991
+        },
+        "venue": "Lexington Opera House",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/chelcie-lynn-35f745/797251/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T19:00:00",
+        "tbd": false,
+        "performers_name": "Chelcie Lynn",
+        "state": "KY"
+    },
+    {
+        "id": 5626197,
+        "title": "Nikki Glaser",
+        "category": "komedi",
+        "address": "5000 Euclid Avenue",
+        "location": {
+            "lat": 41.5036,
+            "lon": -81.6538
+        },
+        "venue": "Agora Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/nikki-glaser-ce6b55/18761/19458/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T19:00:00",
+        "tbd": false,
+        "performers_name": "Nikki Glaser",
+        "state": "OH"
+    },
+    {
+        "id": 5689384,
+        "title": "Game Grumps",
+        "category": "komedi",
+        "address": "71 Eagle Street",
+        "location": {
+            "lat": 42.6504,
+            "lon": -73.7584
+        },
+        "venue": "The Egg",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/game-grumps-0a6aa3/446768/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T20:00:00",
+        "tbd": false,
+        "performers_name": "Game Grumps",
+        "state": "NY"
+    },
+    {
+        "id": 5534795,
+        "title": "Lise Dion",
+        "category": "komedi",
+        "address": "6000 Boulevard Rome",
+        "location": {
+            "lat": 45.4413,
+            "lon": -73.4404
+        },
+        "venue": "L`Etoile Banque Nationale",
+        "images": {},
+        "date_time_local": "2022-06-22T20:00:00",
+        "tbd": false,
+        "performers_name": "Lise Dion",
+        "state": "QC"
+    },
+    {
+        "id": 5711275,
+        "title": "John Crist",
+        "category": "komedi",
+        "address": "140 North 13th Street",
+        "location": {
+            "lat": 40.8141,
+            "lon": -96.7026
+        },
+        "venue": "Rococo Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/john-crist-9017ed/255660/huge.jpg"
+        },
+        "date_time_local": "2022-06-22T19:00:00",
+        "tbd": false,
+        "performers_name": "John Crist",
+        "state": "NE"
+    },
+    {
+        "id": 5726821,
+        "title": "Borgata Comedy Club",
+        "category": "komedi",
+        "address": "1 Borgata Way",
+        "location": {
+            "lat": 39.3781,
+            "lon": -74.4338
+        },
+        "venue": "Music Box at the Borgata",
+        "images": {},
+        "date_time_local": "2022-06-22T20:00:00",
+        "tbd": false,
+        "performers_name": "Borgata Comedy Club",
+        "state": "NJ"
     }
 ]

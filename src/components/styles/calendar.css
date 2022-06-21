@@ -1,3 +1,5 @@
+
+
 .calendar--form {
 	display:none;
 	position:absolute;
@@ -52,6 +54,7 @@
     margin-top: 0;
     margin-left: 10px;
     z-index:1;
+    cursor:default;
 }
 
 .calendar {
@@ -80,12 +83,13 @@
 	height: 50px;
 }
 .location--input {
-    border-radius: 20px 0 0 20px;
+    border-radius: 20px 20px 20px 20px;
     border: none;
-    width: 9rem;
+    width: 13rem;
     height: 92%;
     border: 1px solid rgb(24,24,24);
     font-size: 18px;
+    cursor:default;
 }
 .location--submit {
 	position: absolute;

@@ -6,6 +6,7 @@ import {postalCodetoCity, uniqueCities, uniqueVenues} from "./../city_list.js"
 import FilteredList from "./FilteredList"
 import FilteredListByState from "./FilteredListByState"
 import FilteredListByCategory from "./FilteredListByState"
+import FilteredListByVenue from "./FilteredListByVenue";
 import moment from "moment"
 import Slide from "./Slide"
 
@@ -13,10 +14,12 @@ export default function Browse (  ) {
 	const [calendarButton, setCalendarButton] = useState(false);
 	const [locationButton, setLocationButton] = useState(false);
 	const [categoryButton, setCategoryButton] = useState(false);
+	const [venueButton, setVenueButton] = useState(false)
 	const [selectedState, setSelectedState] = useState("Şehir Seçin");
 	const [eventDate, setEventDate] = useState();
 	const [filterOption, setFilterOption] = useState("");
 	const [selectedCategory, setSelectedCategory] = useState("Kategori Seçin");
+	const [selectedVenue, setSelectedVenue] = useState("Mekan Seçin")
 	const categories = ["konser", "spor", "tiyatro", "komedi"];
 	const venues = uniqueVenues();
 
@@ -56,6 +59,17 @@ export default function Browse (  ) {
 		setCategoryButton(prev => !prev)
 	}
 
+	let clickHandlerVenue = () => {
+		setFilterOption(prev => "venue")
+		setVenueButton(prev => !prev)
+	}
+
+	let hoverHandlerVenue = (event) => {
+		setSelectedVenue(prev => event.target.outerText)
+		setVenueButton(prev => !prev)
+	}
+
+
 	let listByDate = data.filter(e => {
 			if(e.date_time_local.split("T")[0] === eventDate) {
 				return true
@@ -75,6 +89,14 @@ export default function Browse (  ) {
 
 	let listByCategory = data.filter(e => {
 		if (e.category === selectedCategory) {
+			return true
+		} else {
+			return false
+		}
+	})
+
+	let listByVenue = data.filter(e => {
+		if(e.venue === selectedVenue) {
 			return true
 		} else {
 			return false
@@ -120,11 +142,28 @@ export default function Browse (  ) {
 		    </ul>
 				</div>
 			</div>
+		<div className="venue">
+			<form  className={"location--form-active" }> 
+					<input onClick={clickHandlerVenue}  value={selectedVenue} className="location--input" type="text" />
+						
+				</form>
+
+				<div onMouseDown={hoverHandlerVenue} className={venueButton ? "location--dropdown-active":"location--dropdown"}>
+			<ul>
+				{
+					venues.map(e=><li key={e}>{e}</li>)
+				}
+		    </ul>
+				</div>
+			</div>
+
+
 
 		</div>
 		{filterOption === "date" && <FilteredList value={listByDate} />}
 		{filterOption === "state" && <FilteredListByState value={listByState} />}
 		{filterOption === "category" && <FilteredListByCategory value={listByCategory} />}
+		{filterOption === "venue" && <FilteredListByVenue value={listByVenue} />}
 	</div>
 
 	)

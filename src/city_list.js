@@ -12,3 +12,10 @@ export function uniqueCities() {
 	})
 }
 
+export function uniqueVenues() {
+	const venueList = data.map(e => e.venue) 
+	return venueList.filter((v, i, a) => {
+		return a.indexOf(v) === i
+	})
+}
+

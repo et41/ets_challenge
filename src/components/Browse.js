@@ -2,16 +2,25 @@ import {useState} from "react";
 import CityOption from "./CityOption"
 import data from "./../eventData.json";
 import "./styles/calendar.css";
-import {postalCodetoCity, uniqueCities} from "./../city_list.js"
+import {postalCodetoCity, uniqueCities, uniqueVenues} from "./../city_list.js"
 import FilteredList from "./FilteredList"
 import FilteredListByState from "./FilteredListByState"
+import FilteredListByCategory from "./FilteredListByState"
 import moment from "moment"
+import Slide from "./Slide"
+
 export default function Browse (  ) {
 	const [calendarButton, setCalendarButton] = useState(false);
 	const [locationButton, setLocationButton] = useState(false);
-	const [selectedState, setSelectedState] = useState("Şehir Seç");
+	const [categoryButton, setCategoryButton] = useState(false);
+	const [selectedState, setSelectedState] = useState("Şehir Seçin");
 	const [eventDate, setEventDate] = useState();
 	const [filterOption, setFilterOption] = useState("");
+	const [selectedCategory, setSelectedCategory] = useState("Kategori Seçin");
+	const categories = ["konser", "spor", "tiyatro", "komedi"];
+	const venues = uniqueVenues();
+
+
 	let clickHandlerCalender = (event) => {
 	//	setCalendarButton(prev => !prev);
 	}
@@ -21,15 +30,10 @@ export default function Browse (  ) {
 		setFilterOption(prev => "state");
 	}
 
-	let handleSubmitLocation = (event) => {
-		
-
-	}
 	let handleSubmitCalendar = (event) => {
 		event.preventDefault();
 		setEventDate(prev => event.target[0].value)
 		setCalendarButton(prev => !prev);
-
 	}
 
 	let hoverHandlerLocation = (event) => {
@@ -39,10 +43,17 @@ export default function Browse (  ) {
 
 	let changeHandlerCalendar = (event) => {
 		setFilterOption(prev => "date")
-		if(calendarButton) {
-	
-			setEventDate(prev => event.target.value)
-		}
+		setEventDate(prev => event.target.value)
+	}
+
+	let clickHandlerCategory = () => {
+		setCategoryButton(prev => !prev)
+		setFilterOption(prev => "category")
+	}
+
+	let hoverHandlerCategory = (event) => {
+		setSelectedCategory(prev => event.target.outerText)
+		setCategoryButton(prev => !prev)
 	}
 
 	let listByDate = data.filter(e => {
@@ -62,12 +73,20 @@ export default function Browse (  ) {
 		}
 	})
 
+	let listByCategory = data.filter(e => {
+		if (e.category === selectedCategory) {
+			return true
+		} else {
+			return false
+		}
+	})
+
 	return ( 
 	<div className="browse">
 		<div className="browse--buttons">
 
 			<div className="location">
-			<form onSubmit={handleSubmitLocation} className={"location--form-active" }> 
+			<form  className={"location--form-active" }> 
 					<input onClick={clickHandlerLocation}  value={selectedState} className="location--input" type="text" />
 						
 				</form>
@@ -87,10 +106,26 @@ export default function Browse (  ) {
 						
 				</form>
 			</div>
+		<div className="category">
+			<form  className={"location--form-active" }> 
+					<input onClick={clickHandlerCategory}  value={selectedCategory} className="location--input" type="text" />
+						
+				</form>
+
+				<div onMouseDown={hoverHandlerCategory} className={categoryButton ? "location--dropdown-active":"location--dropdown"}>
+			<ul>
+				{
+					categories.map(e=><li key={e}>{e}</li>)
+				}
+		    </ul>
+				</div>
+			</div>
+
 		</div>
 		{filterOption === "date" && <FilteredList value={listByDate} />}
 		{filterOption === "state" && <FilteredListByState value={listByState} />}
-      </div>
+		{filterOption === "category" && <FilteredListByCategory value={listByCategory} />}
+	</div>
 
 	)
 }

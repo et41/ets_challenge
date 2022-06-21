@@ -18,7 +18,7 @@
 	flex-direction:column;
 	position:relative;
 	text-align:center;
-	font-size:18px;
+	font-size:16px;
 	background-color:rgb(24,24,24);
 	list-style-type:none;
 	color:white;
@@ -29,10 +29,16 @@
 .card--single-image {
 	width:90%;
 	height:60%;
+	padding:10px;
 	border-radius:10%;
 }
 
 .card--single p {
+	line-height:10%;
 	color:white;
 	font-size:10px;
+}
+p:last-child {
+	
+	color:red;
 }

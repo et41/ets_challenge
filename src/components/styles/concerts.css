@@ -1,0 +1,59 @@
+.concerts--main {
+    background-color: rgb(24,24,24);
+}
+
+.concerts--main>h1 {
+    color:wheat;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.concerts--main>ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-left:5px;
+    margin-right: 5px;
+    margin-top: 0;
+}
+
+.concerts--single {
+
+    width: 11rem;
+    height: 23rem;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+    font-size: 12px;
+    background-color: rgba(53, 50, 50, 0.411);
+    list-style-type: none;
+    color: white;
+    border-radius: 5%;
+}
+
+.concerts--single-image {
+    min-width: 90%;
+    min-height: 40%;
+    padding: 10px;
+    border-radius: 10%;
+
+
+}
+
+@media only screen and (max-width:600px){ 
+
+    .concerts--single {
+        width: 9rem;
+    }
+
+
+    .concerts--main>ul{
+        padding: 0;
+        gap:0;
+    }
+    
+}

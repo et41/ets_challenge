@@ -2,7 +2,6 @@ import "./styles/card.css";
 import {dateConverter} from "./../dateConverter.js";
 
 export default function Card({item}) {
-	console.log("itemmmmmmmm", item)
 	const defaultImage = "https://c.stocksy.com/a/oxDF00/z9/3628600.jpg"
 
 	let checkImage = (img) => {

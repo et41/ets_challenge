@@ -1,4 +1,5 @@
 import data from "./../eventData.json";
+import { Link, Route } from "react-router-dom";
 
 export default function List({input}) {
 
@@ -43,7 +44,7 @@ export default function List({input}) {
 				<>
 				  {filteredDataByCategory(category).map(e => 
 					<li key={e.id}>
-						{e.title}
+						<Link to={`/${e.id}`}>{e.title}</Link>
 					</li>)}
 				</>
 			</ul>

@@ -20,7 +20,7 @@ export default function App() {
 		console.log("input value", searchValue)
 		setSearchText(prev => searchValue);
 	}
-	const idList = data.map(e => <Route path={`/${e.id}`} element={<SingleEvent />} />)
+	const idList = data.map(e => <Route path={`/${e.id}`} element={<SingleEvent id={e.id} />} />)
 	return (
 		<Routes>
 

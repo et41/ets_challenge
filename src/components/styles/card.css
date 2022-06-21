@@ -38,7 +38,7 @@
 	color:white;
 	font-size:10px;
 }
-p:last-child {
+.card--single>p:last-child {
 	
 	color:red;
 }

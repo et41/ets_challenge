@@ -1,0 +1,14 @@
+.singleEvent--main {
+    background-color: rgb(24,24,24);
+    color:white;
+}
+
+.singleEvent--main > h1 {
+    margin:0;
+}
+
+.singleEvent--ul {
+    display: flex;
+    gap:50px;
+
+}

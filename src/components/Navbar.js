@@ -1,4 +1,3 @@
-import { hasSelectionSupport } from "@testing-library/user-event/dist/utils";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -7,7 +6,10 @@ export default function Navbar() {
   const navigate = useNavigate();
 
   const concertPage = () => {
-    navigate("/concerts", {replace: true});
+    navigate("/konser", {replace: true});
+  }
+  const theatrePage = () => {
+    navigate("/tiyatro", {replace: true})
   }
 
 	return (
@@ -19,7 +21,7 @@ export default function Navbar() {
               src="https://www.etstur.com/resources_t/img/webpush-logo.png"
             />
             <li onClick={concertPage}>Konser</li>
-            <li>Tiyatro</li>
+            <li onClick={theatrePage}>Tiyatro</li>
             <li>Fazlası...</li>
           </ul>
         </div>

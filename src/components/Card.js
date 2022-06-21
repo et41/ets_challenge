@@ -1,4 +1,5 @@
 import "./styles/card.css";
+import {dateConverter} from "./../dateConverter.js";
 
 export default function Card({item}) {
 	console.log("itemmmmmmmm", item)
@@ -12,8 +13,10 @@ export default function Card({item}) {
 
 				<img className="card--single-image" src={checkImage(item.images.huge) ? item.images.huge : defaultImage} />
 				{item.title}
-
+				<p>{dateConverter(item.date_time_local)[0]}</p>
+				<p>{dateConverter(item.date_time_local)[1]}</p>
 				<p>{item.venue}</p>
+				<p>"cost"</p>
 			</li>
 	)
 }

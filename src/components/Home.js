@@ -1,9 +1,14 @@
 
 import { useState } from "react";
-import { Routes, Route, Switch, Link} from "react-router-dom"
-import "./styles.css";
-import Home from  "./components/Home"
-import Concerts from "./components/Concerts";
+import { Routes, Route, Link} from "react-router-dom"
+import "./../styles.css";
+import Navbar from "./Navbar";
+import Header from "./Header"
+import SearchBar from "./SearchBar"
+import Browse from "./Browse"
+import List from "./List"
+import Category from "./Category"
+
 
 export default function App() {
 
@@ -14,15 +19,8 @@ export default function App() {
 		console.log("input value", searchValue)
 		setSearchText(prev => searchValue);
 	}
-	return (
-		<Routes>
 
-				<Route path="/" element={<Home />} />
-				<Route path="/concerts" element={<Concerts />}/>
-		</Routes>
-	)
-}
-/*
+
   return (
     <div>
 		<div className="hero">
@@ -35,5 +33,5 @@ export default function App() {
 
     </div>
   );
-}*/
+}
 

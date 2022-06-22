@@ -16,7 +16,11 @@
         "tbd": true,
         "performers_name": "Brandi Carlile",
         "state": "CA",
-        "url": "/5649157"
+        "url": "/5649157",
+        "price": [
+            47.9,
+            46.1
+        ]
     },
     {
         "id": 5538078,
@@ -35,26 +39,13 @@
         "tbd": false,
         "performers_name": "Bon Iver",
         "state": "KY",
-        "url": "/5538078"
-    },
-    {
-        "id": 5632262,
-        "title": "Rex Orange County",
-        "category": "konser",
-        "address": "400 North Shore Drive",
-        "location": {
-            "lat": 40.4461,
-            "lon": -80.0123
-        },
-        "venue": "Stage AE",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/rex-orange-county-c45ef2/609177/20786/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T18:00:00",
-        "tbd": false,
-        "performers_name": "Rex Orange County",
-        "state": "PA",
-        "url": "/5632262"
+        "url": "/5538078",
+        "price": [
+            69.2,
+            66.1,
+            21.1,
+            22.6
+        ]
     },
     {
         "id": 5671361,
@@ -73,7 +64,13 @@
         "tbd": false,
         "performers_name": "The Rare Occasions",
         "state": "NY",
-        "url": "/5671361"
+        "url": "/5671361",
+        "price": [
+            32.6,
+            38.3,
+            59.0,
+            55.6
+        ]
     },
     {
         "id": 5685236,
@@ -92,7 +89,33 @@
         "tbd": false,
         "performers_name": "Crown The Empire",
         "state": "ON",
-        "url": "/5685236"
+        "url": "/5685236",
+        "price": [
+            85.2,
+            50.1
+        ]
+    },
+    {
+        "id": 5632262,
+        "title": "Rex Orange County",
+        "category": "konser",
+        "address": "400 North Shore Drive",
+        "location": {
+            "lat": 40.4461,
+            "lon": -80.0123
+        },
+        "venue": "Stage AE",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/rex-orange-county-c45ef2/609177/20786/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T18:00:00",
+        "tbd": false,
+        "performers_name": "Rex Orange County",
+        "state": "PA",
+        "url": "/5632262",
+        "price": [
+            67.8
+        ]
     },
     {
         "id": 5671072,
@@ -111,7 +134,11 @@
         "tbd": false,
         "performers_name": "Flogging Molly",
         "state": "NC",
-        "url": "/5671072"
+        "url": "/5671072",
+        "price": [
+            29.6,
+            77.3
+        ]
     },
     {
         "id": 5414990,
@@ -130,7 +157,12 @@
         "tbd": false,
         "performers_name": "Patti LaBelle",
         "state": "NY",
-        "url": "/5414990"
+        "url": "/5414990",
+        "price": [
+            61.3,
+            53.7,
+            43.8
+        ]
     },
     {
         "id": 5650967,
@@ -149,7 +181,14 @@
         "tbd": false,
         "performers_name": "My Morning Jacket",
         "state": "OH",
-        "url": "/5650967"
+        "url": "/5650967",
+        "price": [
+            38.1,
+            76.1,
+            54.4,
+            31.2,
+            74.4
+        ]
     },
     {
         "id": 5673660,
@@ -168,7 +207,12 @@
         "tbd": false,
         "performers_name": "Machine Gun Kelly",
         "state": "NC",
-        "url": "/5673660"
+        "url": "/5673660",
+        "price": [
+            21.2,
+            36.4,
+            69.0
+        ]
     },
     {
         "id": 5629606,
@@ -187,7 +231,11 @@
         "tbd": false,
         "performers_name": "Tash Sultana",
         "state": "PA",
-        "url": "/5629606"
+        "url": "/5629606",
+        "price": [
+            73.1,
+            54.0
+        ]
     },
     {
         "id": 5667528,
@@ -206,7 +254,13 @@
         "tbd": false,
         "performers_name": "Maverick City Music",
         "state": "MI",
-        "url": "/5667528"
+        "url": "/5667528",
+        "price": [
+            40.9,
+            68.7,
+            66.8,
+            62.7
+        ]
     },
     {
         "id": 5699589,
@@ -225,7 +279,11 @@
         "tbd": false,
         "performers_name": "Penelope Scott",
         "state": "GA",
-        "url": "/5699589"
+        "url": "/5699589",
+        "price": [
+            80.6,
+            80.1
+        ]
     },
     {
         "id": 5675700,
@@ -244,26 +302,12 @@
         "tbd": false,
         "performers_name": "Bleachers",
         "state": "UT",
-        "url": "/5675700"
-    },
-    {
-        "id": 5661818,
-        "title": "The Band Camino\t",
-        "category": "konser",
-        "address": "5000 Euclid Avenue",
-        "location": {
-            "lat": 41.5036,
-            "lon": -81.6538
-        },
-        "venue": "Agora Theatre",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-band-camino-a97d34/430358/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T19:00:00",
-        "tbd": false,
-        "performers_name": "The Band Camino",
-        "state": "OH",
-        "url": "/5661818"
+        "url": "/5675700",
+        "price": [
+            28.0,
+            22.9,
+            25.7
+        ]
     },
     {
         "id": 5664418,
@@ -282,7 +326,34 @@
         "tbd": false,
         "performers_name": "Nathaniel Rateliff & The Night Sweats",
         "state": "FL",
-        "url": "/5664418"
+        "url": "/5664418",
+        "price": [
+            38.8,
+            83.3
+        ]
+    },
+    {
+        "id": 5661818,
+        "title": "The Band Camino\t",
+        "category": "konser",
+        "address": "5000 Euclid Avenue",
+        "location": {
+            "lat": 41.5036,
+            "lon": -81.6538
+        },
+        "venue": "Agora Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-band-camino-a97d34/430358/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "The Band Camino",
+        "state": "OH",
+        "url": "/5661818",
+        "price": [
+            37.6,
+            40.8
+        ]
     },
     {
         "id": 5638526,
@@ -301,7 +372,14 @@
         "tbd": false,
         "performers_name": "Failure",
         "state": "NC",
-        "url": "/5638526"
+        "url": "/5638526",
+        "price": [
+            60.9,
+            29.6,
+            61.6,
+            43.7,
+            56.5
+        ]
     },
     {
         "id": 5661257,
@@ -320,7 +398,12 @@
         "tbd": false,
         "performers_name": "Subsonic Eye",
         "state": "MA",
-        "url": "/5661257"
+        "url": "/5661257",
+        "price": [
+            57.5,
+            26.6,
+            33.1
+        ]
     },
     {
         "id": 5704694,
@@ -339,7 +422,13 @@
         "tbd": false,
         "performers_name": "Lawrence",
         "state": "CT",
-        "url": "/5704694"
+        "url": "/5704694",
+        "price": [
+            72.7,
+            21.5,
+            35.9,
+            46.0
+        ]
     },
     {
         "id": 5626235,
@@ -358,7 +447,13 @@
         "tbd": false,
         "performers_name": "Denzel Curry",
         "state": "FL",
-        "url": "/5626235"
+        "url": "/5626235",
+        "price": [
+            61.4,
+            48.9,
+            75.2,
+            74.8
+        ]
     },
     {
         "id": 5677390,
@@ -377,7 +472,12 @@
         "tbd": false,
         "performers_name": "Allegaeon",
         "state": "IL",
-        "url": "/5677390"
+        "url": "/5677390",
+        "price": [
+            81.6,
+            51.8,
+            37.4
+        ]
     },
     {
         "id": 5673028,
@@ -396,7 +496,11 @@
         "tbd": false,
         "performers_name": "Lake Street Dive",
         "state": "DE",
-        "url": "/5673028"
+        "url": "/5673028",
+        "price": [
+            47.2,
+            41.8
+        ]
     },
     {
         "id": 5547281,
@@ -415,26 +519,13 @@
         "tbd": false,
         "performers_name": "The Masked Singer Live",
         "state": "VA",
-        "url": "/5547281"
-    },
-    {
-        "id": 5686175,
-        "title": "The Blue Stones with Des Rocs",
-        "category": "konser",
-        "address": "29 E Allen Street",
-        "location": {
-            "lat": 39.9656,
-            "lon": -75.1351
-        },
-        "venue": "The Foundry",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-blue-stones-e8aeb3/403532/24910/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T19:30:00",
-        "tbd": false,
-        "performers_name": "The Blue Stones",
-        "state": "PA",
-        "url": "/5686175"
+        "url": "/5547281",
+        "price": [
+            86.5,
+            57.1,
+            78.0,
+            76.8
+        ]
     },
     {
         "id": 5591891,
@@ -453,7 +544,35 @@
         "tbd": false,
         "performers_name": "Jack Johnson",
         "state": "NH",
-        "url": "/5591891"
+        "url": "/5591891",
+        "price": [
+            87.1,
+            67.6,
+            46.9
+        ]
+    },
+    {
+        "id": 5686175,
+        "title": "The Blue Stones with Des Rocs",
+        "category": "konser",
+        "address": "29 E Allen Street",
+        "location": {
+            "lat": 39.9656,
+            "lon": -75.1351
+        },
+        "venue": "The Foundry",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-blue-stones-e8aeb3/403532/24910/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:30:00",
+        "tbd": false,
+        "performers_name": "The Blue Stones",
+        "state": "PA",
+        "url": "/5686175",
+        "price": [
+            23.6,
+            48.6
+        ]
     },
     {
         "id": 5714396,
@@ -472,7 +591,11 @@
         "tbd": false,
         "performers_name": "Trey Anastasio",
         "state": "MI",
-        "url": "/5714396"
+        "url": "/5714396",
+        "price": [
+            65.3,
+            26.6
+        ]
     },
     {
         "id": 5319871,
@@ -491,7 +614,12 @@
         "tbd": false,
         "performers_name": "The Cowsills",
         "state": "MA",
-        "url": "/5319871"
+        "url": "/5319871",
+        "price": [
+            41.4,
+            30.7,
+            65.7
+        ]
     },
     {
         "id": 5186122,
@@ -510,7 +638,12 @@
         "tbd": false,
         "performers_name": "Steely Dan",
         "state": "NY",
-        "url": "/5186122"
+        "url": "/5186122",
+        "price": [
+            81.9,
+            36.4,
+            80.5
+        ]
     },
     {
         "id": 5680185,
@@ -529,7 +662,14 @@
         "tbd": false,
         "performers_name": "Adekunle Gold",
         "state": "IL",
-        "url": "/5680185"
+        "url": "/5680185",
+        "price": [
+            81.0,
+            36.3,
+            66.7,
+            60.0,
+            88.4
+        ]
     },
     {
         "id": 5686811,
@@ -548,7 +688,14 @@
         "tbd": false,
         "performers_name": "Jackyl",
         "state": "CT",
-        "url": "/5686811"
+        "url": "/5686811",
+        "price": [
+            71.6,
+            65.3,
+            44.9,
+            65.0,
+            28.0
+        ]
     },
     {
         "id": 5683703,
@@ -567,7 +714,10 @@
         "tbd": false,
         "performers_name": "Tiny Moving Parts",
         "state": "VA",
-        "url": "/5683703"
+        "url": "/5683703",
+        "price": [
+            85.4
+        ]
     },
     {
         "id": 5729550,
@@ -586,7 +736,13 @@
         "tbd": true,
         "performers_name": "KPMG Women's PGA Championship",
         "state": "MD",
-        "url": "/5729550"
+        "url": "/5729550",
+        "price": [
+            31.3,
+            84.0,
+            75.2,
+            29.1
+        ]
     },
     {
         "id": 5592648,
@@ -605,7 +761,10 @@
         "tbd": true,
         "performers_name": "Palm Beach Cardinals",
         "state": "FL",
-        "url": "/5592648"
+        "url": "/5592648",
+        "price": [
+            39.0
+        ]
     },
     {
         "id": 5565434,
@@ -624,7 +783,11 @@
         "tbd": true,
         "performers_name": "Winston-Salem Dash",
         "state": "NC",
-        "url": "/5565434"
+        "url": "/5565434",
+        "price": [
+            28.4,
+            52.0
+        ]
     },
     {
         "id": 5590684,
@@ -643,7 +806,12 @@
         "tbd": true,
         "performers_name": "Wilmington Blue Rocks",
         "state": "DE",
-        "url": "/5590684"
+        "url": "/5590684",
+        "price": [
+            38.9,
+            28.2,
+            75.1
+        ]
     },
     {
         "id": 5679273,
@@ -662,7 +830,10 @@
         "tbd": true,
         "performers_name": "Wichita Wind Surge",
         "state": "KS",
-        "url": "/5679273"
+        "url": "/5679273",
+        "price": [
+            26.3
+        ]
     },
     {
         "id": 5557894,
@@ -681,7 +852,13 @@
         "tbd": true,
         "performers_name": "Sugar Land Space Cowboys",
         "state": "TX",
-        "url": "/5557894"
+        "url": "/5557894",
+        "price": [
+            35.3,
+            63.2,
+            89.3,
+            83.0
+        ]
     },
     {
         "id": 5589994,
@@ -700,7 +877,11 @@
         "tbd": true,
         "performers_name": "Lake Elsinore Storm",
         "state": "CA",
-        "url": "/5589994"
+        "url": "/5589994",
+        "price": [
+            64.6,
+            43.6
+        ]
     },
     {
         "id": 5557571,
@@ -719,7 +900,11 @@
         "tbd": true,
         "performers_name": "Sacramento River Cats",
         "state": "CA",
-        "url": "/5557571"
+        "url": "/5557571",
+        "price": [
+            56.5,
+            74.6
+        ]
     },
     {
         "id": 5572139,
@@ -738,7 +923,11 @@
         "tbd": true,
         "performers_name": "US Senior Open Golf",
         "state": "PA",
-        "url": "/5572139"
+        "url": "/5572139",
+        "price": [
+            21.6,
+            51.9
+        ]
     },
     {
         "id": 5605930,
@@ -757,26 +946,11 @@
         "tbd": false,
         "performers_name": "West Virginia Black Bears",
         "state": "WV",
-        "url": "/5605930"
-    },
-    {
-        "id": 5614642,
-        "title": "Frederick Keys at State College Spikes",
-        "category": "spor",
-        "address": "701 Porter Road",
-        "location": {
-            "lat": 40.8123,
-            "lon": -77.8529
-        },
-        "venue": "Medlar Field At Lubrano Park",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T13:00:00",
-        "tbd": false,
-        "performers_name": "State College Spikes",
-        "state": "PA",
-        "url": "/5614642"
+        "url": "/5605930",
+        "price": [
+            84.1,
+            85.3
+        ]
     },
     {
         "id": 5580829,
@@ -795,7 +969,37 @@
         "tbd": false,
         "performers_name": "South Bend Cubs",
         "state": "IN",
-        "url": "/5580829"
+        "url": "/5580829",
+        "price": [
+            66.8,
+            72.1,
+            29.4,
+            75.4,
+            53.3
+        ]
+    },
+    {
+        "id": 5614642,
+        "title": "Frederick Keys at State College Spikes",
+        "category": "spor",
+        "address": "701 Porter Road",
+        "location": {
+            "lat": 40.8123,
+            "lon": -77.8529
+        },
+        "venue": "Medlar Field At Lubrano Park",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T13:00:00",
+        "tbd": false,
+        "performers_name": "State College Spikes",
+        "state": "PA",
+        "url": "/5614642",
+        "price": [
+            54.0,
+            62.6
+        ]
     },
     {
         "id": 5614545,
@@ -814,7 +1018,10 @@
         "tbd": false,
         "performers_name": "Tri-City ValleyCats",
         "state": "NY",
-        "url": "/5614545"
+        "url": "/5614545",
+        "price": [
+            33.9
+        ]
     },
     {
         "id": 5581130,
@@ -833,7 +1040,12 @@
         "tbd": false,
         "performers_name": "Daytona Tortugas",
         "state": "FL",
-        "url": "/5581130"
+        "url": "/5581130",
+        "price": [
+            50.6,
+            86.3,
+            65.5
+        ]
     },
     {
         "id": 5614536,
@@ -852,7 +1064,11 @@
         "tbd": false,
         "performers_name": "Mahoning Valley Scrappers",
         "state": "OH",
-        "url": "/5614536"
+        "url": "/5614536",
+        "price": [
+            85.5,
+            68.2
+        ]
     },
     {
         "id": 5575810,
@@ -871,7 +1087,13 @@
         "tbd": false,
         "performers_name": "Lansing Lugnuts",
         "state": "MI",
-        "url": "/5575810"
+        "url": "/5575810",
+        "price": [
+            31.1,
+            20.6,
+            27.3,
+            78.3
+        ]
     },
     {
         "id": 5549825,
@@ -890,7 +1112,13 @@
         "tbd": false,
         "performers_name": "Omaha Storm Chasers",
         "state": "NE",
-        "url": "/5549825"
+        "url": "/5549825",
+        "price": [
+            47.1,
+            40.5,
+            25.2,
+            73.1
+        ]
     },
     {
         "id": 5487316,
@@ -909,7 +1137,10 @@
         "tbd": false,
         "performers_name": "NCAA College World Series\t",
         "state": "NE",
-        "url": "/5487316"
+        "url": "/5487316",
+        "price": [
+            89.5
+        ]
     },
     {
         "id": 5574172,
@@ -928,7 +1159,12 @@
         "tbd": false,
         "performers_name": "Erie SeaWolves",
         "state": "PA",
-        "url": "/5574172"
+        "url": "/5574172",
+        "price": [
+            82.9,
+            54.4,
+            30.8
+        ]
     },
     {
         "id": 5576429,
@@ -947,7 +1183,13 @@
         "tbd": false,
         "performers_name": "Dunedin Blue Jays",
         "state": "FL",
-        "url": "/5576429"
+        "url": "/5576429",
+        "price": [
+            58.3,
+            80.1,
+            29.8,
+            41.4
+        ]
     },
     {
         "id": 5586536,
@@ -966,7 +1208,14 @@
         "tbd": false,
         "performers_name": "Greensboro Grasshoppers",
         "state": "NC",
-        "url": "/5586536"
+        "url": "/5586536",
+        "price": [
+            65.8,
+            76.8,
+            28.1,
+            48.4,
+            72.5
+        ]
     },
     {
         "id": 5574019,
@@ -985,7 +1234,11 @@
         "tbd": false,
         "performers_name": "Lakeland Flying Tigers",
         "state": "FL",
-        "url": "/5574019"
+        "url": "/5574019",
+        "price": [
+            80.7,
+            43.5
+        ]
     },
     {
         "id": 5572597,
@@ -1004,7 +1257,13 @@
         "tbd": false,
         "performers_name": "Tampa Tarpons",
         "state": "FL",
-        "url": "/5572597"
+        "url": "/5572597",
+        "price": [
+            42.6,
+            61.7,
+            41.4,
+            25.5
+        ]
     },
     {
         "id": 5567041,
@@ -1023,7 +1282,11 @@
         "tbd": false,
         "performers_name": "Akron RubberDucks",
         "state": "OH",
-        "url": "/5567041"
+        "url": "/5567041",
+        "price": [
+            37.4,
+            54.7
+        ]
     },
     {
         "id": 5582146,
@@ -1042,7 +1305,10 @@
         "tbd": false,
         "performers_name": "Binghamton Mets",
         "state": "NY",
-        "url": "/5582146"
+        "url": "/5582146",
+        "price": [
+            21.4
+        ]
     },
     {
         "id": 5594272,
@@ -1061,7 +1327,11 @@
         "tbd": false,
         "performers_name": "Richmond Flying Squirrels",
         "state": "VA",
-        "url": "/5594272"
+        "url": "/5594272",
+        "price": [
+            35.9,
+            64.3
+        ]
     },
     {
         "id": 5462337,
@@ -1080,7 +1350,11 @@
         "tbd": false,
         "performers_name": "Cincinnati Reds",
         "state": "OH",
-        "url": "/5462337"
+        "url": "/5462337",
+        "price": [
+            78.2,
+            63.6
+        ]
     },
     {
         "id": 5520970,
@@ -1099,26 +1373,11 @@
         "tbd": false,
         "performers_name": "Worcester Red Sox",
         "state": "MA",
-        "url": "/5520970"
-    },
-    {
-        "id": 5613192,
-        "title": "Lexington County Blowfish at Savannah Bananas",
-        "category": "spor",
-        "address": "1401 East Victory Drive",
-        "location": {
-            "lat": 32.0454,
-            "lon": -81.079
-        },
-        "venue": "Grayson Stadium",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/generic-sports-b33da4/677214/35941/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T19:00:00",
-        "tbd": false,
-        "performers_name": "Savannah Bananas",
-        "state": "GA",
-        "url": "/5613192"
+        "url": "/5520970",
+        "price": [
+            43.2,
+            33.2
+        ]
     },
     {
         "id": 5595516,
@@ -1137,7 +1396,37 @@
         "tbd": false,
         "performers_name": "Atlanta Dream",
         "state": "GA",
-        "url": "/5595516"
+        "url": "/5595516",
+        "price": [
+            66.4,
+            58.3,
+            31.9,
+            61.6
+        ]
+    },
+    {
+        "id": 5613192,
+        "title": "Lexington County Blowfish at Savannah Bananas",
+        "category": "spor",
+        "address": "1401 East Victory Drive",
+        "location": {
+            "lat": 32.0454,
+            "lon": -81.079
+        },
+        "venue": "Grayson Stadium",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-sports-b33da4/677214/35941/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Savannah Bananas",
+        "state": "GA",
+        "url": "/5613192",
+        "price": [
+            42.0,
+            38.6,
+            78.1
+        ]
     },
     {
         "id": 5535818,
@@ -1156,7 +1445,11 @@
         "tbd": true,
         "performers_name": "Eiffel Tower Experience",
         "state": "NV",
-        "url": "/5535818"
+        "url": "/5535818",
+        "price": [
+            32.0,
+            37.7
+        ]
     },
     {
         "id": 5667408,
@@ -1175,7 +1468,11 @@
         "tbd": false,
         "performers_name": "Half-Stitched The Musical",
         "state": "IN",
-        "url": "/5667408"
+        "url": "/5667408",
+        "price": [
+            33.8,
+            67.5
+        ]
     },
     {
         "id": 5705778,
@@ -1194,7 +1491,12 @@
         "tbd": false,
         "performers_name": "Richard III",
         "state": "ON",
-        "url": "/5705778"
+        "url": "/5705778",
+        "price": [
+            82.7,
+            69.1,
+            48.9
+        ]
     },
     {
         "id": 5502508,
@@ -1213,7 +1515,10 @@
         "tbd": false,
         "performers_name": "Mac King",
         "state": "NV",
-        "url": "/5502508"
+        "url": "/5502508",
+        "price": [
+            66.7
+        ]
     },
     {
         "id": 5597094,
@@ -1232,7 +1537,13 @@
         "tbd": false,
         "performers_name": "Potted Potter",
         "state": "NV",
-        "url": "/5597094"
+        "url": "/5597094",
+        "price": [
+            22.2,
+            59.5,
+            34.9,
+            86.5
+        ]
     },
     {
         "id": 5588888,
@@ -1251,7 +1562,13 @@
         "tbd": false,
         "performers_name": "Cirque du Soleil Drawn to Life",
         "state": "FL",
-        "url": "/5588888"
+        "url": "/5588888",
+        "price": [
+            29.9,
+            22.9,
+            30.9,
+            36.3
+        ]
     },
     {
         "id": 5646675,
@@ -1270,7 +1587,12 @@
         "tbd": false,
         "performers_name": "Paw Patrol Live",
         "state": "VA",
-        "url": "/5646675"
+        "url": "/5646675",
+        "price": [
+            66.2,
+            29.1,
+            26.0
+        ]
     },
     {
         "id": 5642849,
@@ -1289,7 +1611,10 @@
         "tbd": false,
         "performers_name": "Spongebob Squarepants the Musical",
         "state": "MD",
-        "url": "/5642849"
+        "url": "/5642849",
+        "price": [
+            21.9
+        ]
     },
     {
         "id": 5674801,
@@ -1308,7 +1633,14 @@
         "tbd": false,
         "performers_name": "Blippi Live (not feat. Stevin John)",
         "state": "OH",
-        "url": "/5674801"
+        "url": "/5674801",
+        "price": [
+            48.9,
+            73.0,
+            65.9,
+            41.7,
+            66.6
+        ]
     },
     {
         "id": 5502417,
@@ -1327,7 +1659,13 @@
         "tbd": false,
         "performers_name": "Mac King",
         "state": "NV",
-        "url": "/5502417"
+        "url": "/5502417",
+        "price": [
+            26.5,
+            33.6,
+            51.1,
+            58.0
+        ]
     },
     {
         "id": 5537481,
@@ -1344,7 +1682,13 @@
         "tbd": false,
         "performers_name": "Paradise Square",
         "state": "NY",
-        "url": "/5537481"
+        "url": "/5537481",
+        "price": [
+            72.5,
+            85.0,
+            86.4,
+            58.1
+        ]
     },
     {
         "id": 5590839,
@@ -1361,7 +1705,10 @@
         "tbd": false,
         "performers_name": "Louis Jose Houde",
         "state": "QC",
-        "url": "/5590839"
+        "url": "/5590839",
+        "price": [
+            90.2
+        ]
     },
     {
         "id": 5530354,
@@ -1380,7 +1727,11 @@
         "tbd": false,
         "performers_name": "Macbeth",
         "state": "NY",
-        "url": "/5530354"
+        "url": "/5530354",
+        "price": [
+            28.6,
+            23.0
+        ]
     },
     {
         "id": 5692546,
@@ -1399,7 +1750,13 @@
         "tbd": false,
         "performers_name": "Neil Simon's Plaza Suite",
         "state": "NY",
-        "url": "/5692546"
+        "url": "/5692546",
+        "price": [
+            62.7,
+            50.9,
+            24.7,
+            61.1
+        ]
     },
     {
         "id": 5573560,
@@ -1418,7 +1775,13 @@
         "tbd": false,
         "performers_name": "Moulin Rouge! The Musical",
         "state": "NY",
-        "url": "/5573560"
+        "url": "/5573560",
+        "price": [
+            78.6,
+            79.0,
+            74.1,
+            75.7
+        ]
     },
     {
         "id": 5528083,
@@ -1437,7 +1800,12 @@
         "tbd": false,
         "performers_name": "Menopause The Musical",
         "state": "NV",
-        "url": "/5528083"
+        "url": "/5528083",
+        "price": [
+            74.5,
+            73.1,
+            56.5
+        ]
     },
     {
         "id": 5713495,
@@ -1456,7 +1824,13 @@
         "tbd": false,
         "performers_name": "Micro Wrestling",
         "state": "MI",
-        "url": "/5713495"
+        "url": "/5713495",
+        "price": [
+            30.2,
+            47.0,
+            81.2,
+            27.6
+        ]
     },
     {
         "id": 5675357,
@@ -1475,26 +1849,13 @@
         "tbd": false,
         "performers_name": "Masters of Illusion",
         "state": "NJ",
-        "url": "/5675357"
-    },
-    {
-        "id": 5520052,
-        "title": "Frederic Da Silva - Las Vegas",
-        "category": "tiyatro",
-        "address": "3645 South Las Vegas Boulevard",
-        "location": {
-            "lat": 36.1142,
-            "lon": -115.171
-        },
-        "venue": "The Magic Attic at Bally's Las Vegas",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/frederic-da-silva-805092/297202/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T16:00:00",
-        "tbd": false,
-        "performers_name": "Frederic Da Silva",
-        "state": "NV",
-        "url": "/5520052"
+        "url": "/5675357",
+        "price": [
+            21.9,
+            31.4,
+            78.7,
+            54.2
+        ]
     },
     {
         "id": 5597647,
@@ -1513,45 +1874,33 @@
         "tbd": false,
         "performers_name": "Little Shop of Horrors",
         "state": "NY",
-        "url": "/5597647"
+        "url": "/5597647",
+        "price": [
+            35.4,
+            38.4
+        ]
     },
     {
-        "id": 5383628,
-        "title": "Hadestown",
+        "id": 5520052,
+        "title": "Frederic Da Silva - Las Vegas",
         "category": "tiyatro",
-        "address": "219 West 48th Street",
+        "address": "3645 South Las Vegas Boulevard",
         "location": {
-            "lat": 40.7605,
-            "lon": -73.9857
+            "lat": 36.1142,
+            "lon": -115.171
         },
-        "venue": "Walter Kerr Theatre",
+        "venue": "The Magic Attic at Bally's Las Vegas",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/hadestown-200a61/510834/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/frederic-da-silva-805092/297202/huge.jpg"
         },
-        "date_time_local": "2022-06-21T19:00:00",
+        "date_time_local": "2022-06-21T16:00:00",
         "tbd": false,
-        "performers_name": "Hadestown",
-        "state": "NY",
-        "url": "/5383628"
-    },
-    {
-        "id": 5405951,
-        "title": "The Lion King - New York",
-        "category": "tiyatro",
-        "address": "200 West 45th Street",
-        "location": {
-            "lat": 40.7579,
-            "lon": -73.9862
-        },
-        "venue": "Minskoff Theatre",
-        "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/the-lion-king-0b52ab/5475/huge.jpg"
-        },
-        "date_time_local": "2022-06-21T19:00:00",
-        "tbd": false,
-        "performers_name": "The Lion King",
-        "state": "NY",
-        "url": "/5405951"
+        "performers_name": "Frederic Da Silva",
+        "state": "NV",
+        "url": "/5520052",
+        "price": [
+            71.8
+        ]
     },
     {
         "id": 5402062,
@@ -1570,26 +1919,65 @@
         "tbd": false,
         "performers_name": "Come From Away",
         "state": "NY",
-        "url": "/5402062"
+        "url": "/5402062",
+        "price": [
+            43.8,
+            85.5,
+            83.6,
+            59.7,
+            55.1
+        ]
     },
     {
-        "id": 5587994,
-        "title": "Harry Potter and the Cursed Child Toronto",
+        "id": 5405951,
+        "title": "The Lion King - New York",
         "category": "tiyatro",
-        "address": "244 Victoria St",
+        "address": "200 West 45th Street",
         "location": {
-            "lat": 43.6554,
-            "lon": -79.3795
+            "lat": 40.7579,
+            "lon": -73.9862
         },
-        "venue": "Ed Mirvish Theatre",
+        "venue": "Minskoff Theatre",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/harry-potter-and-the-cursed-child-e953ac/380245/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/the-lion-king-0b52ab/5475/huge.jpg"
         },
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Harry Potter and The Cursed Child",
-        "state": "ON",
-        "url": "/5587994"
+        "performers_name": "The Lion King",
+        "state": "NY",
+        "url": "/5405951",
+        "price": [
+            72.1,
+            59.2,
+            79.9,
+            69.0,
+            56.6
+        ]
+    },
+    {
+        "id": 5383628,
+        "title": "Hadestown",
+        "category": "tiyatro",
+        "address": "219 West 48th Street",
+        "location": {
+            "lat": 40.7605,
+            "lon": -73.9857
+        },
+        "venue": "Walter Kerr Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/hadestown-200a61/510834/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Hadestown",
+        "state": "NY",
+        "url": "/5383628",
+        "price": [
+            61.6,
+            66.8,
+            63.9,
+            46.3
+        ]
     },
     {
         "id": 5540976,
@@ -1606,7 +1994,10 @@
         "tbd": false,
         "performers_name": "The Minutes (Play)",
         "state": "NY",
-        "url": "/5540976"
+        "url": "/5540976",
+        "price": [
+            45.3
+        ]
     },
     {
         "id": 5681140,
@@ -1625,7 +2016,13 @@
         "tbd": false,
         "performers_name": "Moulin Rouge! The Musical VIP Room Experience",
         "state": "NY",
-        "url": "/5681140"
+        "url": "/5681140",
+        "price": [
+            30.6,
+            53.3,
+            20.8,
+            33.1
+        ]
     },
     {
         "id": 5553258,
@@ -1644,26 +2041,34 @@
         "tbd": false,
         "performers_name": "Nathan Burton",
         "state": "NV",
-        "url": "/5553258"
+        "url": "/5553258",
+        "price": [
+            55.9,
+            37.3
+        ]
     },
     {
-        "id": 5565868,
-        "title": "Chicago (Musical) - New York",
+        "id": 5587994,
+        "title": "Harry Potter and the Cursed Child Toronto",
         "category": "tiyatro",
-        "address": "219 West 49th Street",
+        "address": "244 Victoria St",
         "location": {
-            "lat": 40.7613,
-            "lon": -73.985
+            "lat": 43.6554,
+            "lon": -79.3795
         },
-        "venue": "Ambassador Theatre",
+        "venue": "Ed Mirvish Theatre",
         "images": {
-            "huge": "https://seatgeek.com/images/performers-landscape/chicago-musical-03a650/5345/huge.jpg"
+            "huge": "https://seatgeek.com/images/performers-landscape/harry-potter-and-the-cursed-child-e953ac/380245/huge.jpg"
         },
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "Chicago (Musical)",
-        "state": "NY",
-        "url": "/5565868"
+        "performers_name": "Harry Potter and The Cursed Child",
+        "state": "ON",
+        "url": "/5587994",
+        "price": [
+            48.0,
+            48.0
+        ]
     },
     {
         "id": 5405598,
@@ -1682,24 +2087,59 @@
         "tbd": false,
         "performers_name": "Aladdin",
         "state": "NY",
-        "url": "/5405598"
+        "url": "/5405598",
+        "price": [
+            65.8,
+            66.7,
+            27.2,
+            68.1
+        ]
     },
     {
-        "id": 5073005,
-        "title": "The Music Man - New York",
+        "id": 5565868,
+        "title": "Chicago (Musical) - New York",
         "category": "tiyatro",
-        "address": "1634 Broadway",
+        "address": "219 West 49th Street",
         "location": {
-            "lat": 40.7616,
-            "lon": -73.984
+            "lat": 40.7613,
+            "lon": -73.985
         },
-        "venue": "Winter Garden Theatre",
-        "images": {},
+        "venue": "Ambassador Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/chicago-musical-03a650/5345/huge.jpg"
+        },
         "date_time_local": "2022-06-21T19:00:00",
         "tbd": false,
-        "performers_name": "The Music Man",
+        "performers_name": "Chicago (Musical)",
         "state": "NY",
-        "url": "/5073005"
+        "url": "/5565868",
+        "price": [
+            84.8,
+            51.0
+        ]
+    },
+    {
+        "id": 5624939,
+        "title": "Dear Evan Hansen - New York",
+        "category": "tiyatro",
+        "address": "239 West 45th Street",
+        "location": {
+            "lat": 40.7588,
+            "lon": -73.9874
+        },
+        "venue": "Music Box Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/dear-evan-hansen-cadb56/510189/10334/huge.jpg"
+        },
+        "date_time_local": "2022-06-21T19:00:00",
+        "tbd": false,
+        "performers_name": "Dear Evan Hansen",
+        "state": "NY",
+        "url": "/5624939",
+        "price": [
+            59.9,
+            27.0
+        ]
     },
     {
         "id": 5689383,
@@ -1718,24 +2158,10 @@
         "tbd": false,
         "performers_name": "Game Grumps",
         "state": "MA",
-        "url": "/5689383"
-    },
-    {
-        "id": 5534796,
-        "title": "Lise Dion",
-        "category": "komedi",
-        "address": "6000 Boulevard Rome",
-        "location": {
-            "lat": 45.4413,
-            "lon": -73.4404
-        },
-        "venue": "L`Etoile Banque Nationale",
-        "images": {},
-        "date_time_local": "2022-06-21T20:00:00",
-        "tbd": false,
-        "performers_name": "Lise Dion",
-        "state": "QC",
-        "url": "/5534796"
+        "url": "/5689383",
+        "price": [
+            30.3
+        ]
     },
     {
         "id": 5726853,
@@ -1752,7 +2178,33 @@
         "tbd": false,
         "performers_name": "Borgata Comedy Club",
         "state": "NJ",
-        "url": "/5726853"
+        "url": "/5726853",
+        "price": [
+            70.8,
+            21.4
+        ]
+    },
+    {
+        "id": 5534796,
+        "title": "Lise Dion",
+        "category": "komedi",
+        "address": "6000 Boulevard Rome",
+        "location": {
+            "lat": 45.4413,
+            "lon": -73.4404
+        },
+        "venue": "L`Etoile Banque Nationale",
+        "images": {},
+        "date_time_local": "2022-06-21T20:00:00",
+        "tbd": false,
+        "performers_name": "Lise Dion",
+        "state": "QC",
+        "url": "/5534796",
+        "price": [
+            69.9,
+            88.6,
+            41.7
+        ]
     },
     {
         "id": 5652086,
@@ -1771,7 +2223,11 @@
         "tbd": false,
         "performers_name": "Chris Rock",
         "state": "CO",
-        "url": "/5652086"
+        "url": "/5652086",
+        "price": [
+            33.0,
+            57.5
+        ]
     },
     {
         "id": 5661514,
@@ -1790,7 +2246,11 @@
         "tbd": false,
         "performers_name": "The Best of the Second City",
         "state": "IL",
-        "url": "/5661514"
+        "url": "/5661514",
+        "price": [
+            85.9,
+            54.3
+        ]
     },
     {
         "id": 5675113,
@@ -1809,7 +2269,11 @@
         "tbd": false,
         "performers_name": "Tenacious D",
         "state": "WA",
-        "url": "/5675113"
+        "url": "/5675113",
+        "price": [
+            39.0,
+            51.4
+        ]
     },
     {
         "id": 5526820,
@@ -1826,7 +2290,12 @@
         "tbd": false,
         "performers_name": "Comedy Cellar",
         "state": "NV",
-        "url": "/5526820"
+        "url": "/5526820",
+        "price": [
+            64.2,
+            24.8,
+            64.4
+        ]
     },
     {
         "id": 5665501,
@@ -1845,7 +2314,10 @@
         "tbd": false,
         "performers_name": "Chicago Underground Comedy",
         "state": "IL",
-        "url": "/5665501"
+        "url": "/5665501",
+        "price": [
+            60.3
+        ]
     },
     {
         "id": 5548112,
@@ -1864,7 +2336,13 @@
         "tbd": false,
         "performers_name": "Terry Fator",
         "state": "NV",
-        "url": "/5548112"
+        "url": "/5548112",
+        "price": [
+            31.7,
+            77.2,
+            72.4,
+            47.6
+        ]
     },
     {
         "id": 5525965,
@@ -1883,7 +2361,11 @@
         "tbd": false,
         "performers_name": "Carrot Top",
         "state": "NV",
-        "url": "/5525965"
+        "url": "/5525965",
+        "price": [
+            55.1,
+            69.4
+        ]
     },
     {
         "id": 5615537,
@@ -1902,7 +2384,11 @@
         "tbd": false,
         "performers_name": "Eddie Griffin",
         "state": "NV",
-        "url": "/5615537"
+        "url": "/5615537",
+        "price": [
+            20.6,
+            20.8
+        ]
     },
     {
         "id": 5655312,
@@ -1921,7 +2407,14 @@
         "tbd": false,
         "performers_name": "Brad Garrett",
         "state": "NV",
-        "url": "/5655312"
+        "url": "/5655312",
+        "price": [
+            31.7,
+            22.6,
+            60.7,
+            75.3,
+            84.8
+        ]
     },
     {
         "id": 5528864,
@@ -1938,7 +2431,10 @@
         "tbd": false,
         "performers_name": "Laugh Factory Las Vegas",
         "state": "NV",
-        "url": "/5528864"
+        "url": "/5528864",
+        "price": [
+            62.9
+        ]
     },
     {
         "id": 5617688,
@@ -1957,7 +2453,12 @@
         "tbd": false,
         "performers_name": "Laugh Factory",
         "state": "NV",
-        "url": "/5617688"
+        "url": "/5617688",
+        "price": [
+            39.8,
+            22.5,
+            37.9
+        ]
     },
     {
         "id": 5526980,
@@ -1974,7 +2475,13 @@
         "tbd": false,
         "performers_name": "Comedy Cellar",
         "state": "NV",
-        "url": "/5526980"
+        "url": "/5526980",
+        "price": [
+            30.3,
+            67.0,
+            70.4,
+            53.3
+        ]
     },
     {
         "id": 5529319,
@@ -1991,7 +2498,13 @@
         "tbd": false,
         "performers_name": "Laugh Factory Las Vegas",
         "state": "NV",
-        "url": "/5529319"
+        "url": "/5529319",
+        "price": [
+            76.9,
+            43.9,
+            43.0,
+            74.0
+        ]
     },
     {
         "id": 5502414,
@@ -2010,7 +2523,11 @@
         "tbd": false,
         "performers_name": "Mac King",
         "state": "NV",
-        "url": "/5502414"
+        "url": "/5502414",
+        "price": [
+            88.2,
+            21.9
+        ]
     },
     {
         "id": 5502412,
@@ -2029,7 +2546,12 @@
         "tbd": false,
         "performers_name": "Mac King",
         "state": "NV",
-        "url": "/5502412"
+        "url": "/5502412",
+        "price": [
+            26.8,
+            69.9,
+            21.6
+        ]
     },
     {
         "id": 5705782,
@@ -2048,7 +2570,13 @@
         "tbd": false,
         "performers_name": "Rob Schneider",
         "state": "Florida (fl)",
-        "url": "/5705782"
+        "url": "/5705782",
+        "price": [
+            26.4,
+            61.7,
+            28.2,
+            66.0
+        ]
     },
     {
         "id": 5590838,
@@ -2065,7 +2593,12 @@
         "tbd": false,
         "performers_name": "Louis Jose Houde",
         "state": "QC",
-        "url": "/5590838"
+        "url": "/5590838",
+        "price": [
+            35.4,
+            76.0,
+            48.6
+        ]
     },
     {
         "id": 5676606,
@@ -2084,7 +2617,11 @@
         "tbd": false,
         "performers_name": "Chelcie Lynn",
         "state": "KY",
-        "url": "/5676606"
+        "url": "/5676606",
+        "price": [
+            58.8,
+            84.6
+        ]
     },
     {
         "id": 5626197,
@@ -2103,7 +2640,33 @@
         "tbd": false,
         "performers_name": "Nikki Glaser",
         "state": "OH",
-        "url": "/5626197"
+        "url": "/5626197",
+        "price": [
+            77.1,
+            37.9
+        ]
+    },
+    {
+        "id": 5534795,
+        "title": "Lise Dion",
+        "category": "komedi",
+        "address": "6000 Boulevard Rome",
+        "location": {
+            "lat": 45.4413,
+            "lon": -73.4404
+        },
+        "venue": "L`Etoile Banque Nationale",
+        "images": {},
+        "date_time_local": "2022-06-22T20:00:00",
+        "tbd": false,
+        "performers_name": "Lise Dion",
+        "state": "QC",
+        "url": "/5534795",
+        "price": [
+            77.3,
+            62.3,
+            24.1
+        ]
     },
     {
         "id": 5689384,
@@ -2122,24 +2685,12 @@
         "tbd": false,
         "performers_name": "Game Grumps",
         "state": "NY",
-        "url": "/5689384"
-    },
-    {
-        "id": 5534795,
-        "title": "Lise Dion",
-        "category": "komedi",
-        "address": "6000 Boulevard Rome",
-        "location": {
-            "lat": 45.4413,
-            "lon": -73.4404
-        },
-        "venue": "L`Etoile Banque Nationale",
-        "images": {},
-        "date_time_local": "2022-06-22T20:00:00",
-        "tbd": false,
-        "performers_name": "Lise Dion",
-        "state": "QC",
-        "url": "/5534795"
+        "url": "/5689384",
+        "price": [
+            86.6,
+            23.4,
+            21.7
+        ]
     },
     {
         "id": 5711275,
@@ -2158,7 +2709,13 @@
         "tbd": false,
         "performers_name": "John Crist",
         "state": "NE",
-        "url": "/5711275"
+        "url": "/5711275",
+        "price": [
+            76.2,
+            79.7,
+            58.2,
+            34.5
+        ]
     },
     {
         "id": 5726821,
@@ -2175,7 +2732,11 @@
         "tbd": false,
         "performers_name": "Borgata Comedy Club",
         "state": "NJ",
-        "url": "/5726821"
+        "url": "/5726821",
+        "price": [
+            65.0,
+            84.9
+        ]
     },
     {
         "id": 5661499,
@@ -2194,6 +2755,11 @@
         "tbd": false,
         "performers_name": "The Best of the Second City",
         "state": "IL",
-        "url": "/5661499"
+        "url": "/5661499",
+        "price": [
+            28.1,
+            46.9,
+            38.9
+        ]
     }
 ]

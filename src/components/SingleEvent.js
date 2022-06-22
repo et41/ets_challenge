@@ -11,7 +11,6 @@ export default function SingleEvent({id}) {
     const price_sorted = price.sort((a, b) => b -a )
     const price_category = price_sorted.length
     const {isLoaded} = useLoadScript({
-        googleMapsApiKey:"AIzaSyC7xWTAgF-M6LkwS9XPgbO70ihlQ9n6EZg"
     })
 
     

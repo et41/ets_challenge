@@ -3,7 +3,7 @@ import data from "./../eventData.json";
 import "./styles/singleEvent.css"
 import Map from "./Map"
 import FacebookIcon from '@mui/icons-material/Facebook';
-
+import TwitterIcon from "@mui/icons-material/Twitter"
 
 import { GoogleMap, useLoadScript, Marker } from "@react-google-maps/api";
 
@@ -69,8 +69,12 @@ export default function SingleEvent({id}) {
                         )) : <p>Etkinlik Ücretsizdir</p>
                     }
                 </ul>
-
-            </div>
+                
+                <a className="twitter--share" href="twitter-share-button" href="https://twitter.com/intent/tweet?text=Hello%20world" ><TwitterIcon className="twitter--share" ></TwitterIcon></a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">                    
+                </script>
+                
+        </div>
             <img className="singleEvent--image" src={image} />
              
 

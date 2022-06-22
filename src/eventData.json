@@ -2768,5 +2768,691 @@
             54.6,
             55.9
         ]
+    },
+    {
+        "id": 5664643,
+        "title": "Iliza Shlesinger",
+        "category": "komedi",
+        "address": "377 Riverside Drive East",
+        "location": {
+            "lat": 42.3201,
+            "lon": -83.0337
+        },
+        "venue": "The Colosseum at Caesars Windsor",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/iliza-shlesinger-2ecf69/14496/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Iliza Shlesinger",
+        "state": "ON",
+        "url": "/5664643",
+        "price": [
+            54.8,
+            72.0
+        ]
+    },
+    {
+        "id": 5589319,
+        "title": "Dude Perfect",
+        "category": "komedi",
+        "address": "2100 Richard Arrington Jr. Blvd",
+        "location": {
+            "lat": 33.525,
+            "lon": -86.8112
+        },
+        "venue": "Legacy Arena at The BJCC",
+        "images": {},
+        "date_time_local": "2022-06-24T19:00:00",
+        "tbd": false,
+        "performers_name": "Dude Perfect",
+        "state": "AL",
+        "url": "/5589319",
+        "price": [
+            30.4,
+            30.2,
+            58.2,
+            85.3
+        ]
+    },
+    {
+        "id": 5676596,
+        "title": "Chelcie Lynn",
+        "category": "komedi",
+        "address": "1555 Madison Avenue",
+        "location": {
+            "lat": 35.138,
+            "lon": -90.01
+        },
+        "venue": "Minglewood Hall",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/chelcie-lynn-35f745/797251/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:00:00",
+        "tbd": false,
+        "performers_name": "Chelcie Lynn",
+        "state": "TN",
+        "url": "/5676596",
+        "price": [
+            60.4
+        ]
+    },
+    {
+        "id": 5689266,
+        "title": "Theo Von",
+        "category": "komedi",
+        "address": "13350 FSW Parkway",
+        "location": {
+            "lat": 26.5514,
+            "lon": -81.8873
+        },
+        "venue": "Barbara B Mann Performing Arts Hall",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/theo-von-cffd51/145993/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Theo Von",
+        "state": "FL",
+        "url": "/5689266",
+        "price": [
+            35.2,
+            39.7
+        ]
+    },
+    {
+        "id": 5648256,
+        "title": "Sal Vulcano",
+        "category": "komedi",
+        "address": "169 Ocean Blvd",
+        "location": {
+            "lat": 42.9096,
+            "lon": -70.811
+        },
+        "venue": "Hampton Beach Casino Ballroom",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/sal-vulcano-06b2bb/610362/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Sal Vulcano",
+        "state": "NH",
+        "url": "/5648256",
+        "price": [
+            36.9,
+            44.0
+        ]
+    },
+    {
+        "id": 5614179,
+        "title": "John Crist",
+        "category": "komedi",
+        "address": "6420 S.E. 15th Street",
+        "location": {
+            "lat": 35.4447,
+            "lon": -97.4145
+        },
+        "venue": "Hudiburg Chevrolet Center",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/john-crist-9017ed/255660/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:00:00",
+        "tbd": false,
+        "performers_name": "John Crist",
+        "state": "OK",
+        "url": "/5614179",
+        "price": [
+            86.6,
+            81.1,
+            23.1
+        ]
+    },
+    {
+        "id": 5046754,
+        "title": "Trevor Noah",
+        "category": "komedi",
+        "address": "350 Trolley Line Blvd",
+        "location": {
+            "lat": 41.4733,
+            "lon": -71.96
+        },
+        "venue": "Premier Theater at Foxwoods Resort Casino",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/trevor-noah-4bed68/19649/27188/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Trevor Noah",
+        "state": "CT",
+        "url": "/5046754",
+        "price": [
+            72.5
+        ]
+    },
+    {
+        "id": 5687887,
+        "title": "Ron Funches",
+        "category": "komedi",
+        "address": "127 East 23rd Street",
+        "location": {
+            "lat": 40.738,
+            "lon": -73.9829
+        },
+        "venue": "Gramercy Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/ron-funches-fc0534/106990/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Ron Funches",
+        "state": "NY",
+        "url": "/5687887",
+        "price": [
+            61.4,
+            62.4
+        ]
+    },
+    {
+        "id": 5687549,
+        "title": "Darrin Rose",
+        "category": "komedi",
+        "address": "27 Front Street East",
+        "location": {
+            "lat": 43.6474,
+            "lon": -79.375
+        },
+        "venue": "Jane Mallett Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/darrin-rose-15a94a/87499/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Darrin Rose",
+        "state": "ON",
+        "url": "/5687549",
+        "price": [
+            34.6,
+            79.8,
+            75.4,
+            77.4
+        ]
+    },
+    {
+        "id": 5570302,
+        "title": "Sebastian Maniscalco",
+        "category": "komedi",
+        "address": "527 N. Grand Blvd",
+        "location": {
+            "lat": 38.6389,
+            "lon": -90.2318
+        },
+        "venue": "The Fabulous Fox Theatre - STL",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/sebastian-maniscalco-55b31f/11090/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:00:00",
+        "tbd": false,
+        "performers_name": "Sebastian Maniscalco",
+        "state": "MO",
+        "url": "/5570302",
+        "price": [
+            75.0,
+            79.7,
+            48.6,
+            78.0,
+            43.8
+        ]
+    },
+    {
+        "id": 5675284,
+        "title": "Rodney Carrington",
+        "category": "komedi",
+        "address": "5218 Patrick Road",
+        "location": {
+            "lat": 43.1151,
+            "lon": -75.5892
+        },
+        "venue": "Turning Stone Resort Casino Event Center",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/rodney-carrington-1a4d19/5473/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:01:00",
+        "tbd": false,
+        "performers_name": "Rodney Carrington",
+        "state": "NY",
+        "url": "/5675284",
+        "price": [
+            31.0,
+            26.7
+        ]
+    },
+    {
+        "id": 5706054,
+        "title": "Finesse Mitchell",
+        "category": "komedi",
+        "address": "309 Curtis Mathes Way",
+        "location": {
+            "lat": 32.6808,
+            "lon": -97.1078
+        },
+        "venue": "Arlington Improv",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/finesse-mitchell-b89f9b/87735/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:30:00",
+        "tbd": false,
+        "performers_name": "Finesse Mitchell",
+        "state": "TX",
+        "url": "/5706054",
+        "price": [
+            65.0,
+            80.5,
+            28.8
+        ]
+    },
+    {
+        "id": 5687227,
+        "title": "Josh Wolf",
+        "category": "komedi",
+        "address": "618 Northwest Loop 410",
+        "location": {
+            "lat": 29.5184,
+            "lon": -98.5025
+        },
+        "venue": "Laugh Out Loud Comedy Club",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/josh-wolf-81afa7/14578/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:30:00",
+        "tbd": false,
+        "performers_name": "Josh Wolf",
+        "state": "TX",
+        "url": "/5687227",
+        "price": [
+            63.1,
+            67.5
+        ]
+    },
+    {
+        "id": 5682850,
+        "title": "Damon Wayans",
+        "category": "komedi",
+        "address": "7620 Katy Freeway",
+        "location": {
+            "lat": 29.7856,
+            "lon": -95.4649
+        },
+        "venue": "Houston Improv Comedy Club",
+        "images": {},
+        "date_time_local": "2022-06-24T19:30:00",
+        "tbd": false,
+        "performers_name": "Damon Wayans",
+        "state": "TX",
+        "url": "/5682850",
+        "price": [
+            22.3,
+            57.6
+        ]
+    },
+    {
+        "id": 5677751,
+        "title": "Marlon Wayans",
+        "category": "komedi",
+        "address": "520 Texas Ave",
+        "location": {
+            "lat": 29.76,
+            "lon": -95.37
+        },
+        "venue": "Bayou Music Center",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/marlon-wayans-8f03a6/5199/20832/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:30:00",
+        "tbd": false,
+        "performers_name": "Marlon Wayans",
+        "state": "TX",
+        "url": "/5677751",
+        "price": [
+            72.3,
+            53.9
+        ]
+    },
+    {
+        "id": 5639648,
+        "title": "Patton Oswalt",
+        "category": "komedi",
+        "address": "301 North 12th Street",
+        "location": {
+            "lat": 40.816,
+            "lon": -96.7047
+        },
+        "venue": "Lied Center Lincoln",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/patton-oswalt-7da3b3/5281/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T19:30:00",
+        "tbd": false,
+        "performers_name": "Patton Oswalt",
+        "state": "NE",
+        "url": "/5639648",
+        "price": [
+            57.6,
+            45.0,
+            33.8,
+            29.9,
+            60.7
+        ]
+    },
+    {
+        "id": 5569658,
+        "title": "Anjelah Johnson",
+        "category": "komedi",
+        "address": "118 S Palafox",
+        "location": {
+            "lat": 30.4107,
+            "lon": -87.2149
+        },
+        "venue": "Saenger Theatre - FL",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/anjelah-johnson-63e8dd/5326/21345/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Anjelah Johnson",
+        "state": "FL",
+        "url": "/5569658",
+        "price": [
+            23.7,
+            49.9
+        ]
+    },
+    {
+        "id": 5527566,
+        "title": "Tape Face",
+        "category": "komedi",
+        "address": "3475 Las Vegas Blvd S",
+        "location": {
+            "lat": 36.1193,
+            "lon": -115.172
+        },
+        "venue": "Harrahs Cabaret at Harrahs Las Vegas",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tape-face-838104/605146/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T18:00:00",
+        "tbd": false,
+        "performers_name": "Tape Face",
+        "state": "NV",
+        "url": "/5527566",
+        "price": [
+            51.7,
+            40.3
+        ]
+    },
+    {
+        "id": 5652090,
+        "title": "Chris Rock",
+        "category": "komedi",
+        "address": "2400 Mystic Lake Blvd.",
+        "location": {
+            "lat": 44.7133,
+            "lon": -93.4227
+        },
+        "venue": "Mystic Lake Casino Hotel",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/chris-rock-09d025/100595/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Chris Rock",
+        "state": "MN",
+        "url": "/5652090",
+        "price": [
+            61.3,
+            66.8,
+            88.4,
+            21.5,
+            37.6
+        ]
+    },
+    {
+        "id": 5657702,
+        "title": "Mike Epps",
+        "category": "komedi",
+        "address": "2500 Vanderbilt Beach Rd",
+        "location": {
+            "lat": 26.2426,
+            "lon": -81.7652
+        },
+        "venue": "Off the Hook Comedy Club",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/mike-epps-8cd533/5212/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:00:00",
+        "tbd": false,
+        "performers_name": "Mike Epps",
+        "state": "Florida (fl)",
+        "url": "/5657702",
+        "price": [
+            87.7,
+            49.7,
+            74.1,
+            29.9
+        ]
+    },
+    {
+        "id": 5661401,
+        "title": "Sam Morril",
+        "category": "komedi",
+        "address": "2035 E 4th Street",
+        "location": {
+            "lat": 41.4992,
+            "lon": -81.6901
+        },
+        "venue": "Hilarities 4th Street Theatre",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/sam-morril-aefba3/15906/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:30:00",
+        "tbd": false,
+        "performers_name": "Sam Morril",
+        "state": "OH",
+        "url": "/5661401",
+        "price": [
+            86.6
+        ]
+    },
+    {
+        "id": 5436327,
+        "title": "Jeff Dunham (21+)",
+        "category": "komedi",
+        "address": "2550 Golden Nugget Blvd",
+        "location": {
+            "lat": 30.2041,
+            "lon": -93.2637
+        },
+        "venue": "Grand Event Center - Golden Nugget Lake Charles",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/jeff-dunham-6e2b3d/5454/17394/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T20:30:00",
+        "tbd": false,
+        "performers_name": "Jeff Dunham",
+        "state": "LA",
+        "url": "/5436327",
+        "price": [
+            88.3,
+            44.5,
+            44.0
+        ]
+    },
+    {
+        "id": 5722904,
+        "title": "Josh Blue",
+        "category": "komedi",
+        "address": "2903 Columbia Pike",
+        "location": {
+            "lat": 38.8627,
+            "lon": -77.0873
+        },
+        "venue": "Arlington Cinema and Drafthouse",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/josh-blue-34a42d/8782/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:30:00",
+        "tbd": false,
+        "performers_name": "Josh Blue",
+        "state": "VA",
+        "url": "/5722904",
+        "price": [
+            90.4,
+            82.4,
+            88.9,
+            68.3,
+            46.1
+        ]
+    },
+    {
+        "id": 5555240,
+        "title": "Rich Little",
+        "category": "komedi",
+        "address": "3801 Las Vegas Boulevard",
+        "location": {
+            "lat": 36.1,
+            "lon": -115.17
+        },
+        "venue": "Laugh Factory Tropicana",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/rich-little-f689e9/10068/19558/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T18:30:00",
+        "tbd": false,
+        "performers_name": "Rich Little",
+        "state": "NV",
+        "url": "/5555240",
+        "price": [
+            68.7,
+            40.5,
+            30.0,
+            63.8
+        ]
+    },
+    {
+        "id": 5581440,
+        "title": "Tony Rock",
+        "category": "komedi",
+        "address": "900 Seaboard Street",
+        "location": {
+            "lat": 35.239,
+            "lon": -80.845
+        },
+        "venue": "Comedy Zone Charlotte",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tony-rock-dc278c/11524/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:45:00",
+        "tbd": false,
+        "performers_name": "Tony Rock",
+        "state": "NC",
+        "url": "/5581440",
+        "price": [
+            52.0,
+            50.8
+        ]
+    },
+    {
+        "id": 5670191,
+        "title": "Felipe Esparza",
+        "category": "komedi",
+        "address": "166 East Bridge Street",
+        "location": {
+            "lat": 40.4089,
+            "lon": -79.9149
+        },
+        "venue": "Pittsburgh Improv",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/felipe-esparza-4659eb/9988/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:45:00",
+        "tbd": false,
+        "performers_name": "Felipe Esparza",
+        "state": "PA",
+        "url": "/5670191",
+        "price": [
+            40.8,
+            43.4,
+            46.7,
+            60.8
+        ]
+    },
+    {
+        "id": 5731820,
+        "title": "Erin Jackson",
+        "category": "komedi",
+        "address": "2 Logan Square",
+        "location": {
+            "lat": 39.9653,
+            "lon": -75.1354
+        },
+        "venue": "Punch Line Philly",
+        "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/erin-jackson-c14a2e/707266/huge.jpg"
+        },
+        "date_time_local": "2022-06-24T21:45:00",
+        "tbd": false,
+        "performers_name": "Erin Jackson",
+        "state": "PA",
+        "url": "/5731820",
+        "price": [
+            67.7,
+            24.2,
+            88.2,
+            76.3,
+            89.1
+        ]
+    },
+    {
+        "id": 5527306,
+        "title": "Comedy Cellar",
+        "category": "komedi",
+        "address": "3700 W Flamingo Rd",
+        "location": {
+            "lat": 36.117,
+            "lon": -115.186
+        },
+        "venue": "Comedy Cellar at Rio Las Vegas",
+        "images": {},
+        "date_time_local": "2022-06-24T19:00:00",
+        "tbd": false,
+        "performers_name": "Comedy Cellar",
+        "state": "NV",
+        "url": "/5527306",
+        "price": [
+            60.5,
+            36.0,
+            75.5,
+            24.0
+        ]
+    },
+    {
+        "id": 5627491,
+        "title": "Ryan Hamilton",
+        "category": "komedi",
+        "address": "1395 E. Presidents Circle",
+        "location": {
+            "lat": 40.766,
+            "lon": -111.851
+        },
+        "venue": "Kingsbury Hall",
+        "images": {},
+        "date_time_local": "2022-06-24T20:00:00",
+        "tbd": false,
+        "performers_name": "Ryan Hamilton",
+        "state": "UT",
+        "url": "/5627491",
+        "price": [
+            67.1,
+            53.9
+        ]
     }
 ]

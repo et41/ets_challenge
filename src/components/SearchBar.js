@@ -9,7 +9,7 @@ export default function SearchBar({value, onChange}) {
 		<div className={value.length > 0 ? "searchbar--main--listing" : "searchbar--main"}>
 		   <span className="search--icon">🔎︎</span>
 		   <input 
-			   class="searchbar"
+			   className="searchbar"
 			   type="search" name="Search"
 			   value={value}
 			   placeholder="İstediğiniz etkinliği arayın..." 

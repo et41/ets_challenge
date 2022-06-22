@@ -14,7 +14,7 @@ export default function Category({value}) {
 		<div className="category--main">		
 			{categories.map(data_item=> 
 			<div onClick={() => clickHandler(data_item)}>
-					<h2>{data_item}</h2>
+					<h2 >{data_item}</h2>
 			</div>
 			)}
 		</div>

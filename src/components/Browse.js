@@ -8,7 +8,6 @@ import FilteredListByState from "./FilteredListByState"
 import FilteredListByCategory from "./FilteredListByState"
 import FilteredListByVenue from "./FilteredListByVenue";
 import moment from "moment"
-import Slide from "./Slide"
 
 export default function Browse (  ) {
 	const [calendarButton, setCalendarButton] = useState(false);

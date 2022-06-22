@@ -1,12 +1,11 @@
 import React from "react";
-import { Link , useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import data from "./../eventData.json";
 import "./styles/concerts.css"
 import CardForCategory from "./CardForCategory";
 
 export default function Concerts() {
     const navigate = useNavigate()
-    const defaultImage = "https://c.stocksy.com/a/oxDF00/z9/3628600.jpg"
 
 	    const goback = () => {
         navigate("/", {replace: true});

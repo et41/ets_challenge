@@ -1,6 +1,5 @@
 import React from "react";
-import { Link, useNavigate } from "react-router-dom";
-import data from "./../eventData.json";
+import { Link } from "react-router-dom";
 import { dateConverter } from "../dateConverter";
 import "./styles/concerts.css"
 

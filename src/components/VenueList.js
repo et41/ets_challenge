@@ -1,10 +1,8 @@
 import React from "react";
-import { Link , useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import data from "./../eventData.json";
 import "./styles/concerts.css"
-import CardForCategory from "./CardForCategory";
 import { dateConverter } from "../dateConverter";
-import { rgbToHex } from "@mui/material";
 
 export default function VenueList({id}) {
     const defaultImage = "https://c.stocksy.com/a/oxDF00/z9/3628600.jpg"

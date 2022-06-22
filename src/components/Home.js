@@ -1,12 +1,10 @@
 
 import { useState } from "react";
-import { Routes, Route, Link} from "react-router-dom"
 import "./../styles.css";
 import Navbar from "./Navbar";
 import Header from "./Header"
 import SearchBar from "./SearchBar"
 import Browse from "./Browse"
-import List from "./List"
 import Category from "./Category"
 
 

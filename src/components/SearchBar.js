@@ -1,7 +1,5 @@
 import "./styles/dropdown.css";
-import {useState} from "react";
 import List from "./List";
-import Category from "./Category"
 
 export default function SearchBar({value, onChange}) { 
 

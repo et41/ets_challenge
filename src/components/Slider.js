@@ -3,7 +3,6 @@ import "./styles/slider.css";
 import data from "./../eventData.json";
 import BtnSlider from "./BtnSlider";
 export default function Slider() {
-    const defaultImage = "https://c.stocksy.com/a/oxDF00/z9/3628600.jpg"
     let imageList = [];
     let imageEventList = []
     const [slideIndex, setSlideIndex] = useState(1)

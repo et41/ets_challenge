@@ -2,10 +2,9 @@ import { useNavigate } from "react-router-dom";
 import data from "./../eventData.json";
 import "./styles/singleEvent.css"
 import Map from "./Map"
-import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from "@mui/icons-material/Twitter"
 
-import { GoogleMap, useLoadScript, Marker } from "@react-google-maps/api";
+import {  useLoadScript} from "@react-google-maps/api";
 
 export default function SingleEvent({id}) {
     const singleData = data.filter(a => a.id === id)

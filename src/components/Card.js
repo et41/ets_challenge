@@ -18,6 +18,7 @@ export default function Card({item}) {
 				<p>{dateConverter(item.date_time_local)[1]}</p>
 				<p>{item.venue}</p>
 				<p>{price[0]} TL</p>
+	
 			</li>
 		</Link>
 	)

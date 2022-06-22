@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import data from "./../eventData.json";
 import { dateConverter } from "../dateConverter";
 import "./styles/concerts.css"
@@ -17,14 +17,16 @@ export default function CardForCategory({select}) {
                 {
                 select.map(item => (
                 <li className="concerts--single" href="/" key={item.id}>
-
+                    <Link className="concerts--single" to={`/${item.id}`}>
                     <img className="concerts--single-image" src={checkImage(item.images.huge) ? item.images.huge : defaultImage} />
                     {item.title}
                     <p>{dateConverter(item.date_time_local)[0]}</p>
                     <p>{dateConverter(item.date_time_local)[1]}</p>
                     <p>{item.venue}</p>
                     <p>{item.price.sort((a,b) => a - b )[0]} TL</p>
-                </li>))}
+                    </Link>
+                </li>
+                ))}
             </ul>
     )
 }

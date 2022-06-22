@@ -2,6 +2,8 @@ import { useNavigate } from "react-router-dom";
 import data from "./../eventData.json";
 import "./styles/singleEvent.css"
 import Map from "./Map"
+import FacebookIcon from '@mui/icons-material/Facebook';
+
 
 import { GoogleMap, useLoadScript, Marker } from "@react-google-maps/api";
 
@@ -24,6 +26,13 @@ export default function SingleEvent({id}) {
         navigate("/", {replace:true})
         
     }
+
+    let clickHandlerVenue = (e) => {
+        console.log("addddrsssss", e)
+        let selectedVenue = e.target.innerText.replace(/ /g,'').toLowerCase()
+        navigate(`/${selectedVenue}`, {id:singleData.venue})
+        
+    }
     return (
         <>
         <div className="singleEvent--main">
@@ -42,7 +51,7 @@ export default function SingleEvent({id}) {
                 <p className="singleEvent--state">
                     {singleData[0].state}
                 </p>
-                <p className="singleEvent--venue">
+                <p style={{textDecoration:"underline",color:"red",textDecorationColor:"red", cursor:"pointer"}} onClick={clickHandlerVenue} className="singleEvent--venue">
                     {singleData[0].venue}
                 </p>
             </div>

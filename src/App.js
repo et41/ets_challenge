@@ -9,6 +9,7 @@ import Theatres from "./components/Theatres";
 import Comedies from "./components/Comedies";
 import data from "./eventData.json";
 import SingleEvent from "./components/SingleEvent";
+import VenueList from "./components/VenueList";
 
 
 export default function App() {
@@ -20,7 +21,11 @@ export default function App() {
 		console.log("input value", searchValue)
 		setSearchText(prev => searchValue);
 	}
+
 	const idList = data.map(e => <Route path={`/${e.id}`} element={<SingleEvent id={e.id} />} />)
+
+	//replace whitespace and turn all string to lowercase
+	const venueList = data.map(e => <Route path={`/${e.venue.replace(/ /g,'').toLowerCase()}`} element={<VenueList id={e.id} />} /> )
 	return (
 		<Routes>
 
@@ -30,6 +35,7 @@ export default function App() {
 				<Route path="/tiyatro" element={<Theatres />} />
 				<Route path="/komedi" element={<Comedies />} />
 				{idList}
+				{venueList}
 		</Routes>
 	)
 }

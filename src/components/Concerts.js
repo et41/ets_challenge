@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+import { Link , useNavigate } from "react-router-dom";
 import data from "./../eventData.json";
 import "./styles/concerts.css"
 import CardForCategory from "./CardForCategory";
@@ -19,7 +19,6 @@ export default function Concerts() {
         })
 
     
-        console.log("concert list", concertList)
     return (
         <div className="concerts--main" >
               <div className="concerts--header">

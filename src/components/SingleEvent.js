@@ -52,7 +52,7 @@ export default function SingleEvent({id}) {
                 <ul>
                     {price_category > 0 ? 
                         price_sorted.map((price, i) => (
-                            <div className="singleEvent--price-categoty">
+                            <div className="singleEvent--price-category">
                                 <p>{i + 1}. Kategori Fiyatı</p>
                                 <hr />
                                 <li>{price} TL</li>

@@ -6,9 +6,9 @@
     font-size: 0.8rem;
 }
 
-.singleEvent--main > h1 {
+.singleEvent--main h1 {
     width: 100%;
-    margin:0;
+    margin:auto;
 
 }
 .singleEvent--price--map {
@@ -37,10 +37,11 @@
 }
 
 .singleEvent--button {
-    margin: 0;
     background-color: #008CBA;
     border-radius: 20px;
     margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -63,8 +64,25 @@
 }
 
 @media only screen and (max-width: 600px) { 
-    .singleEvent--price {
+    .singleEvent--price>ul {
         font-size: 10px;
+        margin: 0;
+        padding: 0;
     }
-
+    .singleEvent--price-category {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    .singleEvent--image {
+        margin-top: 10px;
+        width:50%;
+    }
+    .singleEvent--header h1 {
+        margin: auto;
+        font-weight: 100;
+    }
+    .singleEvent--button {
+        margin-top: 10px;
+        margin-bottom: 10px;    }
 }

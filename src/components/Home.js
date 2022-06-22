@@ -28,10 +28,12 @@ export default function App() {
 			<Header />
 			<SearchBar value={searchText} onChange={changeHandler} />
 				</div>
-		<Browse	/>
-		<Category />
+				<Browse	/>
 
-    </div>
+		<Category/>
+	
+
+		</div>
   );
 }
 

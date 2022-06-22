@@ -124,8 +124,8 @@ export default function Browse (  ) {
 			<div className="calendar" >
           				<form onSubmit={handleSubmitCalendar} className={"calendar--form-active" }> 
 					<input onChange={changeHandlerCalendar} onClick={clickHandlerCalender} value={eventDate} className="calendar--date" type="date" />
-					<input className="calendar--submit" type="submit" />
-						
+					{/*<input className="calendar--submit" type="submit" />
+*/}
 				</form>
 			</div>
 		<div className="category">

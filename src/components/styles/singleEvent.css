@@ -13,7 +13,7 @@
 }
 .singleEvent--price--map {
     display: flex;
-
+    
     height: 100%;
 }
 .singleEvent--ul {
@@ -26,27 +26,45 @@
 }
 
 .singleEvent--map {
-    height:20rem;
+    height:23rem;
     display: grid;
-    width: 50%;
+    width: 100%;
 }
 
 .singleEvent--price {
     width: 50%;
+    margin-top:10px;
 }
 
 .singleEvent--button {
     margin: 0;
     background-color: #008CBA;
-    border: none;
+    border-radius: 20px;
+    margin-right: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
     font-size: 16px;
     cursor: pointer;
     transition: 300ms;
+    width:30px;
+    height: 30px;
+    font-size: 12px;
 }
-
+.singleEvent--image {
+    display: block;
+    margin-left: auto;
+    border-radius: 40px;
+    width: 20rem;
+    height: 25rem;
+}
 .singleEvent--header {
     display: flex;
+}
+
+@media only screen and (max-width: 600px) { 
+    .singleEvent--price {
+        font-size: 10px;
+    }
+
 }

@@ -1,13 +1,14 @@
 .dropdown--main--active{
 	position:absolute;
 	width:50%;
-	height:40%;
+	height:50%;
 	color:black;
 	background-color:white;
 	margin-top:50px;
 	width:var(--width-searchbar) ;
 	background-color:white;
 	overflow: auto;
+	z-index: 1;
 
 }
 
@@ -25,6 +26,10 @@
 	color: red;
 }
 
+.ul--searchlist > li {
+	list-style-type:none;
+}
+
 
 .dropdown--main--active>ul>li {
 	margin:20px;
@@ -36,7 +41,7 @@
 	}
 	.dropdown--main--active {
 		width: var(--width-searchbar-resp);
-		max-height:50%;
+		height: 50%;
 			
 	}
 	.dropdown--main--active>ul {

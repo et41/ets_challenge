@@ -21,10 +21,14 @@ export default function Theatres() {
     
     return (
         <div className="concerts--main" >
-                <h1>tiyatrolar</h1>
-                <button onClick={goback} className="concert--button-back">Ana Sayfa</button>
-                <CardForCategory select={concertList} />
-            </div>
+        <div className="concerts--header">
+
+          <div onClick={goback} className="concert--button-back">Ana Sayfa</div>
+          <h1>tiyatrolar</h1>
+
+          </div>
+          <CardForCategory select={concertList} />
+      </div>
     )
 }
 

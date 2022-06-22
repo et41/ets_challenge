@@ -112,6 +112,7 @@ body {
 .searchbar--main {
 	margin-top: 30px;
   	width:80%;
+    margin-right: 0;
   }
   
 
@@ -178,4 +179,7 @@ body {
     padding: 0;
     height: 100px;
     margin: 10px;
+}
+.navbar--ul li {
+  cursor:default;
 }

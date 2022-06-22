@@ -22,9 +22,13 @@ export default function Concerts() {
         console.log("concert list", concertList)
     return (
         <div className="concerts--main" >
-                <h1>komedi</h1>
-                <button onClick={goback} className="concert--button-back">Ana Sayfa</button>
-                <CardForCategory select={concertList} />
-            </div>
+        <div className="concerts--header">
+
+          <div onClick={goback} className="concert--button-back">Ana Sayfa</div>
+          <h1>komedi</h1>
+
+          </div>
+          <CardForCategory select={concertList} />
+      </div>
     )
 }

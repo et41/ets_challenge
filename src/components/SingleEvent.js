@@ -10,7 +10,10 @@ export default function SingleEvent({id}) {
     const price = data.filter(a => a.id === id)[0]["price"];
     const price_sorted = price.sort((a, b) => b -a )
     const price_category = price_sorted.length
+    const image = singleData[0].images.huge;
+    console.log("image", image)
     const {isLoaded} = useLoadScript({
+        googleMapsApiKey:process.env.REACT_APP_API_KEY
     })
 
     
@@ -59,15 +62,17 @@ export default function SingleEvent({id}) {
                 </ul>
 
             </div>
-   <div className="singleEvent--map" >
+            <img className="singleEvent--image" src={image} />
+             
+
+
+            </div>
+<div className="singleEvent--map" >
                     {isLoaded && <Map id={id}/> }
 
             </div>
 
- 
 
-
-            </div>
                              </div>
         </>
     )

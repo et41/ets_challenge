@@ -7,7 +7,7 @@ import data from "./../eventData.json"
 export default function Map ({id}) {
 
     let lat_lon = data.filter(e => e.id === id)[0].location
-
+    
 
     return (
         <GoogleMap zoom={13} center={{lat:lat_lon.lat, lng: lat_lon.lon}} >

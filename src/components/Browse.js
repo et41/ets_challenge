@@ -1,5 +1,4 @@
 import {useState} from "react";
-import CityOption from "./CityOption"
 import data from "./../eventData.json";
 import "./styles/calendar.css";
 import {postalCodetoCity, uniqueCities, uniqueVenues} from "./../city_list.js"
@@ -7,7 +6,9 @@ import FilteredList from "./FilteredList"
 import FilteredListByState from "./FilteredListByState"
 import FilteredListByCategory from "./FilteredListByState"
 import FilteredListByVenue from "./FilteredListByVenue";
-import moment from "moment"
+
+import Slider from "./Slider";
+
 
 export default function Browse (  ) {
 	const [calendarButton, setCalendarButton] = useState(false);
@@ -186,6 +187,9 @@ export default function Browse (  ) {
 		{filterOption === "state" && <FilteredListByState value={listByState} />}
 		{filterOption === "category" && <FilteredListByCategory value={listByCategory} />}
 		{filterOption === "venue" && <FilteredListByVenue value={listByVenue} />}
+		<h2>Önemli Etkinlikler</h2>
+		<Slider />
+
 	</div>
 
 	)

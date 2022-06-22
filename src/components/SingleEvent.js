@@ -13,7 +13,6 @@ export default function SingleEvent({id}) {
     const price_sorted = price.sort((a, b) => b -a )
     const price_category = price_sorted.length
     const image = singleData[0].images.huge;
-    console.log("image", image)
     const {isLoaded} = useLoadScript({
         googleMapsApiKey:process.env.REACT_APP_API_KEY
     })
@@ -28,7 +27,6 @@ export default function SingleEvent({id}) {
     }
 
     let clickHandlerVenue = (e) => {
-        console.log("addddrsssss", e)
         let selectedVenue = e.target.innerText.replace(/ /g,'').toLowerCase()
         navigate(`/${selectedVenue}`, {id:singleData.venue})
         
@@ -86,7 +84,7 @@ export default function SingleEvent({id}) {
             </div>
 
 
-                             </div>
+            </div>
         </>
     )
 }

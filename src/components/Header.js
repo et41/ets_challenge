@@ -1,3 +1,4 @@
+import Slider from "./Slider"
 export default function Header () {
 	return (
 		<div className="header">

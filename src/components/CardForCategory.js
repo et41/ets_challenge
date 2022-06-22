@@ -6,7 +6,6 @@ import "./styles/concerts.css"
 
 export default function CardForCategory({select}) {
     const defaultImage = "https://c.stocksy.com/a/oxDF00/z9/3628600.jpg"
-
     let checkImage = (img) => {
 		if(img) return true;
 	}
@@ -24,7 +23,7 @@ export default function CardForCategory({select}) {
                     <p>{dateConverter(item.date_time_local)[0]}</p>
                     <p>{dateConverter(item.date_time_local)[1]}</p>
                     <p>{item.venue}</p>
-                    <p>"cost"</p>
+                    <p>{item.price.sort((a,b) => a - b )[0]} TL</p>
                 </li>))}
             </ul>
     )

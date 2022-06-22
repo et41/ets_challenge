@@ -13,16 +13,39 @@
     height: 50px;
 }
 
-.calendar--date {
+.calendar--date {/*
     border-radius: 20px;
     border: none;
-    width: 5rem;
+    width: 90%;
     height: 2em;
     border: 1px solid rgb(24,24,24);
     font-size: 12px;
     margin-top: 12px;
-    margin-left: 5px;
+    margin-left: 5px;*/
+	position: relative;
+    width: 67%;
+    height: 50px;
+    margin: 9px;
 }
+
+@media only screen and (max-width:600px) {
+	.calendar--date {
+		width: 54%;
+		position: relative;
+		width: 67%;
+		height: 27px;
+		margin: 8px;
+	}
+}
+@media only screen and (max-width:400px) {
+	.calendar--date {
+		width: 38%;
+
+	}
+	
+}
+
+
 .calendar--submit {
 	position:absolute;
 	height:100%;
@@ -43,14 +66,18 @@
 	margin-left:10px;
 }
 .location--dropdown-active {
-		    position: absolute;
+	position: absolute;
     /* min-width: 160px; */
-    width: 39%;
-    background-color: blue;
-    margin-top: 0;
+    width: 72%;
+    background-color: white;
+    border: 1px solid rgb(24,24,24);
+    margin-top: -9px;
     margin-left: 10px;
-    z-index:1;
-    cursor:default;
+    z-index: 1;
+    height: 40%;
+    cursor: default;
+    overflow: auto;
+    overflow-x: hidden;
 }
 
 .calendar {
@@ -74,12 +101,12 @@
 	height: 50px;
 }
 .location--input {
-	border-radius: 20px 20px 20px 20px;
+	/*border-radius: 20px 20px 20px 20px;*/
     border: none;
     /* width: 13rem; */
     height: 92%;
     border: 1px solid rgb(24,24,24);
-    /* font-size: 18px; */
+	font-size: 10px;
     cursor: default;
 }
 .location--submit {

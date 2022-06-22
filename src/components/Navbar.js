@@ -22,7 +22,6 @@ export default function Navbar() {
             />
             <li onClick={concertPage}>Konser</li>
             <li onClick={theatrePage}>Tiyatro</li>
-            <li>Fazlası...</li>
           </ul>
         </div>
         <div className="navbar--right">

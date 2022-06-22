@@ -18,18 +18,37 @@ export default function Browse (  ) {
 	const [selectedState, setSelectedState] = useState("Şehir Seçin");
 	const [eventDate, setEventDate] = useState();
 	const [filterOption, setFilterOption] = useState("");
-	const [selectedCategory, setSelectedCategory] = useState("Kategori Seçin");
+	const [selectedCategory, setSelectedCategory] = useState("Kategoriye Göre");
 	const [selectedVenue, setSelectedVenue] = useState("Mekan Seçin")
 	const categories = ["konser", "spor", "tiyatro", "komedi"];
 	const venues = uniqueVenues();
 
-
+	let setOtherButtonsInactive = () =>  {
+		if(filterOption === "state") {
+			setCalendarButton(false)
+			setCategoryButton(false)
+			setVenueButton(false)
+		} else if (filterOption === "date") {
+			setCategoryButton(false)
+			setVenueButton(false)
+			setLocationButton(false)
+		} else if (filterOption === "category") {
+			setCalendarButton(false)
+			setLocationButton(false)
+			setVenueButton(false)
+		} else if (filterOption === "venue") {
+			setCalendarButton(false)
+			setLocationButton(false)
+			setCalendarButton(false)
+		}
+	}
 	let clickHandlerCalender = (event) => {
 	//	setCalendarButton(prev => !prev);
 	}
 
 	let clickHandlerLocation = (event) => {
 		setLocationButton(prev => !prev);
+
 		setFilterOption(prev => "state");
 	}
 
@@ -51,7 +70,9 @@ export default function Browse (  ) {
 
 	let clickHandlerCategory = () => {
 		setCategoryButton(prev => !prev)
+
 		setFilterOption(prev => "category")
+		
 	}
 
 	let hoverHandlerCategory = (event) => {
@@ -61,7 +82,9 @@ export default function Browse (  ) {
 
 	let clickHandlerVenue = () => {
 		setFilterOption(prev => "venue")
+
 		setVenueButton(prev => !prev)
+		
 	}
 
 	let hoverHandlerVenue = (event) => {
